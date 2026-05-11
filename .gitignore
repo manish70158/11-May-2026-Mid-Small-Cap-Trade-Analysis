@@ -35,8 +35,6 @@ wheels/
 Thumbs.db
 
 # Generated output files
-*.csv
-*_results_*.csv
 *_output.txt
 comprehensive_screening_output.txt
 
