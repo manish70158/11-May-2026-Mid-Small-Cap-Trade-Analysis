@@ -1,5 +1,6 @@
 # Python
 venv/
+venv_*/
 __pycache__/
 *.py[cod]
 *$py.class
@@ -33,5 +34,26 @@ wheels/
 .DS_Store
 Thumbs.db
 
-# Data files (optional - uncomment if you don't want to commit CSV results)
-# *.csv
+# Generated output files
+*.csv
+*_results_*.csv
+*_output.txt
+comprehensive_screening_output.txt
+
+# Generated reports and documentation
+ANALYSIS_SUMMARY.txt
+COMPREHENSIVE_INDIA_SCREENING_REPORT.md
+ORDER_BOOK_ENHANCEMENT_README.md
+QUICK_REFERENCE_TOP_10.md
+UPDATE_SUMMARY.md
+india_midsmall_screening_report.md
+
+# Generated skill files
+*.skill
+
+# Log files
+*.log
+
+# Temporary/test scripts
+correct_constituents.py
+fetch_correct_constituents.py
