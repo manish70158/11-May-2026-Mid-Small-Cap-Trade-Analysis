@@ -1,0 +1,9 @@
+{
+  "autoApprove": {
+    "bash": true,
+    "edit": true,
+    "write": true,
+    "task": true
+  },
+  "confirmBeforeEnteringPlanMode": false
+}

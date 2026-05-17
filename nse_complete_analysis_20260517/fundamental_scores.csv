@@ -1,0 +1,1555 @@
+symbol,name,sector,fundamental_score,valuation_score,growth_score,quality_score,health_score,pe_ratio,pe_discount_pct,revenue_growth,earnings_growth,roe
+NITTAGELA,Nitta Gelatin India Limited,Basic Materials,24,7,8,5,4,12.269831,49.9,0.246,0.736,0.20804001
+MASTERTR,Master Trust Limited,Financial Services,24,8,10,4,2,9.579814,47.9,0.479,0.428,0.1729
+GESHIP,The Great Eastern Shipping Company Limited,Industrials,24,8,10,4,2,7.4569764,74.5,0.519,1.875,0.18849
+LUPIN,Lupin Limited,Healthcare,23,6,10,5,2,19.53149,44.6,0.319,0.89,0.26907
+AFIL,AFIL,Financial Services,23,8,10,3,2,10.181818,44.6,0.466,0.642,0.10501
+MUTHOOTFIN,Muthoot Finance Limited,Financial Services,23,6,10,5,2,12.546983,31.7,0.537,1.267,0.30406
+KPIGREEN,KPI Green Energy Limited,Utilities,23,7,10,4,2,17.481297,47.7,0.423,0.472,0.17253
+NAHARCAP,Nahar Capital and Financial Services Limited,Financial Services,23,8,10,2,3,6.442673,64.9,2.005,1.018,
+INFOBEAN,InfoBeans Technologies Limited,Technology,23,6,10,5,2,16.955109,37.4,0.374,1.05,0.2324
+EMMVEE,EMMVEE,Technology,22,5,10,5,2,15.017462,44.5,0.623,0.625,0.51116
+BAIDFIN,Baid Finserv Limited,Financial Services,22,8,10,2,2,8.5220585,53.6,0.597,0.282,0.07272
+HEROMOTOCO,Hero MotoCorp Limited,Consumer Cyclical,22,6,10,4,2,17.667889,35.3,0.302,0.257,0.28027
+MAHABANK,Bank of Maharashtra,Financial Services,22,7,10,5,0,8.554824,53.5,0.382,0.364,0.22659999
+CNL,Creative Newtech Limited,Technology,22,7,10,3,2,16.582922,38.7,0.831,1.571,0.20183
+MONARCH,Monarch Networth Capital Limited,Financial Services,22,5,10,5,2,14.947632,18.7,0.582,0.841,0.20495
+INDSWFTLAB,Ind-Swift Laboratories Limited,Healthcare,21,8,10,2,1,3.8819945,89.0,16.411,1073.144,
+KILITCH,Kilitch Drugs (India) Limited,Healthcare,21,7,10,2,2,19.575796,44.5,0.472,0.265,0.12361
+CEINSYS,Ceinsys Tech Limited,Industrials,21,6,8,5,2,15.897264,45.6,0.222,0.681,0.24595
+BIRLAMONEY,Aditya Birla Money Limited,Financial Services,21,5,10,5,1,13.490821,26.6,0.429,1.006,0.21804
+MODINATUR,Modi Naturals Limited,Consumer Defensive,21,6,10,3,2,14.534683,39.6,0.283,1.479,0.34243
+CCCL,Consolidated Construction Consortium Limited,Industrials,21,6,5,5,5,8.418079,71.2,1.295,,0.26556998
+GARUDA,GARUDA,Industrials,21,6,10,2,3,15.675675,46.4,1.25,1.476,
+MGEL,Mangalam Global Enterprise Limited,Consumer Defensive,21,7,10,3,1,9.905109,58.9,0.982,1.386,0.20118
+DUCON,Ducon Infratechnologies Limited,Industrials,21,8,10,1,2,8.461538,71.1,5.902,0.75,0.10106
+AUSOMENT,AuSom Enterprise Limited,Financial Services,21,8,10,0,3,6.2386413,66.1,33.828,11.583,
+OMAXAUTO,Omax Autos Limited,Consumer Cyclical,21,8,10,1,2,11.87695,56.5,0.594,34.879,0.11191
+EXPLEOSOL,Expleo Solutions Limited,Technology,21,7,8,3,3,12.919766,52.3,0.168,0.732,0.17559
+CANFINHOME,Can Fin Homes Limited,Financial Services,21,7,8,4,2,10.416258,43.3,0.243,0.478,0.19655001
+JPOLYINVST,Jindal Poly Investment and Finance Company Limited,Financial Services,21,8,10,2,1,1.2238382,93.3,122.309,19.995,
+AKI,AKI India Limited,Consumer Cyclical,20,8,10,0,2,12.868421,52.9,0.674,2.5,0.029089998
+BSE,BSE Limited,Financial Services,20,0,10,5,5,75.75459,0.0,1.051,0.64,0.36003
+GHCLTEXTIL,GHCL Textiles Limited,Consumer Cyclical,20,8,10,0,2,14.694631,46.2,0.282,0.94,0.047870003
+CHEVIOT,Cheviot Company Limited,Consumer Cyclical,20,8,10,1,1,9.979957,63.5,0.285,4.039,
+BAJAJHLDNG,Bajaj Holdings & Investment Limited,Financial Services,20,7,5,3,5,11.90479,35.2,-0.483,0.493,0.12624
+PALASHSECU,Palash Securities Limited,Consumer Defensive,20,8,5,2,5,7.9661417,66.9,0.766,,0.02155
+JMFINANCIL,JM Financial Limited,Financial Services,20,8,10,2,0,10.4457445,43.2,0.314,0.5,
+KSOLVES,Ksolves India Limited,Technology,20,3,10,5,2,19.42029,28.2,0.291,0.658,1.36942
+NAGREEKCAP,Nagreeka Capital & Infrastructure Ltd.,Financial Services,20,8,10,2,0,2.1117604,88.5,4.638,0.255,
+ALMONDZ,Almondz Global Securities Limited,Financial Services,20,8,10,2,0,8.736841,52.5,0.567,4.214,
+MASFIN,MAS Financial Services Limited,Financial Services,20,5,10,3,2,15.603322,15.1,1.063,0.251,0.13217
+NIITMTS,NIIT Learning Systems Limited,Consumer Defensive,20,7,8,3,2,15.220729,36.8,0.222,0.588,0.17998
+M&MFIN,Mahindra & Mahindra Financial Services Limited,Financial Services,20,5,10,3,2,15.364159,16.4,0.403,0.826,0.11856
+INTLCONV,International Conveyors Limited,Industrials,20,8,10,2,0,6.5147543,77.7,0.355,0.481,
+LGBBROSLTD,L.G. Balakrishnan & Bros Limited,Consumer Cyclical,20,7,8,3,2,15.898359,41.8,0.218,2.794,0.15689
+KPEL,K.P. Energy Limited,Industrials,20,5,10,4,1,13.022736,55.5,0.575,0.693,0.43485
+NORTHARC,Northern Arc Capital Limited,Financial Services,20,8,10,2,0,11.32501,38.4,0.281,0.33,
+DHANBANK,Dhanlaxmi Bank Limited,Financial Services,19,8,10,1,0,12.000001,34.7,0.337,0.298,0.07162
+GANDHITUBE,Gandhi Special Tubes Limited,Industrials,19,6,8,2,3,14.859613,49.2,0.218,0.299,
+ANDHRSUGAR,The Andhra Sugars Limited,Basic Materials,19,8,8,0,3,14.717533,39.9,0.236,26.5,
+MANALIPETC,Manali Petrochemicals Limited,Basic Materials,19,8,10,1,0,8.639445,64.7,0.26,11.839,
+DRCSYSTEMS,DRC Systems India Limited,Technology,19,7,10,2,0,11.560606,57.3,0.604,0.423,
+MCX,Multi Commodity Exchange of India Limited,Financial Services,19,0,10,5,4,64.936806,0.0,2.0,2.912,0.37883
+MOKSH,Moksh Ornaments Limited,Consumer Cyclical,19,7,10,0,2,9.768,64.3,0.562,1.969,0.082150005
+ARIHANT,Arihant Foundations & Housing Limited,Real Estate,19,7,10,2,0,13.315503,47.6,0.968,0.947,
+ENGINERSIN,Engineers India Limited,Industrials,19,5,10,2,2,17.8934,38.8,0.583,2.186,
+CHAMBLFERT,Chambal Fertilisers and Chemicals Limited,Basic Materials,19,7,7,3,2,9.224934,62.4,0.149,0.302,0.20451
+OFSS,Oracle Financial Services Software Limited,Technology,19,1,8,5,5,29.850994,0.0,0.203,0.306,0.32606
+CGCL,Capri Global Capital Limited,Financial Services,19,3,10,4,2,18.28162,0.0,0.72,0.371,0.16496
+COALINDIA,Coal India Limited,Energy,19,7,5,5,2,9.157916,33.4,0.162,0.129,0.28124002
+HINDCOMPOS,Hindustan Composites Limited,Consumer Cyclical,19,6,8,0,5,19.957264,27.0,0.176,0.928,0.0279
+HINDZINC,Hindustan Zinc Limited,Basic Materials,19,3,10,5,1,19.492664,20.4,0.408,0.675,0.76941
+BCG,Brightcom Group Limited,Communication Services,19,8,10,1,0,2.1313362,92.2,0.333,0.272,
+CENTRALBK,Central Bank of India,Financial Services,18,8,7,3,0,6.8300004,62.8,0.123,0.261,0.13226
+CORALFINAC,Coral India Finance and Housing Limited,Real Estate,18,8,8,2,0,9.075419,64.3,0.247,0.603,
+AUTOIND,Autoline Industries Limited,Consumer Cyclical,18,5,10,3,0,21.579882,21.0,0.499,3.653,0.21987
+LAXMIINDIA,LAXMIINDIA,Financial Services,18,6,10,2,0,15.036993,18.2,0.37,0.565,
+IIFL,IIFL Finance Limited,Financial Services,18,8,5,3,2,11.989941,34.8,-0.141,1.831,0.12286
+MVGJL,Manoj Vaibhav Gems 'N' Jewellers Limited,Consumer Cyclical,18,8,10,0,0,6.6901894,75.5,0.376,0.366,
+ANUHPHR,Anuh Pharma Limited,Healthcare,18,7,8,0,3,18.846521,46.6,0.236,0.301,
+CALSOFT,California Software Company Limited,Technology,18,1,10,5,2,126.388885,0.0,6.05,33.642,0.32296002
+MANAKSTEEL,Manaksia Steels Limited,Basic Materials,18,8,10,0,0,15.963731,34.8,0.981,3.2,
+NILASPACES,Nila Spaces Limited,Real Estate,18,2,10,4,2,22.147541,0.0,0.253,1.089,0.18365999
+HILTON,Hilton Metal Forging Limited,Industrials,18,8,10,0,0,8.348838,71.4,0.733,2.211,
+CSLFINANCE,CSL Finance Limited,Financial Services,18,8,8,2,0,6.165103,66.5,0.2,0.261,
+GICHSGFIN,GIC Housing Finance Limited,Financial Services,18,8,6,2,2,5.9774885,67.5,0.07,0.524,0.07606
+AARVI,Aarvi Encon Limited,Industrials,18,8,10,0,0,11.679104,60.1,0.272,0.692,
+CHENNPETRO,Chennai Petroleum Corporation Limited,Energy,18,8,5,3,2,4.8425803,64.8,-0.025,2.025,0.32126
+DIGIDRIVE,Digidrive Distributors Limited,Consumer Cyclical,18,8,5,2,3,7.009288,74.3,-0.185,3.774,
+AEROENTER,Aeroflex Enterprises Limited,Basic Materials,18,8,8,0,2,14.596844,40.4,0.16,0.293,0.09559
+MAYURUNIQ,Mayur Uniquoters Limited,Consumer Cyclical,18,7,7,2,2,15.721791,42.5,0.14,0.657,
+BAJAJ-AUTO,Bajaj Auto Limited,Consumer Cyclical,18,1,10,5,2,27.026852,0.0,0.488,1.031,0.28046
+INDIASHLTR,India Shelter Finance Corporation Limited,Financial Services,18,2,10,4,2,18.314867,0.0,0.307,0.283,0.17036
+ORIENTCEM,Orient Cement Limited,Basic Materials,18,8,5,3,2,8.299878,66.1,-0.216,0.317,0.17082001
+DOLPHIN,Dolphin Offshore Enterprises (India) Limited,Energy,18,1,10,5,2,24.08985,0.0,1.219,1.713,0.21903
+GUJRAFFIA,Gujarat Raffia Industries Limited,,18,8,10,0,0,18.120773,74.2,2.92,0.357,
+JSWSTEEL,JSW Steel Limited,Basic Materials,18,6,7,4,1,14.005038,42.8,0.142,9.918,0.27261
+FCL,Fineotex Chemical Limited,Basic Materials,18,2,10,2,4,28.909092,0.0,1.698,1.159,0.14895001
+BLS,BLS International Services Limited,Industrials,18,6,10,2,0,16.180422,44.7,0.436,0.348,
+JAICORPLTD,Jai Corp Limited,Basic Materials,18,8,5,2,3,11.462322,53.2,-0.017,0.429,
+HUBTOWN,Hubtown Limited,Real Estate,18,4,10,2,2,23.694197,0.0,1.096,5.119,0.0637
+PARKHOSPS,PARKHOSPS,Healthcare,18,2,10,4,2,35.5837,0.0,0.291,0.309,0.16936001
+LINCOLN,Lincoln Pharmaceuticals Limited,Healthcare,18,7,7,1,3,14.684295,58.4,0.135,0.377,
+CAPITALSFB,Capital Small Finance Bank Limited,Financial Services,18,8,8,2,0,8.903537,51.6,0.689,0.167,0.099259995
+EXCELINDUS,Excel Industries Limited,Basic Materials,18,8,8,0,2,16.366955,33.2,0.189,0.361,
+ANTELOPUS,ANTELOPUS,Energy,18,1,10,3,4,29.670351,0.0,0.653,1.589,0.14705
+ALEMBICLTD,Alembic Limited,Real Estate,18,8,5,2,3,7.2423506,71.5,0.283,-0.082,
+ALLDIGI,Alldigi Tech Limited,Industrials,18,6,6,4,2,14.970331,48.8,0.074,0.497,0.32217
+HMAAGRO,HMA Agro Industries Limited,Consumer Defensive,18,8,10,0,0,7.1120944,70.5,0.415,2.22,
+MAHSEAMLES,Maharashtra Seamless Limited,Basic Materials,18,8,5,2,3,10.278176,58.1,-0.226,0.305,
+BLACKROSE,Black Rose Industries Limited,,17,2,10,1,4,,0.0,0.264,0.622,0.1396
+EUROPRATIK,EUROPRATIK,Basic Materials,17,0,10,5,2,37.30216,0.0,0.281,0.436,0.27798998
+KHAICHEM,Khaitan Chemicals and Fertilizers Limited,Basic Materials,17,7,10,0,0,8.074753,67.0,0.337,0.636,
+OBEROIRLTY,Oberoi Realty Limited,Real Estate,17,2,10,3,2,23.475105,0.0,0.521,0.624,0.14913
+GLOBAL,Global Education Limited,Consumer Defensive,17,2,6,4,5,23.706547,0.0,0.737,0.094,0.19736
+CREDITACC,CreditAccess Grameen Limited,Financial Services,17,2,10,3,2,156.19952,0.0,1.259,6.162,0.105100006
+GKENERGY,GKENERGY,Utilities,17,6,10,1,0,13.532052,59.5,0.591,0.511,
+IRIS,IRIS RegTech Solutions Limited,Technology,17,2,8,3,4,48.262833,0.0,0.201,0.473,0.10232
+HINDCOPPER,Hindustan Copper Limited,Basic Materials,17,0,10,5,2,83.36988,0.0,0.625,1.366,0.30602
+ACUTAAS,Acutaas Chemicals Limited,Basic Materials,17,0,10,5,2,78.11785,0.0,0.439,1.056,0.23516001
+ADVANCE,ADVANCE,Basic Materials,17,3,10,2,2,22.608791,0.0,0.379,2.281,0.17179
+NIRAJ,Niraj Cement Structurals Limited,Industrials,17,8,8,0,1,6.627494,77.3,0.168,0.9,
+M&M,Mahindra & Mahindra Limited,Consumer Cyclical,17,4,10,2,1,20.534554,24.8,0.309,0.448,0.18754
+ANGELONE,Angel One Limited,Financial Services,17,1,10,4,2,31.152285,0.0,0.3,0.824,0.15526
+KARURVYSYA,The Karur Vysya Bank Limited,Financial Services,17,7,8,2,0,11.519646,37.3,0.175,0.391,
+ANANDRATHI,Anand Rathi Wealth Limited,Financial Services,17,0,10,5,2,75.75265,0.0,0.476,0.384,0.46738997
+LORDSCHLO,Lords Chloro Alkali Limited,Basic Materials,17,7,10,0,0,14.27027,41.8,0.45,2.51,
+GLAND,Gland Pharma Limited,Healthcare,17,2,10,3,2,36.362396,0.0,0.301,0.964,0.10532
+IREDA,Indian Renewable Energy Development Agency Limited,Financial Services,17,3,10,2,2,18.581871,0.0,0.408,0.325,
+NAVINFLUOR,Navin Fluorine International Limited,Basic Materials,17,0,10,5,2,53.762863,0.0,0.338,1.165,0.20105
+BEPL,Bhansali Engineering Polymers Limited,Basic Materials,17,7,5,3,2,13.190608,46.2,-0.01,0.305,0.17278999
+GODFRYPHLP,Godfrey Phillips India Limited,Consumer Defensive,17,0,10,5,2,29.155945,0.0,1.245,0.861,0.26593
+KALAMANDIR,Sai Silks (Kalamandir) Limited,Consumer Cyclical,17,8,6,1,2,12.461909,54.4,0.051,1.403,0.11781
+GENUSPOWER,Genus Power Infrastructures Limited,Industrials,17,6,10,1,0,16.1,44.9,0.858,1.471,
+BBTC,The Bombay Burmah Trading Corporation Limited,Consumer Defensive,17,7,6,3,1,8.546894,64.5,0.078,0.438,0.28709
+GROWW,GROWW,Financial Services,17,0,10,5,2,55.197056,0.0,0.835,1.118,0.28718
+KHAITANLTD,Khaitan (India) Limited,Industrials,17,7,10,0,0,9.624729,67.1,0.49,0.602,
+KIRLPNU,Kirloskar Pneumatic Company Limited,Industrials,17,0,8,4,5,39.062344,0.0,0.203,0.797,0.21473
+BAJAJCON,Bajaj Consumer Care Limited,Consumer Defensive,17,0,10,5,2,37.875267,0.0,0.304,1.13,0.25309
+AVONMORE,Avonmore Capital & Management Services Limited,Financial Services,17,6,10,1,0,13.6049385,26.0,0.559,31.0,
+HOMEFIRST,Home First Finance Company India Limited,Financial Services,17,3,8,4,2,20.83269,0.0,0.323,0.235,0.15714
+CUPID,Cupid Limited,Consumer Defensive,17,0,10,5,2,191.04762,0.0,1.338,2.142,0.27297002
+LLOYDSENT,Lloyds Enterprises Limited,Basic Materials,17,3,10,2,2,22.88961,0.0,0.471,4.825,0.09865
+HECPROJECT,HEC Infra Projects Limited,Industrials,17,7,10,0,0,10.566725,63.9,1.082,0.908,
+MUKANDLTD,Mukand Limited,Basic Materials,17,2,10,4,1,33.817745,0.0,0.606,51.046,0.48880002
+ASHOKAMET,Ashoka Metcast Limited,Basic Materials,17,8,5,2,2,2.613223,89.3,0.567,,0.08558
+FABTECH,FABTECH,Healthcare,17,8,6,1,2,15.306693,56.6,0.175,0.234,0.12939
+MANORAMA,Manorama Industries Limited,Consumer Defensive,17,0,10,5,2,36.23647,0.0,0.651,0.315,0.3798
+LTF,L&T Finance Limited,Financial Services,17,2,10,3,2,23.632154,0.0,0.319,0.264,0.111169994
+ARSSBL,ARSSBL,Financial Services,16,2,10,3,1,22.47328,0.0,0.274,0.885,0.13961
+CEIGALL,CEIGALL,Industrials,16,6,10,0,0,19.4921,33.3,0.371,0.788,
+CEATLTD,CEAT Limited,Consumer Cyclical,16,7,8,1,0,18.586967,32.0,0.233,1.832,0.14787
+AARTISURF,Aarti Surfactants Limited,Basic Materials,16,6,10,0,0,18.654211,23.9,0.276,3.547,
+CCAVENUE,AvenuesAI Limited,Technology,16,8,7,0,1,17.538462,35.2,1.225,0.13,
+CRIZAC,CRIZAC,Consumer Defensive,16,3,8,2,3,19.152233,20.5,0.28,0.154,
+AGI,AGI Greenpac Limited,Consumer Cyclical,16,7,4,3,2,10.660412,61.0,0.053,0.194,0.15612
+CHOLAHLDNG,Cholamandalam Financial Holdings Limited,Financial Services,16,7,5,2,2,12.754827,30.6,0.182,0.12,0.18035
+ALIVUS,Alivus Life Sciences Limited,Healthcare,16,6,3,4,3,22.778019,35.4,0.096,0.145,0.18359
+MASTEK,Mastek Limited,Technology,16,7,5,2,2,11.961873,55.8,0.036,0.308,0.14814
+DIFFNKG,DIFFNKG,Industrials,16,5,10,1,0,24.15415,17.4,0.273,0.677,
+FEDFINA,Fedbank Financial Services Limited,Financial Services,16,3,8,3,2,16.60241,0.0,0.186,0.385,0.12555
+CUB,City Union Bank Limited,Financial Services,16,5,8,3,0,14.065657,23.5,0.236,0.251,0.13241
+AYE,AYE,Financial Services,16,6,6,2,2,13.048958,29.0,0.085,0.791,0.0924
+BORANA,BORANA,Consumer Cyclical,16,1,8,5,2,36.360046,0.0,0.301,0.186,0.35007998
+ARIES,Aries Agro Limited,Basic Materials,16,8,8,0,0,10.547272,57.0,0.196,0.488,
+CAPLIPOINT,Caplin Point Laboratories Limited,Healthcare,16,6,5,2,3,23.752823,32.7,0.101,0.183,
+KANPRPLA,Kanpur Plastipack Limited,Consumer Cyclical,16,7,5,2,2,11.521613,57.8,0.006,3.662,0.17197001
+BFINVEST,BF Investment Limited,Financial Services,16,8,6,2,0,9.336618,49.2,0.092,11.758,
+APLLTD,Alembic Pharmaceuticals Limited,Healthcare,16,7,6,1,2,24.44964,30.7,0.059,0.292,0.12356
+FINCABLES,Finolex Cables Limited,Industrials,16,5,7,1,3,23.583931,19.3,0.352,0.114,
+INA,Insolation Energy Limited,Technology,16,6,10,0,0,15.578882,42.4,0.77,1.702,
+ASIANTILES,Asian Granito India Limited,Industrials,16,8,8,0,0,14.602409,50.1,0.178,42.5,
+NATCOPHARM,NATCO Pharma Limited,Healthcare,16,7,7,2,0,13.793857,60.9,0.363,0.139,
+KAMDHENU,Kamdhenu Limited,Basic Materials,16,7,5,1,3,8.938849,63.5,-0.035,0.644,
+BMWVENTLTD,BMWVENTLTD,Basic Materials,16,8,8,0,0,14.775656,39.7,0.161,0.288,
+IPL,India Pesticides Limited,Basic Materials,16,5,10,1,0,17.35399,29.2,0.309,0.407,
+EFCIL,EFC (I) Limited,Real Estate,16,7,7,2,0,11.32211,55.5,0.521,0.134,
+3BBLACKBIO,3B Blackbio Dx Limited,,16,1,10,2,3,,0.0,0.983,0.663,
+MITTAL,Mittal Life Style Limited,Consumer Cyclical,16,8,8,0,0,15.0,45.1,0.159,1.0,
+LLOYDSME,Lloyds Metals and Energy Limited,Basic Materials,16,1,10,5,0,25.907665,0.0,4.045,6.049,0.37048998
+HINDPETRO,Hindustan Petroleum Corporation Limited,Energy,16,8,5,3,0,4.319736,68.6,0.049,0.775,0.30929002
+GODREJPROP,Godrej Properties Limited,Real Estate,16,3,10,2,1,27.935137,0.0,0.63,0.701,0.09969
+IOB,Indian Overseas Bank,Financial Services,16,7,5,4,0,12.024912,34.6,0.019,0.397,0.15654999
+BANKINDIA,Bank of India Limited,Financial Services,16,8,5,3,0,6.2863455,65.8,0.101,0.186,0.12056
+JMA,Jullundur Motor Agency (Delhi) Limited,Consumer Cyclical,16,8,8,0,0,6.456207,76.4,0.195,0.311,
+KANANIIND,Kanani Industries Limited,Consumer Cyclical,16,8,5,0,3,17.222221,37.0,0.364,-0.5,
+NATIONALUM,National Aluminium Company Limited,Basic Materials,16,6,0,5,5,12.062164,50.8,0.01,-0.167,0.2942
+GROBTEA,The Grob Tea Company Limited,Consumer Defensive,16,6,10,0,0,18.62076,22.7,0.776,9.9,
+COFORGE,Coforge Limited,Technology,16,2,10,2,2,29.238314,0.0,0.305,1.34,0.18596001
+ADROITINFO,Adroit Infotech Limited,Technology,16,6,10,0,0,21.152172,21.8,0.865,0.556,
+ANMOL,Anmol India Limited,Energy,16,8,8,0,0,6.412088,53.4,0.197,6.429,
+INFY,Infosys Limited,Technology,16,6,3,5,2,14.619806,46.0,0.066,0.118,0.31439
+NAM-INDIA,Nippon Life India Asset Management Limited,Financial Services,16,0,8,5,3,46.517326,0.0,0.196,0.273,0.34476003
+MAZDOCK,Mazagon Dock Shipbuilders Limited,Industrials,16,0,10,5,1,38.759956,0.0,0.302,1.09,0.2877
+BLBLIMITED,BLB Limited,Financial Services,16,8,5,0,3,3.1971543,82.6,2.788,,
+ASPINWALL,Aspinwall and Company Limited,Consumer Defensive,16,6,10,0,0,19.419086,19.3,0.266,0.581,
+AJOONI,Ajooni Biotech Limited,Consumer Defensive,16,4,10,0,2,20.9,0.0,0.726,1.5,0.05514
+MAHESHWARI,Maheshwari Logistics Limited,Industrials,16,8,8,0,0,7.759287,73.5,0.159,0.418,
+BSOFT,Birlasoft Limited,Technology,15,7,5,1,2,17.003786,37.2,0.024,0.437,0.13656999
+DCMSHRIRAM,DCM Shriram Limited,Industrials,15,5,8,1,1,20.576853,29.6,0.189,1.067,0.11617
+GUJGASLTD,Gujarat Gas Limited,Utilities,15,7,8,0,0,21.926495,34.4,0.211,0.326,
+AFSL,Abans Financial Services Limited,Financial Services,15,8,5,0,2,7.33649,60.1,7.189,,0.083579995
+AMRUTANJAN,Amrutanjan Health Care Limited,Healthcare,15,4,3,3,5,28.162436,20.2,0.105,0.067,0.16623
+ECLERX,eClerx Services Limited,Technology,15,3,10,2,0,19.920753,26.4,0.254,0.393,
+CHOLAFIN,Cholamandalam Investment and Finance Company Limited,Financial Services,15,1,8,4,2,25.00081,0.0,0.241,0.291,0.19334999
+MANORG,Mangalam Organics Limited,Basic Materials,15,5,8,2,0,19.764442,19.3,0.326,0.19,
+KOHINOOR,Kohinoor Foods Limited,Consumer Defensive,15,8,5,2,0,0.24554873,99.0,1.837,,
+LLOYDSENGG,Lloyds Engineering Works Limited,Industrials,15,0,10,3,2,47.375835,0.0,1.172,1.125,0.16820998
+GOCLCORP,GOCL Corporation Limited,Basic Materials,15,8,5,2,0,5.917684,75.8,-0.987,1.276,
+ORIENTALTL,Oriental Trimex Limited,Industrials,15,8,5,2,0,8.371796,71.4,0.765,-0.972,
+APTUS,Aptus Value Housing Finance India Limited,Financial Services,15,5,8,2,0,14.044079,23.6,0.26,0.239,
+MRF,MRF Limited,Consumer Cyclical,15,5,7,1,2,22.47191,17.8,0.134,0.371,0.12295
+CANBK,Canara Bank,Financial Services,15,8,3,4,0,5.345159,70.9,0.209,-0.098,0.1757
+EDELWEISS,Edelweiss Financial Services Limited,Financial Services,15,5,10,0,0,15.240591,17.1,1.112,0.685,
+IVP,IVP Limited,Basic Materials,15,8,7,0,0,12.220877,50.1,0.121,1.435,
+ELIN,Elin Electronics Limited,Industrials,15,8,7,0,0,14.09643,51.8,0.102,1.586,
+NBIFIN,N.B.I. Industrial Finance Company Limited,Financial Services,15,3,10,2,0,37.591805,0.0,14.279,18.254,
+MODISONLTD,Modison Limited,Industrials,15,7,8,0,0,11.386348,61.1,0.186,2.453,
+HDBFS,HDBFS,Financial Services,15,2,8,3,2,21.835976,0.0,0.184,0.357,0.13945
+KALYANKJIL,Kalyan Jewellers India Limited,Consumer Cyclical,15,1,10,3,1,27.032923,0.0,0.669,1.17,0.24305001
+EMAMIPAP,Emami Paper Mills Limited,Basic Materials,15,8,7,0,0,16.303347,33.5,0.102,10.498,
+GRWRHITECH,Garware Hi-Tech Films Limited,Basic Materials,15,1,7,3,4,37.17509,0.0,0.128,0.391,0.13454
+MASKINVEST,Mask Investments Limited,Financial Services,15,3,10,0,2,,0.0,2.005,3.25,
+ADFFOODS,ADF Foods Limited,Consumer Defensive,15,0,10,3,2,36.653004,0.0,0.291,0.577,0.16894
+BAJFINANCE,Bajaj Finance Limited,Financial Services,15,1,8,4,2,29.85082,0.0,0.268,0.214,0.17907
+JUSTDIAL,Just Dial Limited,Communication Services,15,8,1,3,3,8.921116,67.6,0.062,-0.365,0.102340005
+AEROFLEX,Aeroflex Industries Limited,Industrials,15,0,10,2,3,87.053986,0.0,0.372,0.564,0.14062999
+IBULLSLTD,IBULLSLTD,Real Estate,15,8,0,5,2,15.269841,39.9,,,0.24445999
+KRISHANA,Krishana Phoschem Limited,Basic Materials,15,1,10,3,1,22.988329,0.0,0.598,1.531,0.38145
+GUJALKALI,Gujarat Alkalies and Chemicals Limited,Basic Materials,15,3,10,2,0,,0.0,3.957,5.191,
+NAVA,Nava Limited,Industrials,15,7,3,3,2,19.958717,31.7,0.173,-0.446,0.10309
+ASHOKA,Ashoka Buildcon Limited,Industrials,15,8,5,2,0,1.2664623,95.7,-0.235,2.225,
+BALPHARMA,Bal Pharma Limited,Healthcare,15,7,8,0,0,15.664047,55.6,0.199,2.394,
+INDOSTAR,IndoStar Capital Finance Limited,Financial Services,15,8,5,2,0,4.8377914,73.7,0.582,-0.707,
+DCBBANK,DCB Bank Limited,Financial Services,15,8,4,3,0,8.043384,56.2,0.124,0.134,0.11968
+INTERARCH,Interarch Building Solutions Limited,Industrials,15,4,10,0,1,21.738596,25.6,0.437,0.316,
+PARAS,Paras Defence and Space Technologies Limited,Industrials,15,0,10,3,2,68.992676,0.0,0.579,0.74,0.13137999
+HINDCON,Hindcon Chemicals Limited,Basic Materials,15,3,10,0,2,23.35,0.0,0.379,0.548,0.05466
+ADVENTHTL,Advent Hotels International Limited,Consumer Cyclical,15,8,5,2,0,13.153981,51.9,0.04,1.78,
+DIVGIITTS,Divgi TorqTransfer Systems Limited,Consumer Cyclical,15,1,10,1,3,55.241264,0.0,0.726,1.251,
+KSHITIJPOL,Kshitij Polyline Limited,Industrials,15,8,5,0,2,15.72,46.2,0.973,,0.07117
+INSPIRISYS,Inspirisys Solutions Limited,Technology,15,5,10,0,0,11.510594,57.5,0.633,0.414,
+EUROTEXIND,Eurotex Industries and Exports Limited,Real Estate,15,8,5,2,0,7.990244,68.6,4.563,,
+NECCLTD,North Eastern Carrying Corporation Limited,Industrials,15,8,5,0,2,16.483517,43.6,-0.112,0.7,0.039920002
+KIRIINDUS,Kiri Industries Limited,Basic Materials,15,8,5,2,0,0.48348942,98.0,-0.028,29.226,
+KOTHARIPET,Kothari Petrochemicals Limited,Basic Materials,15,7,0,4,4,11.44599,53.3,0.016,0.032,0.21371001
+LOVABLE,Lovable Lingerie Limited,Consumer Cyclical,14,8,5,0,1,13.98646,48.8,0.263,,
+MUKKA,Mukka Proteins Limited,Consumer Defensive,14,7,5,1,1,15.706666,34.8,0.037,0.533,0.115880005
+AZAD,AZAD,Industrials,14,0,10,2,2,109.91094,0.0,0.403,0.343,0.09142
+MEIL,MEIL,Industrials,14,8,3,1,2,18.900312,35.4,0.189,-0.312,0.11474
+OIL,Oil India Limited,Energy,14,4,6,3,1,12.737774,0.0,0.052,0.604,0.12743
+AHCL,AHCL,Healthcare,14,7,5,2,0,20.538464,41.8,2.801,,
+ASAL,Automotive Stampings and Assemblies Limited,Consumer Cyclical,14,1,10,3,0,27.3154,0.0,0.359,1.691,1.23292
+EXCELSOFT,EXCELSOFT,Technology,14,5,7,2,0,21.614635,20.1,0.294,0.101,
+DHAMPURSUG,Dhampur Sugar Mills Limited,Consumer Defensive,14,8,6,0,0,13.489524,44.0,0.095,0.779,
+NOIDATOLL,Noida Toll Bridge Company Limited,Industrials,14,8,3,2,1,3.2027025,89.0,0.218,-0.045,
+JGCHEM,JGCHEM,Basic Materials,14,2,8,1,3,24.327757,0.0,0.3,0.176,0.13518
+DEN,DEN Networks Limited,Communication Services,14,8,0,2,4,7.5057473,72.7,-0.03,-0.377,0.04425
+AAVAS,Aavas Financiers Limited,Financial Services,14,3,6,3,2,16.863962,0.0,0.192,0.183,0.13916
+EMUDHRA,eMudhra Limited,Technology,14,1,8,3,2,36.112816,0.0,0.338,0.216,0.13259
+NFL,National Fertilizers Limited,Basic Materials,14,6,8,0,0,18.738035,23.5,0.173,1.968,
+CARERATING,CARE Ratings Limited,Financial Services,14,0,8,4,2,33.67122,0.0,0.335,0.235,0.19754
+ASHIANA,Ashiana Housing Limited,Real Estate,14,1,10,2,1,30.025297,0.0,1.716,4.099,0.14652
+NAVNETEDUL,Navneet Education Limited,Communication Services,14,7,5,2,0,9.398531,65.8,-0.115,10.938,
+MPSLTD,MPS Limited,Communication Services,14,5,3,5,1,17.952787,34.7,0.163,-0.001,0.32234
+MERCANTILE,Mercantile Ventures Limited,,14,3,10,1,0,,0.0,0.368,0.471,
+DISAQ,DISA India Limited,,14,0,10,1,3,,0.0,0.295,0.539,
+JTLIND,JTL Industries Limited,Basic Materials,14,2,10,0,2,33.817734,0.0,0.477,1.516,0.07521
+AMBALALSA,Ambalal Sarabhai Enterprises Limited,Healthcare,14,7,7,0,0,23.919117,32.2,0.131,0.379,
+GSFC,Gujarat State Fertilizers & Chemicals Limited,Basic Materials,14,8,3,0,3,9.775734,60.1,0.045,0.182,
+INDIAGLYCO,India Glycols Limited,Basic Materials,14,3,10,1,0,23.583988,0.0,1.735,0.319,0.112849995
+IOC,Indian Oil Corporation Limited,Energy,14,8,6,0,0,5.1822734,62.3,0.057,5.13,
+AVL,Aditya Vision Limited,Consumer Cyclical,14,0,10,2,2,61.00552,0.0,0.305,0.369,0.18383
+DBL,Dilip Buildcon Limited,Industrials,14,8,5,1,0,4.623037,84.2,-0.174,4.002,
+KRN,KRN,Technology,14,0,10,2,2,107.47938,0.0,0.379,0.569,0.14258
+NPST,NPST,Technology,14,1,10,2,1,58.82484,0.0,1.477,1.242,
+NILKAMAL,Nilkamal Limited,Consumer Cyclical,14,8,4,0,2,17.761236,35.0,0.084,0.22,0.075679995
+BANCOINDIA,Banco Products (India) Limited,Consumer Cyclical,14,5,8,1,0,17.824493,34.8,0.235,1.778,
+DLINKINDIA,D-Link (India) Limited,Technology,14,6,3,3,2,16.499317,39.0,0.2,0.005,0.21211
+GRINFRA,G R Infraprojects Limited,Industrials,14,8,2,2,2,10.020365,65.7,0.111,-0.487,0.100880004
+MMTC,MMTC Limited,Industrials,14,1,10,2,1,35.789772,0.0,0.36,14.5,
+BPCL,Bharat Petroleum Corporation Limited,Energy,14,8,6,0,0,4.9383683,64.1,0.052,0.888,
+FINPIPE,Finolex Industries Limited,Industrials,14,7,3,1,3,20.439655,30.1,-0.103,0.237,
+GREENPOWER,Orient Green Power Company Limited,Utilities,14,8,2,2,2,18.35484,45.1,0.124,,0.06458
+DAMODARIND,Damodar Industries Limited,Consumer Cyclical,14,8,5,0,1,7.235142,73.5,0.346,-0.801,0.03682
+JKTYRE,JK Tyre & Industries Limited,Consumer Cyclical,14,7,7,0,0,15.336714,43.9,0.15,2.878,
+AHLWEST,Asian Hotels (West) Limited,Consumer Cyclical,14,8,5,1,0,12.90206,52.8,0.007,3.242,
+BELLACASA,Bella Casa Fashion & Retail Limited,Consumer Cyclical,14,7,7,0,0,15.975284,41.5,0.112,0.252,
+IGL,Indraprastha Gas Limited,Utilities,14,7,4,1,2,12.804713,61.7,0.082,0.206,
+ESCORTS,Escorts Kubota Limited,Industrials,14,5,3,3,3,24.154255,17.4,0.214,0.006,0.120220006
+GRSE,Garden Reach Shipbuilders & Engineers Limited,Industrials,14,0,8,4,2,44.645943,0.0,0.291,0.242,0.31791002
+BANDHANBNK,Bandhan Bank Limited,Financial Services,14,3,10,1,0,25.654354,0.0,1.193,0.68,0.04877
+MUNJALSHOW,Munjal Showa Limited,Consumer Cyclical,14,8,6,0,0,16.97795,37.9,0.096,0.832,
+AJANTPHARM,Ajanta Pharma Limited,Healthcare,14,1,6,5,2,37.59555,0.0,0.215,0.186,0.25393
+ACC,ACC Limited,Basic Materials,14,8,3,1,2,12.004934,51.0,0.178,-0.683,0.109280005
+NETWEB,Netweb Technologies India Limited,Technology,14,0,10,3,1,105.27686,0.0,0.866,0.643,0.32834998
+PANSARI,Pansari Developers Limited,Real Estate,14,2,10,2,0,27.103374,0.0,7.862,15.2,
+GRANULES,Granules India Limited,Healthcare,14,2,8,2,2,30.12275,0.0,0.228,0.313,0.13522
+KRITINUT,Kriti Nutrients Limited,Consumer Defensive,14,7,7,0,0,12.599705,47.7,0.297,0.109,
+EUROBOND,EUROBOND,Industrials,14,6,8,0,0,18.346773,37.2,0.203,0.28,
+APOLLOTYRE,Apollo Tyres Limited,Consumer Cyclical,14,7,7,0,0,18.213297,33.3,0.118,0.399,
+LICHSGFIN,LIC Housing Finance Limited,Financial Services,14,8,1,3,2,5.3706064,70.8,0.044,0.086,0.14409
+GILLETTE,Gillette India Limited,Consumer Defensive,13,0,8,2,3,47.61803,0.0,0.152,0.369,
+CGPOWER,CG Power and Industrial Solutions Limited,Industrials,13,0,8,2,3,108.71596,0.0,0.25,0.305,0.19561
+DICIND,DIC India Limited,Basic Materials,13,4,7,0,2,27.328224,0.0,0.146,0.638,
+ADOR,Ador Welding Limited,Industrials,13,4,6,0,3,22.373674,23.5,0.052,0.73,
+MBEL,MBEL,Industrials,13,7,6,0,0,18.762136,35.8,0.071,0.256,
+AWL,AWL Agri Business Limited,Consumer Defensive,13,3,8,1,1,24.811178,0.0,0.18,0.537,0.10519
+CARTRADE,CarTrade Tech Limited,Consumer Cyclical,13,1,8,2,2,40.97912,0.0,0.198,0.573,0.09849
+AKASH,Akash Infra-Projects Limited,Industrials,13,8,5,0,0,18.788733,35.7,-0.215,17.0,
+CANTABIL,Cantabil Retail India Limited,Consumer Cyclical,13,4,8,1,0,21.234962,22.3,0.186,0.311,
+MANUGRAPH,Manugraph India Limited,Industrials,13,8,5,0,0,8.424242,71.2,1.761,,
+COSMOFIRST,Cosmo First Limited,Consumer Cyclical,13,8,5,0,0,13.587772,50.3,0.283,0.005,
+ISGEC,Isgec Heavy Engineering Limited,Industrials,13,5,8,0,0,24.035864,17.8,0.162,2.476,
+AMBICAAGAR,Ambica Agarbathies Aroma & Industries Limited,Consumer Defensive,13,3,10,0,0,31.445946,0.0,0.499,1.955,
+ANANTRAJ,Anant Raj Limited,Real Estate,13,2,6,3,2,30.859673,0.0,0.249,0.205,0.11132
+JAIPURKURT,Nandani Creation Limited,Consumer Cyclical,13,8,5,0,0,12.568464,54.0,1.002,-0.684,
+NAHARINDUS,Nahar Industrial Enterprises Limited,Consumer Cyclical,13,8,5,0,0,11.256332,58.8,-0.208,0.252,
+MANYAVAR,Vedant Fashions Limited,Consumer Cyclical,13,1,5,5,2,28.484455,0.0,0.159,0.131,0.20025998
+HBLENGINE,HBLENGINE,Industrials,13,1,10,2,0,26.878483,0.0,0.94,2.442,
+NAZARA,Nazara Technologies Limited,Communication Services,13,6,5,0,2,11.023521,59.9,-0.138,646.629,0.01974
+KPIL,Kalpataru Projects International Limited,Industrials,13,4,7,1,1,20.660423,29.3,0.106,0.894,0.14513999
+METROPOLIS,Metropolis Healthcare Limited,Healthcare,13,0,10,2,1,57.483696,0.0,0.254,0.73,0.13373
+BUTTERFLY,Butterfly Gandhimathi Appliances Limited,Consumer Cyclical,13,2,8,1,2,29.417112,0.0,0.181,0.267,0.13085
+EKC,Everest Kanto Cylinder Limited,Industrials,13,8,5,0,0,11.256134,61.5,-0.005,0.975,
+INDUSTOWER,Indus Towers Limited,Communication Services,13,7,0,4,2,15.872693,42.3,0.048,0.008,0.19806999
+AGROPHOS,Agro Phos (India) Limited,Basic Materials,13,8,5,0,0,12.28629,49.9,0.571,-0.631,
+BHARATGEAR,Bharat Gears Limited,Consumer Cyclical,13,8,5,0,0,12.967328,52.5,0.333,,
+KARMAENG,Karma Energy Limited,Utilities,13,6,5,2,0,26.629631,20.4,0.268,,
+DIACABS,Diamond Power Infrastructure Limited,Industrials,13,3,10,0,0,99.21717,0.0,0.542,6.833,
+GFLLIMITED,GFL Limited,Financial Services,13,3,8,2,0,414.9091,0.0,0.25,1.81,
+JYOTISTRUC,Jyoti Structures Limited,Industrials,13,2,8,1,2,26.51064,0.0,0.462,0.153,0.108059995
+JAYNECOIND,Jayaswal Neco Industries Limited,Basic Materials,13,2,8,2,1,21.813417,0.0,0.178,0.877,0.17754
+ORIENTCER,Orient Ceratech Limited,Basic Materials,13,3,10,0,0,24.884148,0.0,0.26,1.643,
+KRISHNADEF,KRISHNADEF,Industrials,13,0,8,2,3,52.619278,0.0,0.234,1.598,
+JSLL,JSLL,Healthcare,13,1,10,2,0,37.4619,0.0,0.916,4.047,
+BHAGERIA,Bhageria Industries Limited,Basic Materials,13,8,5,0,0,14.831438,39.5,0.418,-0.079,
+BIRLACORPN,Birla Corporation Limited,Basic Materials,13,8,5,0,0,14.063924,42.6,-0.043,0.687,
+KMSUGAR,K.M. Sugar Mills Limited,Consumer Defensive,13,8,5,0,0,4.6666665,80.6,0.02,0.635,
+EMCURE,EMCURE,Healthcare,13,1,8,3,1,34.965137,0.0,0.167,0.288,0.19573
+KLBRENG-B,Kilburn Engineering Limited,,13,1,10,2,0,,0.0,0.448,0.338,
+NRL,Nupur Recyclers Limited,Industrials,13,3,10,0,0,27.32653,0.0,0.716,0.261,
+MEDANTA,Global Health Limited,Healthcare,13,0,8,3,2,60.227825,0.0,0.245,0.42,0.15032
+MARKOLINES,MARKOLINES,Industrials,13,7,6,0,0,13.532895,53.7,0.161,0.194,
+HARSHA,Harsha Engineers International Limited,Industrials,13,5,8,0,0,23.80575,18.6,0.207,0.259,
+DBEIL,DBEIL,Industrials,13,8,5,0,0,10.197889,65.1,0.274,-0.703,
+ATALREAL,Atal Realtech Limited,Industrials,13,1,10,0,2,62.41304,0.0,0.378,8.929,0.079569995
+PACEDIGITK,Pace Digitek Limited,Technology,13,7,5,1,0,15.12669,44.1,0.135,0.156,
+AURIONPRO,Aurionpro Solutions Limited,Technology,13,5,4,2,2,19.49377,28.0,0.057,0.205,0.13245
+CAPILLARY,CAPILLARY,Technology,13,1,10,0,2,76.96638,0.0,0.281,3.06,0.06582
+MODIRUBBER,Modi Rubber Limited,Real Estate,13,6,3,2,2,20.09375,21.0,0.201,-0.281,0.02411
+GHCL,GHCL Limited,Basic Materials,13,8,0,3,2,9.424726,61.5,0.029,-0.218,0.13420999
+BANARISUG,Bannari Amman Sugars Limited,Consumer Defensive,13,2,10,0,1,31.950182,0.0,0.528,0.679,
+EBGNG,EBGNG,Technology,13,0,8,3,2,277.5828,0.0,0.425,0.231,0.26766002
+GODREJIND,Godrej Industries Limited,Industrials,13,1,10,1,1,39.058846,0.0,0.516,1.426,0.10832
+ICICIBANK,ICICI Bank Limited,Financial Services,13,3,6,4,0,16.639925,0.0,0.669,0.084,0.16359
+JAYSREETEA,Jay Shree Tea & Industries Limited,Consumer Defensive,13,8,5,0,0,6.3605065,73.6,0.257,,
+CSBBANK,CSB Bank Limited,Financial Services,13,8,2,3,0,9.823337,46.6,0.079,0.058,0.13483
+KRBL,KRBL Limited,Consumer Defensive,13,8,1,2,2,11.990446,50.2,0.063,0.007,0.11731
+CMPDI,CMPDI,Basic Materials,13,1,2,5,5,27.101398,0.0,0.117,-0.322,0.28355
+360ONE,360 One Wam Limited,Financial Services,13,1,7,3,2,37.458904,0.0,0.269,0.11,0.14392
+GVT&D,GE Vernova T&D India Ltd,Industrials,13,0,10,2,1,104.16407,0.0,0.584,1.04,
+KIRLFER,Kirloskar Ferrous Industries Limited,Industrials,13,3,10,0,0,20.616343,29.5,0.299,0.44,
+BASML,Bannari Amman Spinning Mills Ltd,Consumer Cyclical,13,8,5,0,0,10.61062,61.2,-0.043,0.75,
+HEXT,Hexaware Technologies Limited,Technology,13,4,3,4,2,21.46055,20.7,0.126,0.079,0.22272
+INOXGREEN,Inox Green Energy Services Limited,Utilities,13,1,10,2,0,106.37126,0.0,0.338,3.998,
+COASTCORP,Coastal Corporation Limited,Consumer Defensive,13,3,10,0,0,26.836206,0.0,0.649,2.63,
+MURUDCERA,Murudeshwar Ceramics Ltd.,Industrials,13,8,5,0,0,16.386473,44.0,0.019,1.429,
+BANSWRAS,Banswara Syntex Limited,Consumer Cyclical,13,8,5,0,0,16.12316,41.0,0.003,0.382,
+HSCL,Himadri Speciality Chemical Limited,Basic Materials,13,0,7,4,2,39.680424,0.0,0.135,0.278,0.17698
+LOTUSDEV,LOTUSDEV,Industrials,13,2,5,4,2,27.559523,0.0,0.625,-0.005,0.17059
+AKCAPIT,A. K. Capital Services Limited,,13,3,8,2,0,,0.0,0.171,0.517,
+NESTLEIND,Nestlé India Limited,Consumer Defensive,13,0,8,5,0,78.728676,0.0,0.238,0.274,0.76338995
+HCLTECH,HCL Technologies Limited,Technology,13,6,1,4,2,18.449259,31.8,0.053,-0.002,0.23357001
+NITINSPIN,Nitin Spinners Limited,Consumer Cyclical,13,7,3,1,2,16.865923,38.3,0.022,0.237,0.12764
+MEDIASSIST,MEDIASSIST,Healthcare,13,1,10,1,1,49.019108,0.0,0.281,1.404,0.12717
+ALANKIT,Alankit Limited,Technology,13,8,5,0,0,11.371795,58.0,-0.17,0.474,
+DPABHUSHAN,D. P. Abhushan Limited,Consumer Cyclical,13,6,7,0,0,11.325582,58.5,0.128,0.936,
+BANG,Bang Overseas Limited,Consumer Cyclical,13,8,3,2,0,9.939632,63.6,0.179,-0.471,
+INDIANB,Indian Bank,Financial Services,13,8,1,4,0,9.443038,48.6,0.018,0.064,0.15442
+KEYFINSERV,Keynote Financial Services Limited,Financial Services,13,4,5,2,2,17.696112,0.0,0.831,-0.203,
+GALAPREC,GALAPREC,Industrials,13,2,7,2,2,33.22274,0.0,0.277,0.11,0.12921
+NAHARPOLY,Nahar Poly Films Limited,Consumer Cyclical,13,8,5,0,0,8.130937,70.2,-0.032,1.565,
+MACPOWER,Macpower CNC Machines Limited,Industrials,13,0,10,1,2,33.67265,0.0,0.433,1.19,
+AAKASH,Aakash Exploration Services Limited,Energy,13,3,10,0,0,880.00006,0.0,0.29,5.315,0.056339998
+FIVESTAR,Five-Star Business Finance Limited,Financial Services,13,7,0,4,2,12.316778,33.0,0.041,-0.037,0.16058001
+LPDC,Landmark Property Development Company Limited,Real Estate,13,2,10,1,0,,0.0,2.411,0.929,
+EIDPARRY,E.I.D.- Parry (India) Limited,Basic Materials,13,7,6,0,0,11.819883,51.8,0.183,0.191,
+GKWLIMITED,GKW Limited,Industrials,13,3,5,2,3,138.83333,0.0,6.451,,
+BCLIND,BCL Industries Limited,Consumer Defensive,13,8,5,0,0,8.440805,64.9,-0.013,0.677,
+JETFREIGHT,Jet Freight Logistics Limited,Industrials,13,4,7,1,1,24.917646,0.0,0.124,8.429,0.100710005
+AVADHSUGAR,Avadh Sugar & Energy Limited,Consumer Defensive,13,8,5,0,0,13.004913,46.0,0.035,1.478,
+CENTENKA,Century Enka Limited,Consumer Cyclical,13,8,5,0,0,13.888889,49.2,-0.166,0.697,
+ENRIN,Siemens Energy India Limited,Utilities,13,0,10,1,2,84.04412,0.0,0.274,0.522,
+LAGNAM,Lagnam Spintex Limited,Consumer Cyclical,13,8,5,0,0,10.130751,62.9,0.03,0.571,
+OSWALGREEN,Oswal Greentech Limited,Financial Services,13,3,5,2,3,32.076923,0.0,-0.125,15.5,
+CEMPRO,Cemindia Projects Limited,Industrials,13,1,8,3,1,32.998898,0.0,0.199,1.134,0.28208
+KRYSTAL,KRYSTAL,Industrials,13,8,2,1,2,18.97575,35.1,-0.102,0.113,0.13745
+LAMBODHARA,Lambodhara Textiles Limited,Consumer Cyclical,13,8,5,0,0,13.585897,50.3,-0.029,0.589,
+GICRE,General Insurance Corporation of India,Financial Services,13,8,2,3,0,7.062523,61.6,0.116,0.029,0.10142
+AUBANK,AU Small Finance Bank Limited,Financial Services,13,1,10,2,0,28.33238,0.0,0.371,0.626,
+NCLIND,NCL Industries Limited,Basic Materials,13,8,5,0,0,12.75919,47.9,-0.111,3.439,
+MODIS,Modi's Navnirman Limited,Real Estate,13,1,10,2,0,28.566929,0.0,0.7,0.807,
+BAJAJHFL,BAJAJHFL,Financial Services,13,1,7,3,2,27.312704,0.0,0.423,0.144,0.120570004
+JSL,Jindal Stainless Limited,Basic Materials,13,3,7,2,1,19.38195,20.9,0.112,0.425,0.17407
+JAYBARMARU,Jay Bharat Maruti Limited,Consumer Cyclical,13,7,6,0,0,11.481879,58.0,0.093,3.722,
+INDGN,INDGN,Healthcare,13,4,5,2,2,28.326015,19.7,0.328,-0.323,0.13941
+ANSALAPI,Ansal Properties & Infrastructure Limited,Real Estate,13,3,10,0,0,,0.0,0.71,5.721,
+KROSS,KROSS,Consumer Cyclical,13,2,8,1,2,32.885017,0.0,0.223,0.31,0.11948
+INDIAMART,IndiaMART InterMESH Limited,Communication Services,13,2,2,5,4,24.812937,0.0,0.139,-0.723,0.20703
+IRMENERGY,IRM Energy Limited,Utilities,13,6,5,0,2,26.25573,21.5,0.044,1.906,0.054619998
+CENTEXT,Century Extrusions Limited,Basic Materials,13,7,6,0,0,15.030074,38.7,0.183,0.161,
+MENONBE,Menon Bearings Limited,Consumer Cyclical,12,1,5,4,2,26.33153,0.0,-0.267,0.292,0.22245
+DATAPATTNS,Data Patterns (India) Limited,Industrials,12,0,3,4,5,79.99381,0.0,-0.115,0.212,0.1673
+BIMETAL,Bimetal Bearings Limited,Consumer Cyclical,12,6,3,0,3,20.407608,25.3,0.182,-0.346,
+NMDC,NMDC Limited,Basic Materials,12,7,3,2,0,11.644587,52.5,0.159,-0.065,
+GAYAPROJ,Gayatri Projects Limited,Industrials,12,8,0,2,2,0.14587209,99.5,-0.328,,
+DEEPINDS,Deep Industries Limited,Energy,12,3,5,2,2,,0.0,0.636,,0.09786
+MALLCOM,Mallcom (India) Limited,Industrials,12,7,4,1,0,11.76498,59.8,0.114,0.125,
+DBREALTY,Valor Estate Limited,Real Estate,12,2,10,0,0,60.680412,0.0,1.414,13.375,
+HAL,Hindustan Aeronautics Limited,Industrials,12,1,1,5,5,32.154533,0.0,0.018,0.055,0.23979001
+HISARMETAL,Hisar Metal Industries Limited,Basic Materials,12,4,8,0,0,27.777979,0.0,0.195,0.645,
+PAR,Par Drugs and Chemicals Limited,Healthcare,12,8,0,2,2,7.7247787,78.1,-0.106,-0.485,0.124280006
+NEPHROPLUS,NEPHROPLUS,Healthcare,12,2,10,0,0,90.95339,0.0,0.317,0.402,
+HUDCO,Housing and Urban Development Corporation Limited,Financial Services,12,7,3,2,0,10.244544,44.3,0.161,-0.03,
+NIITLTD,NIIT Limited,Consumer Defensive,12,3,5,0,4,38.1497,0.0,0.255,,0.00569
+CRISIL,CRISIL Limited,Financial Services,12,0,10,2,0,36.101562,0.0,0.301,0.459,
+INDOFARM,INDOFARM,Industrials,12,8,4,0,0,20.072533,31.3,0.101,0.149,
+CESC,CESC Limited,Utilities,12,7,4,1,0,15.484952,53.7,0.056,0.178,0.12547
+AIRAN,Airan Limited,Technology,12,4,6,0,2,25.328356,0.0,0.093,3.429,
+HIKAL,Hikal Limited,Healthcare,12,2,10,0,0,,0.0,0.373,0.683,
+FMGOETZE,Federal-Mogul Goetze (India) Limited,Consumer Cyclical,12,7,2,0,3,13.4241295,50.9,0.144,0.004,
+ETERNAL,Eternal Limited,Consumer Cyclical,12,0,10,0,2,618.4103,0.0,1.965,3.75,0.01194
+MAHLIFE,Mahindra Lifespace Developers Limited,Real Estate,12,3,5,3,1,22.329002,0.0,71.47,-0.195,0.10797
+FRONTSP,Frontier Springs Limited,,12,0,10,2,0,,0.0,0.398,0.919,
+CHOICEIN,Choice International Limited,Financial Services,12,0,6,4,2,59.1496,0.0,0.218,0.153,0.16240999
+ELDEHSG,Eldeco Housing and Industries Limited,Real Estate,12,2,8,2,0,36.093277,0.0,0.243,1.368,
+MPHASIS,Mphasis Limited,Technology,12,4,4,3,1,22.07481,18.4,0.144,0.14,0.18285999
+BALUFORGE,Balu Forge Industries Limited,Industrials,12,4,6,2,0,21.509222,26.4,0.216,0.206,
+BLKASHYAP,B.L. Kashyap and Sons Limited,Industrials,12,2,10,0,0,111.06251,0.0,0.339,9.4,
+MANINFRA,Man Infraconstruction Limited,Industrials,12,7,0,3,2,19.402641,33.6,-0.364,-0.483,0.10152
+AIROLAM,Airo Lam Limited,Consumer Cyclical,12,2,10,0,0,46.883335,0.0,0.292,0.274,
+KAJARIACER,Kajaria Ceramics Limited,Industrials,12,0,7,3,2,41.839622,0.0,0.124,2.659,0.16499001
+IEX,Indian Energy Exchange Limited,Financial Services,12,0,3,5,4,22.611914,0.0,0.125,0.098,0.39419997
+JUNIPER,Juniper Hotels Limited,Consumer Cyclical,12,3,8,1,0,30.789635,0.0,0.169,1.014,
+NILE,Nile Limited,,12,2,10,0,0,,0.0,0.253,0.443,
+OMFREIGHT,OMFREIGHT,Industrials,12,7,5,0,0,15.773851,46.0,0.023,1.654,
+KMEW,Knowledge Marine & Engineering Works Limited,Industrials,12,0,10,2,0,70.43447,0.0,0.563,0.804,
+AMBUJACEM,Ambuja Cements Limited,Basic Materials,12,3,6,1,2,22.780987,0.0,0.094,0.772,0.08311
+GEEKAYWIRE,Geekay Wires Limited,Industrials,12,7,0,3,2,9.078231,69.0,0.017,-0.185,0.20352
+GANESHBE,Ganesh Benzoplast Limited,Basic Materials,12,8,3,1,0,15.060995,38.5,0.181,-0.122,
+INNOVANA,INNOVANA,Technology,12,7,3,2,0,16.450752,39.2,0.206,-0.246,
+OMNI,OMNI,Industrials,12,0,10,2,0,114.83146,0.0,0.816,1.757,
+FSL,Firstsource Solutions Limited,Technology,12,2,8,2,0,24.879581,0.0,0.195,0.279,0.159
+KSCL,Kaveri Seed Company Limited,Basic Materials,12,7,3,2,0,15.575814,36.4,0.208,-0.071,
+ADANIPOWER,Adani Power Limited,Utilities,12,1,5,5,1,33.433537,0.0,-0.001,0.916,0.20908001
+GANESHCP,GANESHCP,Consumer Defensive,12,7,5,0,0,13.943732,42.1,-0.029,0.405,
+KELLTONTEC,Kellton Tech Solutions Limited,Technology,12,8,4,0,0,8.710982,67.8,0.104,0.106,
+BALAMINES,Balaji Amines Limited,Basic Materials,12,2,7,1,2,38.315742,0.0,0.141,0.617,0.08113
+INDOTHAI,Indo Thai Securities Limited,Financial Services,12,0,5,5,2,51.003784,0.0,18.797,,0.28285998
+MARUTI,Maruti Suzuki India Limited,Consumer Cyclical,12,2,5,1,4,28.32869,0.0,0.282,-0.064,0.14434
+ADANIPORTS,Adani Ports and Special Economic Zone Limited,Industrials,12,2,5,4,1,30.864855,0.0,0.265,0.036,0.15592
+MITCON,MITCON Consultancy & Engineering Services Limited,Industrials,12,4,8,0,0,32.46371,0.0,0.19,2.75,
+GOKULAGRO,Gokul Agro Resources Limited,Consumer Defensive,12,1,7,3,1,23.695951,0.0,0.138,1.45,0.30102
+ACSTECH,ACS Technologies Limited,,12,2,10,0,0,,0.0,0.861,3.636,
+ITDC,India Tourism Development Corporation Limited,Consumer Cyclical,12,0,8,1,3,59.153175,0.0,0.237,0.349,
+ABCAPITAL,Aditya Birla Capital Limited,Financial Services,12,2,6,2,2,25.063158,0.0,0.077,0.301,0.11181
+EQUITASBNK,Equitas Small Finance Bank Limited,Financial Services,12,3,8,0,1,,0.0,0.179,4.027,0.016900001
+JIOFIN,Jio Financial Services Limited,Financial Services,12,3,5,2,2,97.10833,0.0,0.394,-0.14,0.012130001
+KFINTECH,KFin Technologies Limited,Technology,12,0,5,5,2,40.32934,0.0,0.277,-0.05,0.22312
+CONTROLPR,Control Print Limited,Industrials,12,7,2,2,1,10.182524,65.2,0.15,-0.364,
+GANDHAR,Gandhar Oil Refinery (India) Limited,Energy,12,4,8,0,0,13.797607,0.0,0.161,0.672,
+BHAGYANGR,Bhagyanagar India Limited,Basic Materials,12,2,10,0,0,28.000883,0.0,0.464,2.208,
+MOTILALOFS,Motilal Oswal Financial Services Limited,Financial Services,12,1,5,4,2,25.640013,0.0,1.523,,0.1555
+PARADEEP,Paradeep Phosphates Limited,Basic Materials,12,7,5,0,0,12.561001,48.7,0.346,-0.235,
+ACCELYA,Accelya Solutions India Limited,Technology,12,5,0,5,2,15.552784,42.5,-0.002,-0.569,0.39095002
+BHEL,Bharat Heavy Electricals Limited,Industrials,12,0,10,0,2,86.965065,0.0,0.369,1.564,0.06292
+LTM,LTM Limited,Technology,12,2,4,4,2,23.47471,0.0,0.061,0.234,0.21285
+ONWARDTEC,Onward Technologies Limited,Technology,12,7,1,2,2,13.891906,48.7,0.092,-0.072,0.18552999
+MWL,MWL,Basic Materials,12,2,10,0,0,24.866947,0.0,0.298,0.749,
+BANKBARODA,Bank of Baroda Limited,Financial Services,12,8,1,3,0,6.812614,62.9,-0.076,0.071,0.12738
+HATHWAY,Hathway Cable and Datacom Limited,Communication Services,12,6,1,0,5,22.282608,19.0,0.064,-0.696,0.01858
+ORICONENT,Oricon Enterprises Limited,Consumer Cyclical,12,3,5,2,2,32.30846,0.0,-0.649,1.8,
+HALEOSLABS,Haleos Labs Limited,Healthcare,12,7,5,0,0,23.80858,32.5,0.12,0.211,
+GULPOLY,Gulshan Polyols Limited,Basic Materials,12,7,5,0,0,15.502852,36.7,0.028,5.074,
+HITECHGEAR,The Hi-Tech Gears Limited,Consumer Cyclical,12,2,10,0,0,49.031723,0.0,0.363,1.263,
+MHLXMIRU,Mahalaxmi Rubtech Limited,Consumer Cyclical,12,7,3,2,0,8.910887,67.4,0.095,0.116,
+ATUL,Atul Ltd,Basic Materials,12,1,7,2,2,30.864199,0.0,0.15,0.661,0.11529
+DONEAR,Donear Industries Limited,Consumer Cyclical,12,7,5,0,0,14.465331,47.1,-0.017,0.605,
+EVEREADY,Eveready Industries India Limited,Industrials,12,1,6,4,1,57.75271,0.0,0.094,12.653,0.31646
+NITCO,NITCO Limited,Industrials,12,5,5,0,2,3.2521124,88.9,0.511,,0.093760006
+DYCL,Dynamic Cables Limited,Industrials,12,6,1,3,2,17.759516,39.3,0.073,0.026,0.20319
+MONTECARLO,Monte Carlo Fashions Limited,Consumer Cyclical,12,8,4,0,0,12.361766,54.8,0.109,0.106,
+J&KBANK,Jammu and Kashmir Bank Limited,Financial Services,12,8,0,4,0,6.1017737,66.8,,,0.15367
+GIPCL,Gujarat Industries Power Company Limited,Utilities,12,8,2,2,0,15.475184,53.7,0.149,,
+BIRLACABLE,Birla Cable Limited,Technology,12,2,10,0,0,64.10317,0.0,0.296,1.792,
+GNFC,Gujarat Narmada Valley Fertilizers & Chemicals Limited,Basic Materials,12,8,1,0,3,12.122318,50.5,0.051,-0.08,
+HYBRIDFIN,Hybrid Financial Services Limited,Financial Services,12,4,5,2,1,17.274336,0.0,-0.052,0.364,
+CYBERTECH,CyberTech Systems and Software Limited,Technology,12,7,1,2,2,13.039736,51.8,0.093,-0.263,0.13231
+METROGLOBL,MetroGlobal Limited,Industrials,12,8,0,0,4,16.18695,44.6,-0.152,,0.05468
+NIBL,NRB Industrial Bearings Limited,Industrials,12,8,2,2,0,4.75,83.8,0.105,,
+NUCLEUS,Nucleus Software Exports Limited,Technology,12,7,1,2,2,14.005381,48.3,0.07,-0.408,
+ASIANENE,Asian Energy Services Limited,Energy,11,1,10,0,0,33.239662,0.0,1.568,1.13,
+IRISDOREME,Iris Clothings Limited,Consumer Cyclical,11,0,8,1,2,46.86842,0.0,0.51,0.236,0.14455
+GVPIL,GE Power India Limited,Industrials,11,0,5,5,1,36.772316,0.0,0.261,-0.311,0.71711
+APTECHT,Aptech Limited,Consumer Defensive,11,3,8,0,0,21.134783,0.0,0.244,1.387,
+INCREDIBLE,Incredible Industries Limited,Basic Materials,11,8,3,0,0,12.789855,47.8,0.168,-0.4,
+ATL,Allcargo Terminals Limited,Industrials,11,7,4,0,0,20.459015,30.0,0.166,0.083,
+GOLDIAM,Goldiam International Limited,Consumer Cyclical,11,2,7,2,0,27.100931,0.0,0.143,0.3,
+BLSE,BLSE,Industrials,11,2,8,0,1,31.1329,0.0,1.199,0.241,
+BCPL,BCPL Railway Infrastructure Limited,Industrials,11,8,3,0,0,17.38149,40.6,-0.287,0.19,
+ALGOQUANT,Algoquant Fintech Limited,Financial Services,11,5,4,2,0,6.888502,62.5,0.051,0.16,
+MEGASTAR,Megastar Foods Limited,Consumer Defensive,11,1,10,0,0,33.333332,0.0,0.523,5.775,
+ARTEMISMED,Artemis Medicare Services Limited,,11,1,7,1,2,122.1834,0.0,0.141,0.287,0.11626001
+INDIANCARD,The Indian Card Clothing Company Limited,Consumer Cyclical,11,8,0,2,1,4.9944406,81.7,-0.015,,
+ELLEN,ELLEN,Basic Materials,11,1,8,2,0,,0.0,0.196,0.259,
+EIMCOELECO,Eimco Elecon (India) Limited,Industrials,11,5,0,2,4,23.529324,19.5,0.04,-0.572,0.08608
+INDRAMEDCO,Indraprastha Medical Corporation Limited,Healthcare,11,5,5,1,0,18.452082,47.7,0.144,0.249,
+AARTIDRUGS,Aarti Drugs Limited,Healthcare,11,7,1,1,2,16.640272,52.8,0.065,-0.12,0.13359
+AMBIKCO,Ambika Cotton Mills Limited,Consumer Cyclical,11,8,3,0,0,14.367888,47.4,0.115,0.062,
+MOLDTKPAC,Mold-Tek Packaging Limited,Consumer Cyclical,11,1,8,1,1,34.13592,0.0,0.174,0.268,0.10976
+BRIGHOTEL,BRIGHOTEL,Consumer Cyclical,11,2,5,2,2,36.267857,0.0,0.017,0.5,0.11928
+HONDAPOWER,Honda India Power Products Limited,Industrials,11,3,5,0,3,30.03038,0.0,0.324,-0.127,
+BHARATSE,Bharat Seats Limited,Consumer Cyclical,11,1,10,0,0,28.254843,0.0,0.603,0.306,
+HEALTHX,Health X Platform Limited,Healthcare,11,4,5,0,2,34.724937,0.0,0.334,,
+INDOBORAX,Indo Borax & Chemicals Limited,Basic Materials,11,5,1,2,3,19.15213,21.8,0.094,0.021,
+FIBERWEB,Fiberweb (India) Limited,Consumer Cyclical,11,8,0,1,2,6.034783,77.9,-0.579,,0.055219997
+BAGFILMS,B.A.G. Films and Media Limited,Communication Services,11,6,5,0,0,22.590908,17.8,0.283,-0.514,
+MAZDA,Mazda Limited,Industrials,11,7,3,1,0,14.657698,49.9,0.013,0.175,
+BANARBEADS,Banaras Beads Limited,Consumer Cyclical,11,3,8,0,0,40.42456,0.0,0.347,0.16,
+GATEWAY,Gateway Distriparks Limited,Industrials,11,8,0,2,1,11.050782,62.2,-0.002,,0.10375
+DCW,DCW Limited,Basic Materials,11,3,7,0,1,28.77914,0.0,0.132,0.564,0.04571
+GULFPETRO,GP Petroleums Limited,Energy,11,8,3,0,0,6.566336,52.2,0.245,-0.214,
+CROWN,Crown Lifters Limited,Industrials,11,7,1,3,0,15.605618,46.6,0.094,-0.403,0.12745
+MAGADSUGAR,Magadh Sugar & Energy Limited,Consumer Defensive,11,8,3,0,0,7.6862264,68.1,0.044,0.187,
+NGLFINE,NGL Fine-Chem Limited,Healthcare,11,1,10,0,0,40.98518,0.0,0.431,11.271,
+KPL,Kwality Pharmaceuticals Limited,,11,0,10,1,0,,0.0,0.462,0.879,
+COMSYN,Commercial Syn Bags Limited,Consumer Cyclical,11,4,7,0,0,22.57227,17.4,0.127,0.625,
+IGCL,IGCL,Basic Materials,11,8,3,0,0,11.231751,54.2,0.188,-0.105,
+GREENPLY,Greenply Industries Limited,Basic Materials,11,1,8,1,1,35.46025,0.0,0.196,0.861,0.10536
+20MICRONS,20 Microns Limited,Basic Materials,11,8,3,0,0,9.523809,61.1,0.001,0.162,
+CLSEL,Chaman Lal Setia Exports Ltd.,Consumer Defensive,11,7,4,0,0,13.248033,45.0,0.09,0.242,
+CARRARO,CARRARO,Consumer Cyclical,11,1,10,0,0,28.732359,0.0,0.27,0.915,
+ALPA,Alpa Laboratories Limited,Healthcare,11,8,2,1,0,12.817029,63.7,0.111,-0.787,
+DCI,DC Infotech and Communication Limited,Technology,11,1,10,0,0,23.804348,0.0,0.461,0.558,
+JNKINDIA,JNK India Limited,Industrials,11,1,10,0,0,40.139904,0.0,1.167,5.373,
+AVAILFC,Available Finance Limited,,11,3,6,2,0,,0.0,0.065,0.33,
+INDIANHUME,The Indian Hume Pipe Company Limited,Industrials,11,8,0,1,2,2.6860385,90.8,-0.076,-0.954,0.09864
+IKS,IKS,Healthcare,11,1,8,2,0,37.73179,0.0,0.24,0.412,
+AADHARHFC,AADHARHFC,Financial Services,11,3,6,2,0,18.723274,0.0,0.2,0.173,
+NAUKRI,Info Edge (India) Limited,Communication Services,11,3,4,2,2,44.64165,0.0,0.134,0.123,
+ABBOTINDIA,Abbott India Limited,Healthcare,11,1,3,5,2,38.31439,0.0,0.113,0.076,0.34460998
+KEI,KEI Industries Limited,Industrials,11,0,8,1,2,53.190937,0.0,0.187,0.255,0.14753
+NLCINDIA,NLC India Limited,Utilities,11,7,0,4,0,19.384613,42.0,-0.003,-0.127,0.15966
+ENDURANCE,Endurance Technologies Limited,Consumer Cyclical,11,0,7,2,2,37.733196,0.0,0.379,0.127,0.15156999
+NIRLON,Nirlon Limited,Real Estate,11,5,4,2,0,16.393915,35.5,0.053,0.189,
+MANAPPURAM,Manappuram Finance Limited,Financial Services,11,2,5,2,2,26.255339,0.0,1.093,,0.06968
+NIACL,The New India Assurance Company Limited,Financial Services,11,4,7,0,0,19.278036,0.0,0.139,0.61,0.03421
+CDSL,Central Depository Services (India) Limited,Financial Services,11,0,1,5,5,54.33608,0.0,0.055,-0.201,0.23913
+AEGISVOPAK,AEGISVOPAK,Energy,11,1,8,2,0,158.176,0.0,0.223,0.436,
+NEULANDLAB,Neuland Laboratories Limited,Healthcare,11,0,10,0,1,58.479324,0.0,1.364,6.649,
+CAMS,Computer Age Management Services Limited,Technology,11,0,4,5,2,40.98275,0.0,0.11,0.106,0.38694
+IDBI,IDBI Bank Limited,Financial Services,11,8,0,3,0,8.145833,55.7,,,0.14152999
+CHALET,Chalet Hotels Limited,Consumer Cyclical,11,1,6,4,0,26.670633,0.0,0.085,0.313,0.19132
+FRACTAL,FRACTAL,Technology,11,0,8,1,2,54.65116,0.0,0.17,1.064,0.115839995
+ANURAS,Anupam Rasayan India Ltd,Basic Materials,11,1,10,0,0,89.29267,0.0,0.313,0.677,
+NIVABUPA,Niva Bupa Health Insurance Company Limited,Financial Services,11,1,10,0,0,112.43662,0.0,0.658,1.678,0.07958
+IGIL,International Gemological Institute Limited,Basic Materials,11,1,3,5,2,27.542158,0.0,-0.3,0.231,0.43001997
+IIFLCAPS,IIFL Capital Services Limited,Financial Services,11,2,2,5,2,20.07904,0.0,0.12,-0.111,0.20198
+LATENTVIEW,Latent View Analytics Limited,Industrials,11,2,6,2,1,32.03858,0.0,0.22,0.198,
+AMAGI,AMAGI,Technology,11,3,8,0,0,2528.125,0.0,0.224,2.775,
+KENNAMET,Kennametal India Limited,Industrials,11,0,5,1,5,46.29283,0.0,0.164,0.102,0.14094
+63MOONS,63 moons technologies limited,Technology,11,3,5,0,3,,0.0,1.281,,
+GPPL,Gujarat Pipavav Port Limited,Industrials,11,6,3,2,0,15.059821,48.5,0.112,0.083,
+FEDERALBNK,The Federal Bank Limited,Financial Services,11,3,5,3,0,16.101889,0.0,0.123,0.222,0.11731
+NEWGEN,Newgen Software Technologies Limited,Technology,11,4,1,4,2,22.373281,17.3,0.053,-0.009,0.18250999
+BEL,Bharat Electronics Limited,Industrials,11,0,6,2,3,51.79095,0.0,0.24,0.207,
+CMSINFO,CMS Info Systems Limited,Industrials,11,7,0,2,2,16.58183,43.3,0.038,-0.181,0.12913
+KECL,Kirloskar Electric Company Limited,Industrials,10,0,10,0,0,71.80625,0.0,0.264,5.889,
+NEXTMEDIA,Next Mediaworks Limited,Communication Services,10,8,0,2,0,0.41884816,98.5,,,
+ANDHRAPAP,Andhra Paper Limited,Basic Materials,10,3,5,0,2,69.30851,0.0,0.499,-0.0,0.0095999995
+BETA,BETA,Healthcare,10,5,0,3,2,19.87965,43.6,-0.009,-0.05,0.18776
+GODREJAGRO,Godrej Agrovet Limited,Consumer Defensive,10,1,7,2,0,23.19829,0.0,0.119,0.482,0.18681
+LUMAXTECH,Lumax Auto Technologies Limited,Consumer Cyclical,10,0,10,0,0,44.83694,0.0,0.403,0.839,
+ARIS,Arisinfra Solutions Limited,Industrials,10,2,5,1,2,35.72798,0.0,0.553,,0.12219
+ATLANTAELE,ATLANTAELE,Industrials,10,0,10,0,0,63.7022,0.0,0.797,4.176,
+JARO,JARO,Consumer Defensive,10,3,1,4,2,21.325623,0.0,0.096,0.039,0.19894
+BOROSCI,Borosil Scientific Limited,Consumer Cyclical,10,2,8,0,0,65.43094,0.0,0.196,1.042,
+AMIRCHAND,AMIRCHAND,Consumer Defensive,10,3,7,0,0,22.177172,0.0,0.15,0.871,
+IZMO,IZMO Limited,Technology,10,3,5,2,0,26.451614,0.0,0.008,0.924,
+HARIOMPIPE,Hariom Pipe Industries Limited,Basic Materials,10,7,3,0,0,15.216962,37.9,0.21,0.03,
+MGL,Mahanagar Gas Limited,Utilities,10,7,2,1,0,12.771254,61.8,0.115,-0.091,
+ESTER,Ester Industries Limited,Basic Materials,10,3,6,0,1,,0.0,0.081,2.857,-0.03533
+JINDALSAW,Jindal Saw Limited,Basic Materials,10,8,0,0,2,15.042023,38.6,-0.082,-0.522,0.07964
+AETHER,Aether Industries Limited,Basic Materials,10,0,6,2,2,68.48429,0.0,0.307,0.078,0.09375
+ABANSENT,ABans Enterprises Limited,,10,3,5,0,2,,0.0,2.298,,0.018760001
+MUNJALAU,Munjal Auto Industries Limited,Consumer Cyclical,10,7,3,0,0,18.362705,32.8,0.16,,
+MATRIMONY,Matrimony.com Limited,Communication Services,10,2,5,2,1,28.247526,0.0,0.125,0.212,0.15252
+CCL,CCL Products (India) Limited,Consumer Defensive,10,0,7,2,1,38.30817,0.0,0.464,0.124,0.18002
+HEADSUP,Heads UP Ventures Limited,Consumer Cyclical,10,8,0,2,0,3.9210527,85.6,,,
+ECOSMOBLTY,ECOSMOBLTY,Industrials,10,6,4,0,0,13.420422,54.1,0.225,0.089,
+GTL,GTL Limited,Communication Services,10,3,5,2,0,,0.0,-0.153,54.087,
+FEDDERSHOL,Fedders Holding Limited,,10,3,5,2,0,,0.0,-0.102,5.741,
+DOLATALGO,Dolat Algotech Limited,Financial Services,10,8,0,2,0,11.161849,39.3,-0.08,0.042,
+JAGSNPHARM,Jagsonpal Pharmaceuticals Limited,Healthcare,10,1,4,3,2,32.679874,0.0,0.096,0.238,0.16695
+IXIGO,IXIGO,Consumer Cyclical,10,0,10,0,0,117.46099,0.0,0.314,0.436,
+DYNAMATECH,Dynamatic Technologies Limited,Consumer Cyclical,10,0,10,0,0,204.06767,0.0,0.347,0.635,
+DRAGARWQ,Dr. Agarwal's Eye Hospital Limited,,10,0,8,2,0,,0.0,0.222,0.616,
+HAWKINCOOK,Hawkins Cookers Limited,Consumer Cyclical,10,1,8,1,0,30.120989,0.0,0.162,0.581,
+ADVAIT,Advait Energy Transitions Limited,Industrials,10,0,10,0,0,45.868465,0.0,1.144,0.654,
+GMBREW,G.M. Breweries Limited,Consumer Defensive,10,7,0,2,1,12.902638,46.4,,-0.106,0.15552
+EPACKPEB,EPACKPEB,Industrials,10,5,5,0,0,24.441463,16.4,0.221,0.135,
+CAPACITE,Capacit'e Infraprojects Limited,Industrials,10,8,2,0,0,9.72712,66.7,0.144,-0.034,
+LAOPALA,La Opala RG Limited,Consumer Cyclical,10,7,0,2,1,18.802402,31.2,-0.074,0.033,
+HALDYNGL,Haldyn Glass Limited,,10,2,8,0,0,,0.0,0.214,0.311,
+FILATEX,Filatex India Limited,Consumer Cyclical,10,7,3,0,0,10.261501,62.4,-0.018,0.17,
+AXISCADES,AXISCADES Technologies Limited,Industrials,10,0,10,0,0,86.193474,0.0,0.252,0.887,
+AVALON,Avalon Technologies Limited,Technology,10,0,10,0,0,78.75595,0.0,0.487,0.358,
+JINDRILL,Jindal Drilling & Industries Limited,Energy,10,8,0,2,0,7.122751,48.2,0.009,,
+MAJESAUT,Majestic Auto Limited,Real Estate,10,8,0,2,0,3.6709926,85.6,-0.803,,
+KTKBANK,The Karnataka Bank Limited,Financial Services,10,8,0,2,0,8.063565,56.1,-0.008,0.025,
+INTELLECT,Intellect Design Arena Limited,Technology,10,3,3,2,2,28.24352,0.0,0.167,-0.113,0.11411
+MCLOUD,Magellanic Cloud Limited,Technology,10,7,1,2,0,13.653846,49.6,0.083,-0.01,
+ATULAUTO,Atul Auto Limited,Consumer Cyclical,10,0,10,0,0,39.384033,0.0,0.253,0.561,
+AQYLON,Aqylon Nexus Limited,Communication Services,10,3,5,2,0,244.60869,0.0,1.802,,
+NAVKARCORP,Navkar Corporation Limited,Industrials,10,3,5,0,2,47.05,0.0,0.945,,0.01551
+ACMESOLAR,ACMESOLAR,Utilities,10,2,3,3,2,33.78213,0.0,0.125,0.063,0.10406
+CONSOFINVT,Consolidated Finvest & Holdings Limited,Financial Services,10,8,0,2,0,11.401329,38.0,-0.214,-0.214,
+KRIDHANINF,Kridhan Infra Limited,Basic Materials,10,8,0,2,0,4.220588,82.8,,,
+LENSKART,LENSKART,Healthcare,10,0,10,0,0,136.80757,0.0,0.383,76.0,
+INDHOTEL,The Indian Hotels Company Limited,Consumer Cyclical,10,0,4,4,2,44.85646,0.0,0.145,0.147,0.16430001
+GENUSPAPER,Genus Paper & Boards Limited,Basic Materials,10,3,7,0,0,34.81081,0.0,0.115,4.5,
+NILAINFRA,Nila Infrastructures Limited,Real Estate,10,7,1,1,1,14.224138,44.0,-0.285,0.075,0.13249
+BAFNAPH,Bafna Pharmaceuticals Limited,Healthcare,10,2,8,0,0,33.080685,0.0,0.154,0.95,
+NATHBIOGEN,Nath Bio-Genes (India) Limited,Basic Materials,10,8,0,0,2,7.670162,68.7,-0.01,,0.06285
+NURECA,Nureca Limited,Healthcare,10,5,5,0,0,24.75068,29.8,0.498,,
+CORDSCABLE,Cords Cable Industries Limited,Industrials,10,8,2,0,0,15.4107685,47.3,0.147,0.047,
+IVC,IL&FS Investment Managers Limited,Financial Services,10,8,0,2,0,12.557377,31.7,-0.376,,
+IRCTC,Indian Railway Catering & Tourism Corporation Limited,Consumer Cyclical,10,1,6,2,1,30.126474,0.0,0.184,0.157,
+LODHA,Lodha Developers Limited,Real Estate,10,2,2,4,2,24.81606,0.0,0.076,0.094,0.1571
+CPCAP,CP Capital Limited,Financial Services,10,8,0,2,0,4.1787877,77.3,-0.257,-0.06,
+CIEINDIA,CIE Automotive India Limited,Consumer Cyclical,10,5,5,0,0,20.199474,26.1,0.149,0.208,
+BRNL,Bharat Road Network Limited,Industrials,10,8,0,2,0,6.1550155,78.9,-0.119,-0.847,
+DEVIT,Dev Information Technology Limited,Technology,10,8,0,2,0,2.4159665,91.1,-0.075,,
+AMJLAND,AMJ Land Holdings Limited,Real Estate,10,8,0,2,0,7.8770485,69.0,-0.206,-0.418,
+BHARTIHEXA,BHARTIHEXA,Communication Services,10,0,5,5,0,45.04902,0.0,0.048,0.814,0.28811002
+NYKAA,FSN E-Commerce Ventures Limited,Consumer Cyclical,10,0,10,0,0,555.91833,0.0,0.267,1.444,
+BERGEPAINT,Berger Paints India Limited,Basic Materials,10,0,6,2,2,55.22257,0.0,0.061,0.277,0.17226
+MAHAPEXLTD,Maha Rashtra Apex Corporation Limited,Financial Services,10,8,0,2,0,2.9534342,83.9,-0.598,,
+LATTEYS,Latteys Industries Limited,Industrials,10,0,10,0,0,79.32258,0.0,0.95,3.0,
+BROOKS,Brooks Laboratories Limited,Healthcare,10,8,0,2,0,6.341497,82.0,-0.569,,
+BHANDARI,Bhandari Hosiery Exports Limited,Consumer Cyclical,10,8,2,0,0,11.290322,58.7,-0.062,0.125,
+HILINFRA,HILINFRA,Industrials,10,7,3,0,0,10.171429,65.2,-0.092,0.185,
+MOLDTECH,Mold-Tek Technologies Limited,Industrials,10,3,5,0,2,31.316582,0.0,0.975,,0.08211
+MANAKSIA,Manaksia Limited,Industrials,10,8,2,0,0,7.6486144,73.8,-0.021,0.138,
+MAWANASUG,Mawana Sugars Limited,Consumer Defensive,10,8,1,0,1,11.710239,51.4,0.097,-0.946,
+OSWALAGRO,Oswal Agro Mills Limited,Real Estate,10,8,0,2,0,7.1916537,71.7,-1.0,-0.902,
+ICICIAMC,ICICIAMC,Financial Services,10,0,3,5,2,47.848064,0.0,0.082,0.104,0.85802
+JAINREC,JAINREC,Basic Materials,10,0,10,0,0,56.501995,0.0,0.558,1.232,
+CRAFTSMAN,Craftsman Automation Limited,Consumer Cyclical,10,0,10,0,0,52.630764,0.0,0.305,7.284,
+LEXUS,Lexus Granito (India) Limited,Industrials,10,5,5,0,0,22.964287,21.5,-0.283,5.0,
+MANBA,MANBA,Financial Services,10,6,2,2,0,13.352382,27.4,0.149,0.008,
+GOLDENTOBC,Golden Tobacco Limited,Consumer Defensive,10,8,0,2,0,13.98901,41.9,-0.184,,
+BIOFILCHEM,Biofil Chemicals and Pharmaceuticals Limited,Healthcare,10,7,0,0,3,19.199999,45.6,-0.934,-0.5,
+MTARTECH,MTAR Technologies Limited,Industrials,10,0,10,0,0,238.11719,0.0,0.593,1.173,
+BALKRISHNA,Balkrishna Paper Mills Limited,Consumer Cyclical,10,3,5,2,0,,0.0,1.618,,
+MSUMI,Motherson Sumi Wiring India Limited,Consumer Cyclical,10,0,5,3,2,42.62766,0.0,0.331,0.015,0.32393003
+GLOBUSSPR,Globus Spirits Limited,Consumer Defensive,10,2,8,0,0,475.42105,0.0,0.191,74.071,
+LALPATHLAB,Dr. Lal PathLabs Limited,Healthcare,10,0,3,5,2,50.75681,0.0,0.166,-0.154,0.21475
+KOTYARK,KOTYARK,Basic Materials,10,2,5,1,2,24.50685,0.0,0.394,,0.118999995
+FORCEMOT,Force Motors Limited,Consumer Cyclical,10,3,1,4,2,19.607767,28.2,0.082,-0.37,0.33508
+GATECHDVR,GACM Technologies Limited,Financial Services,10,8,0,2,0,6.375,65.3,0.016,-0.636,
+MARICO,Marico Limited,Consumer Defensive,10,0,5,4,1,61.713135,0.0,0.221,0.145,0.41393003
+CPPLUS,CPPLUS,Industrials,10,0,10,0,0,113.61457,0.0,0.373,1.235,
+GOKUL,Gokul Refoils & Solvent Limited,Consumer Defensive,10,4,6,0,0,22.010256,0.0,0.068,7.983,
+GATECH,GACM Technologies Limited,Financial Services,10,8,0,2,0,6.7500005,63.3,0.016,-0.636,
+ORBTEXP,Orbit Exports Limited,Consumer Cyclical,10,8,0,2,0,11.108876,59.3,0.044,-0.004,
+MBAPL,Madhya Bharat Agro Products Limited,Basic Materials,10,0,10,0,0,44.832497,0.0,1.158,0.775,
+PANACHE,Panache Digilife Limited,Technology,10,0,10,0,0,64.945946,0.0,2.578,1.022,
+JAMNAAUTO,Jamna Auto Industries Limited,Consumer Cyclical,10,2,8,0,0,23.956701,0.0,0.187,0.327,
+JSFB,Jana Small Finance Bank Limited,Financial Services,10,4,5,1,0,15.874839,0.0,0.176,0.129,0.076009996
+KOVAI,Kovai Medical Center and Hospital Limited,Healthcare,10,4,4,2,0,25.189121,28.6,0.146,0.125,
+MANINDS,Man Industries (India) Limited,Basic Materials,10,3,7,0,0,21.23389,0.0,0.134,0.455,
+MAHLOG,Mahindra Logistics Limited,Industrials,10,1,8,0,1,1444.2,0.0,0.201,0.289,0.01279
+GRMOVER,GRM Overseas Limited,Consumer Defensive,10,0,10,0,0,53.69497,0.0,0.3,0.272,
+BANSALWIRE,BANSALWIRE,Basic Materials,10,1,6,1,2,29.595911,0.0,0.209,0.209,0.11923
+DALMIASUG,Dalmia Bharat Sugar and Industries Limited,Consumer Defensive,10,8,0,0,2,11.751975,51.2,-0.027,-0.498,0.07285
+MARATHON,Marathon Nextgen Realty Limited,Real Estate,10,8,0,2,0,13.227397,48.0,0.013,-0.493,
+HIRECT,Hind Rectifiers Limited,Industrials,10,0,10,0,0,64.5092,0.0,0.642,0.297,
+HGINFRA,H.G. Infra Engineering Limited,Industrials,10,8,2,0,0,10.039881,65.7,0.124,-0.182,
+BUILDPRO,Shankara Buildpro Limited,Consumer Cyclical,10,0,10,0,0,,0.0,0.291,0.388,
+MAITHANALL,Maithan Alloys Limited,Basic Materials,10,8,0,2,0,6.5615554,73.2,-0.077,-0.021,
+AHLUCONT,Ahluwalia Contracts (India) Limited,Industrials,10,7,3,0,0,19.922247,31.9,0.114,0.092,
+INNOVACAP,Innova Captab Limited,Healthcare,10,2,8,0,0,34.847748,0.0,0.423,0.235,
+KNRCON,KNR Constructions Limited,Industrials,10,8,0,2,0,7.7534413,73.5,-0.124,-0.586,
+KNAGRI,KNAGRI,Consumer Defensive,9,8,1,0,0,13.194822,45.2,0.079,-0.263,
+HMVL,Hindustan Media Ventures Limited,Communication Services,9,8,1,0,0,7.079646,74.3,0.075,-0.951,
+GLOBE,Globe Enterprises (India) Limited,Consumer Cyclical,9,8,1,0,0,15.125001,44.6,0.052,-0.561,
+DRREDDY,Dr. Reddy's Laboratories Limited,Healthcare,9,5,0,2,2,26.527088,24.8,-0.116,-0.862,0.11835
+HITECH,Hi-Tech Pipes Limited,Basic Materials,9,4,5,0,0,22.686327,0.0,0.405,-0.222,
+INDOTECH,Indo Tech Transformers Limited,Industrials,9,1,7,1,0,30.770506,0.0,0.107,0.292,
+DABUR,Dabur India Limited,Consumer Defensive,9,0,4,3,2,43.8743,0.0,0.073,0.152,0.16239999
+HEIDELBERG,HeidelbergCement India Limited,Basic Materials,9,3,6,0,0,24.954397,0.0,0.058,2.0,
+LUMAXIND,Lumax Industries Limited,Consumer Cyclical,9,1,8,0,0,30.395992,0.0,0.187,0.39,
+ORIENTHOT,Oriental Hotels Limited,Consumer Cyclical,9,3,5,1,0,26.605263,0.0,0.046,0.661,0.094119996
+CLEAN,Clean Science and Technology Limited,Basic Materials,9,0,0,4,5,33.21707,0.0,-0.044,-0.214,0.15309
+BAJAJHCARE,Bajaj HealthCare Limited,Healthcare,9,7,0,0,2,17.572664,50.2,-0.009,,0.042659998
+LTFOODS,LT Foods Limited,Consumer Defensive,9,1,8,0,0,22.72904,0.0,0.238,0.707,
+MAXHEALTH,Max Healthcare Institute Limited,Healthcare,9,0,7,2,0,72.47067,0.0,0.107,0.266,
+JLHL,Jupiter Life Line Hospitals Limited,Healthcare,9,0,5,2,2,46.075024,0.0,0.199,0.12,0.13391
+HAVELLS,Havells India Limited,Industrials,9,0,5,2,2,44.849834,0.0,0.025,0.396,0.18969999
+NESCO,Nesco Limited,Industrials,9,4,3,2,0,21.232098,27.4,0.153,-0.048,
+NBCC,NBCC (India) Limited,Industrials,9,0,6,0,3,38.768593,0.0,0.095,0.392,
+KIRLOSENG,Kirloskar Oil Engines Limited,Industrials,9,0,6,2,1,44.643406,0.0,0.215,0.212,0.16819
+GOLDTECH,AION-TECH Solutions Limited,Technology,9,4,5,0,0,27.064936,0.0,0.836,,
+ISFT,IntraSoft Technologies Limited,Consumer Cyclical,9,8,1,0,0,10.446475,61.8,0.065,-0.036,
+ORIENTELEC,Orient Electric Limited,Consumer Cyclical,9,0,7,1,1,47.353806,0.0,0.104,0.295,0.13179
+METROBRAND,Metro Brands Limited,Consumer Cyclical,9,0,8,1,0,72.44725,0.0,0.154,0.358,
+IMPAL,India Motor Parts & Accessories Limited,Consumer Cyclical,9,8,0,1,0,14.576222,46.7,,,
+BALAJITELE,Balaji Telefilms Limited,Communication Services,9,7,0,2,0,16.62623,39.5,-0.554,,
+CLEDUCATE,CL Educate Limited,Consumer Defensive,9,3,5,0,1,,0.0,0.316,,-0.08287
+CCHHL,Country Club Hospitality & Holidays Limited,Consumer Cyclical,9,4,5,0,0,26.7451,0.0,0.427,,
+IKIO,IKIO Technologies Limited,Technology,9,2,5,0,2,32.04312,0.0,0.519,,0.07095
+AIIL,Authum Investment & Infrastructure Limited,Financial Services,9,7,0,2,0,11.805231,35.8,-0.421,-0.701,
+MANCREDIT,Mangal Credit and Fincorp Limited,Financial Services,9,2,5,2,0,27.678335,0.0,0.446,0.038,
+APLAPOLLO,APL Apollo Tubes Limited,Basic Materials,9,0,5,3,1,43.663662,0.0,0.136,0.208,0.25314
+COROMANDEL,Coromandel International Limited,Basic Materials,9,2,3,2,2,28.167273,0.0,0.204,-0.758,0.15587
+NCC,NCC Limited,Industrials,9,8,0,0,1,13.972174,52.2,0.02,-0.188,0.093219995
+HPIL,Hindprakash Industries Limited,Basic Materials,9,2,7,0,0,139.57292,0.0,0.113,0.462,
+GOACARBON,Goa Carbon Limited,Basic Materials,9,2,5,0,2,,0.0,0.521,,-0.24976
+MSTCLTD,MSTC Limited,Industrials,9,6,1,2,0,13.718324,53.1,0.09,-0.795,
+LINDEINDIA,Linde India Limited,Basic Materials,9,0,7,2,0,106.381134,0.0,0.131,6.764,
+INDBANK,Indbank Merchant Banking Services Limited,Financial Services,9,3,2,2,2,21.025316,0.0,0.144,0.038,0.073709995
+BBTCL,B&B Triplewall Containers Limited,Consumer Cyclical,9,4,5,0,0,19.156805,29.9,0.261,,
+ALICON,Alicon Castalloy Limited,Industrials,9,3,6,0,0,30.025055,0.0,0.097,3.188,
+NDLVENTURE,NDL Ventures Limited,Communication Services,9,0,5,2,2,463.07693,0.0,,0.251,0.01526
+BHARATWIRE,Bharat Wire Ropes Limited,Basic Materials,9,5,3,1,0,20.414875,16.7,-0.117,0.22,
+CIPLA,Cipla Limited,Healthcare,9,4,0,2,3,29.847853,15.4,-0.038,-0.546,0.11736
+GODIGIT,GODIGIT,Financial Services,9,0,8,1,0,52.930157,0.0,0.226,0.289,0.117089994
+MANAKCOAT,Manaksia Coated Metals & Industries Limited,Industrials,9,5,1,1,2,22.627314,22.6,0.094,-0.044,0.14136
+JOCIL,Jocil Limited,Basic Materials,9,6,3,0,0,19.58116,20.1,0.194,,
+IMFA,Indian Metals and Ferro Alloys Limited,Basic Materials,9,2,6,1,0,21.646387,0.0,0.093,0.406,
+DELTACORP,Delta Corp Limited,Consumer Cyclical,9,6,0,1,2,21.73981,20.4,-0.117,-0.901,0.0347
+BALAJEE,BALAJEE,Consumer Cyclical,9,6,3,0,0,20.069618,26.5,0.198,-0.972,
+KAMAHOLD,KAMA Holdings Limited,,9,3,6,0,0,,0.0,0.064,0.591,
+ONGC,Oil and Natural Gas Corporation Limited,Energy,9,6,3,0,0,9.902415,28.0,0.008,0.162,
+GAUDIUMIVF,GAUDIUMIVF,Healthcare,9,1,6,2,0,32.478916,0.0,0.699,0.073,
+EASTSILK,Eastern Silk Industries Limited,Consumer Cyclical,9,3,5,1,0,967.5,0.0,0.615,,
+AWFIS,AWFIS,Industrials,9,1,8,0,0,39.05405,0.0,0.202,0.399,
+HINDUNILVR,Hindustan Unilever Limited,Consumer Defensive,9,0,3,5,1,50.247677,0.0,0.043,0.214,0.21603
+DDEVPLSTIK,Ddev Plastiks Industries Limited,Basic Materials,9,7,2,0,0,12.56237,48.7,0.109,0.031,
+INDIACEM,The India Cements Limited,Basic Materials,9,3,5,0,1,,0.0,0.026,2.764,-0.00662
+KUANTUM,Kuantum Papers Limited,Basic Materials,9,8,1,0,0,12.7252035,48.1,0.072,-0.533,
+LICI,Life Insurance Corporation of India,Financial Services,9,6,3,0,0,9.532984,48.1,0.161,,
+FIEMIND,Fiem Industries Limited,Consumer Cyclical,9,1,8,0,0,23.419744,0.0,0.162,0.348,
+GRASIM,Grasim Industries Limited,Basic Materials,9,2,7,0,0,44.051052,0.0,0.274,0.141,
+GANESHHOU,Ganesh Housing Limited,Real Estate,9,7,0,2,0,13.622814,46.4,-0.645,-0.666,
+NRAIL,N R Agarwal Industries Limited,Basic Materials,9,3,5,0,1,34.35907,0.0,0.301,,0.054970004
+AXISBANK,Axis Bank Limited,Financial Services,9,5,1,3,0,14.727877,19.9,-0.112,0.064,0.13152
+DENTA,DENTA,Industrials,9,7,0,2,0,10.707008,63.4,0.042,-0.312,
+HINDALCO,Hindalco Industries Limited,Basic Materials,9,7,2,0,0,14.770998,39.7,0.139,-0.451,
+AARTIIND,Aarti Industries Limited,Basic Materials,9,2,7,0,0,40.333042,0.0,0.132,0.434,0.07249
+NTPC,NTPC Limited,Utilities,9,7,1,1,0,21.885384,34.5,0.08,-0.016,
+DMART,Avenue Supermarts Limited,Consumer Defensive,9,0,6,1,2,95.23051,0.0,0.189,0.196,0.12944001
+EPL,EPL Limited,Consumer Cyclical,9,7,2,0,0,17.20943,37.0,0.133,-0.127,
+ARROWGREEN,Arrow Greentech Limited,Consumer Cyclical,9,6,0,2,1,14.183555,48.1,0.017,0.034,
+AFFLE,Affle 3i Limited,Communication Services,9,0,6,2,1,45.65997,0.0,0.192,0.189,
+HPL,HPL Electric & Power Limited,Industrials,9,5,4,0,0,22.993378,21.4,0.208,0.075,
+DANGEE,Dangee Dums Limited,Consumer Cyclical,9,1,8,0,0,,0.0,0.153,1.355,
+ARKADE,ARKADE,Real Estate,9,7,0,2,0,14.424242,43.3,-0.124,-0.286,
+BRITANNIA,Britannia Industries Limited,Consumer Defensive,9,0,4,4,1,51.280594,0.0,0.079,0.211,0.53314
+COFFEEDAY,Coffee Day Enterprises Limited,Consumer Cyclical,9,8,1,0,0,13.614526,50.2,0.07,,
+EMKAY,Emkay Global Financial Services Limited,Financial Services,9,2,5,0,2,28.581497,0.0,0.961,-0.375,0.044460002
+HERITGFOOD,Heritage Foods Limited,Consumer Defensive,9,5,2,1,1,18.722382,22.2,0.104,-0.367,0.14436
+JYOTICNC,Jyoti CNC Automation Limited,Industrials,9,0,7,2,0,45.459507,0.0,0.281,0.102,
+IFBAGRO,IFB Agro Industries Limited,Consumer Defensive,9,6,3,0,0,18.97451,21.2,0.159,-0.354,
+EIEL,EIEL,Industrials,9,7,0,2,0,16.175734,44.7,0.01,-0.112,
+CARYSIL,Carysil Limited,Consumer Cyclical,9,2,6,1,0,29.157143,0.0,0.096,0.696,
+AUTOAXLES,Automotive Axles Limited,Consumer Cyclical,9,7,1,0,1,16.286018,40.4,0.059,-0.02,
+BLUECOAST,Blue Coast Hotels Limited,Consumer Cyclical,9,4,5,0,0,26.77686,0.0,20.456,,
+OSWALPUMPS,OSWALPUMPS,Industrials,9,2,5,2,0,44.825375,0.0,0.319,0.021,
+INDOAMIN,Indo Amines Limited,Basic Materials,9,7,2,0,0,12.941116,47.2,0.072,0.066,
+NRBBEARING,NRB Bearings Limited,Consumer Cyclical,9,2,2,3,2,23.5346,0.0,0.13,,0.15174
+JKIL,J. Kumar Infraprojects Limited,Industrials,8,8,0,0,0,9.560503,67.3,-0.122,-0.161,
+DWARKESH,Dwarikesh Sugar Industries Limited,Consumer Defensive,8,3,5,0,0,39.504673,0.0,0.04,0.431,
+DPWIRES,D.P. Wires Limited,Industrials,8,6,0,0,2,22.463291,23.2,-0.384,-0.316,
+GLOBECIVIL,GLOBECIVIL,Industrials,8,8,0,0,0,17.573645,39.9,,,
+INOXWIND,Inox Wind Limited,Industrials,8,2,5,1,0,34.864964,0.0,0.325,-0.18,
+HUHTAMAKI,Huhtamaki India Limited,Consumer Cyclical,8,8,0,0,0,10.574169,61.3,0.041,-0.02,
+BEDMUTHA,Bedmutha Industries Limited,Basic Materials,8,2,5,0,1,,0.0,0.446,,-0.00035999998
+NSLNISP,NMDC Steel Limited,Basic Materials,8,3,5,0,0,,0.0,0.419,,
+ICRA,ICRA Limited,Financial Services,8,1,5,2,0,28.090473,0.0,0.041,0.323,
+JBCHEPHARM,J. B. Chemicals & Pharmaceuticals Limited,Healthcare,8,0,5,2,1,48.077267,0.0,0.105,0.216,
+DCMSRIND,DCM Shriram Industries Limited,Consumer Defensive,8,8,0,0,0,3.030574,87.4,-0.476,-0.507,
+KIRLOSIND,Kirloskar Industries Limited,Industrials,8,8,0,0,0,19.76283,32.4,0.006,-0.144,
+IL&FSENGG,IL&FS Engineering and Construction Company Limited,Industrials,8,3,5,0,0,,0.0,-0.082,0.273,
+MEDPLUS,MedPlus Health Services Limited,Healthcare,8,0,8,0,0,55.258575,0.0,0.157,0.259,
+DELHIVERY,Delhivery Limited,Industrials,8,1,5,0,2,237.875,0.0,0.3,-0.006,0.01596
+NELCAST,Nelcast Limited,Industrials,8,3,5,0,0,26.431225,0.0,0.273,0.044,
+EPIGRAL,Epigral Limited,Basic Materials,8,7,0,1,0,15.797403,35.5,-0.075,-0.626,
+HONASA,Honasa Consumer Limited,Consumer Defensive,8,0,8,0,0,74.05857,0.0,0.162,0.949,
+MINDACORP,Minda Corporation Limited,Consumer Cyclical,8,0,8,0,0,43.657524,0.0,0.246,0.321,
+HEG,HEG Limited,Industrials,8,3,2,1,2,31.641336,0.0,0.112,,0.07338
+CONCORDBIO,Concord Biotech Limited,Healthcare,8,1,2,2,3,38.17418,0.0,0.137,-0.163,
+ARVIND,Arvind Limited,Consumer Cyclical,8,2,4,1,1,29.235256,0.0,0.159,0.059,0.10657
+FCSSOFT,FCS Software Solutions Limited,Technology,8,3,5,0,0,,0.0,0.606,,
+DBCORP,D. B. Corp Limited,Communication Services,8,7,0,1,0,11.544801,58.0,-0.058,-0.19,
+DYNPRO,Dynemic Products Limited,Basic Materials,8,8,0,0,0,16.47672,32.8,-0.051,0.031,
+3IINFOLTD,3i Infotech Limited,Technology,8,8,0,0,0,5.86,78.3,-0.051,-0.954,
+GUJAPOLLO,Gujarat Apollo Industries Limited,Industrials,8,3,5,0,0,,0.0,1.595,-0.742,
+GLOSTERLTD,Gloster Limited,Consumer Cyclical,8,3,5,0,0,97.14286,0.0,1.153,,
+ASIANHOTNR,Asian Hotels (North) Limited,Consumer Cyclical,8,6,1,1,0,14.324714,47.6,0.052,,
+KAPSTON,Kapston Services Limited,Industrials,8,0,8,0,0,37.462856,0.0,0.165,0.641,
+NUVAMA,Nuvama Wealth Management Limited,Financial Services,8,0,1,5,2,26.039993,0.0,0.074,0.043,0.27317
+KAMATHOTEL,Kamat Hotels (India) Limited,Consumer Cyclical,8,7,1,0,0,15.198863,44.4,0.062,-0.272,
+HATSUN,Hatsun Agro Product Limited,Consumer Defensive,8,0,8,0,0,60.25272,0.0,0.176,0.478,
+ORIENTBELL,Orient Bell Limited,Industrials,8,3,5,0,0,53.228996,0.0,0.036,2.485,
+HIMATSEIDE,Himatsingka Seide Limited,Consumer Cyclical,8,8,0,0,0,11.95122,56.3,-0.116,-0.643,
+FDC,FDC Limited,Healthcare,8,5,0,1,2,27.550789,21.9,0.001,-0.237,
+HEXATRADEX,Hexa Tradex Limited,Financial Services,8,3,0,0,5,,0.0,-0.031,,-0.0019200001
+NINSYS,NINtec Systems Limited,Technology,8,0,6,2,0,36.11179,0.0,0.23,0.152,
+BIL,Bhartiya International Ltd.,Consumer Cyclical,8,3,5,0,0,25.577793,0.0,0.392,,
+ELECTHERM,Electrotherm (India) Limited,Basic Materials,8,8,0,0,0,5.8206215,76.2,-0.164,,
+AGARWALEYE,AGARWALEYE,Healthcare,8,0,8,0,0,113.66161,0.0,0.23,0.472,
+CHEMBONDCH,Chembond Chemicals Limited,Basic Materials,8,7,0,1,0,15.180368,38.0,-0.316,-0.584,
+KAYNES,Kaynes Technology India Limited,Technology,8,1,5,0,2,60.24489,0.0,0.262,-0.263,0.09568
+MONEYBOXX,Moneyboxx Finance Limited,Financial Services,8,2,6,0,0,,0.0,0.092,0.333,
+HFCL,HFCL Limited,Technology,8,1,5,0,2,422.54288,0.0,1.278,,0.07266
+LINC,Linc Limited,Industrials,8,7,1,0,0,16.697756,42.9,0.058,-0.218,
+FLAIR,FLAIR,Industrials,8,2,5,1,0,26.114151,0.0,0.201,0.119,
+GICL,GICL,Industrials,8,0,8,0,0,138.48276,0.0,0.235,0.355,
+KOTHARIPRO,Kothari Products Limited,Industrials,8,8,0,0,0,2.9767253,89.8,-0.269,-0.059,
+ADSL,Allied Digital Services Limited,Technology,8,6,2,0,0,22.089632,18.4,0.122,-0.257,
+NDL,Nandan Denim Limited,Consumer Cyclical,8,8,0,0,0,1.1551725,95.8,-0.461,-0.6,
+MBLINFRA,MBL Infrastructures Limited,Industrials,8,3,5,0,0,,0.0,0.665,,
+DREAMFOLKS,Dreamfolks Services Limited,Industrials,8,8,0,0,0,10.125,65.4,-0.843,-0.538,
+FOODSIN,Foods and Inns Limited,Consumer Defensive,8,8,0,0,0,13.159624,45.3,-0.206,-0.5,
+MUFTI,MUFTI,Consumer Cyclical,8,8,0,0,0,10.916784,60.0,-0.06,-0.619,
+CLEANMAX,CLEANMAX,Utilities,8,1,7,0,0,416.12906,0.0,0.13,9.72,
+ASHAPURMIN,Ashapura Minechem Limited,Basic Materials,8,6,2,0,0,16.154236,34.1,0.11,-0.209,
+JAYAGROGN,Jayant Agro-Organics Limited,Basic Materials,8,8,0,0,0,15.15625,38.1,0.013,-0.511,
+AVANTIFEED,Avanti Feeds Limited,Consumer Defensive,8,1,3,1,3,23.419468,0.0,0.013,0.21,
+AGARIND,Agarwal Industrial Corporation Limited,Basic Materials,8,8,0,0,0,10.650001,56.5,-0.247,-0.899,
+BESTAGRO,Best Agrolife Limited,Basic Materials,8,8,0,0,0,9.010582,63.2,-0.26,,
+CEWATER,CEWATER,Utilities,8,8,0,0,0,10.503989,68.6,0.014,,
+IRCON,Ircon International Limited,Industrials,8,5,3,0,0,21.843798,25.3,-0.189,0.163,
+BALMLAWRIE,Balmer Lawrie & Co. Ltd.,Industrials,8,7,0,1,0,12.454545,57.4,0.042,0.032,
+MADRASFERT,Madras Fertilizers Limited,Basic Materials,8,0,5,3,0,146.86667,0.0,0.285,,2.6954901
+BHAGCHEM,Bhagiradha Chemicals & Industries Limited,Basic Materials,8,1,7,0,0,244.16667,0.0,0.109,0.385,
+NOVAAGRI,Nova Agritech Limited,Basic Materials,8,8,0,0,0,14.713542,39.9,-0.245,-0.761,
+ONELIFECAP,Onelife Capital Advisors Limited,Financial Services,8,3,5,0,0,,0.0,1.919,,
+ABB,ABB India Limited,Industrials,8,0,5,2,1,86.958305,0.0,0.008,2.76,
+GAEL,Gujarat Ambuja Exports Limited,Consumer Defensive,8,3,5,0,0,24.553543,0.0,0.312,-0.077,
+CONFIPET,Confidence Petroleum India Limited,Energy,8,3,5,0,0,24.255907,0.0,0.999,-0.315,
+IRFC,Indian Railway Finance Corporation Limited,Financial Services,8,3,0,3,2,18.444029,0.0,0.005,0.0,0.12812
+APOLLOHOSP,Apollo Hospitals Enterprise Limited,Healthcare,8,0,8,0,0,64.51549,0.0,0.172,0.35,
+EIHAHOTELS,EIH Associated Hotels Limited,Consumer Cyclical,8,4,0,2,2,20.1972,26.1,-0.027,0.017,
+GAIL,GAIL (India) Limited,Utilities,8,8,0,0,0,12.423755,62.8,-0.045,-0.57,
+KRSNAA,Krsnaa Diagnostics Limited,Healthcare,8,7,0,1,0,23.862803,32.4,0.038,-0.207,
+IL&FSTRANS,IL&FS Transportation Networks Limited,Industrials,8,3,5,0,0,,0.0,0.76,,
+OSIAHYPER,Osia Hyper Retail Limited,Consumer Cyclical,8,8,0,0,0,3.459854,87.3,-0.061,-0.647,
+ARMANFIN,Arman Financial Services Limited,Financial Services,8,2,5,1,0,66.66169,0.0,1.611,,
+GMRAIRPORT,GMR Airports Limited,Industrials,8,3,5,0,0,,0.0,0.505,-0.455,
+LAURUSLABS,Laurus Labs Limited,Healthcare,8,0,4,3,1,84.73752,0.0,0.06,0.194,0.17743
+KKCL,Kewal Kiran Clothing Limited,Consumer Cyclical,8,4,0,2,2,19.918251,27.1,,,0.14431
+EMSLIMITED,EMS Limited,Industrials,8,7,0,1,0,13.738892,53.0,-0.183,-0.627,
+PAISALO,Paisalo Digital Limited,Financial Services,8,3,3,2,0,17.835878,0.0,0.2,0.043,
+NECLIFE,Nectar Lifesciences Limited,Healthcare,8,3,5,0,0,,0.0,,0.829,
+NTPCGREEN,NTPCGREEN,Utilities,8,1,5,2,0,156.50725,0.0,0.293,-0.75,
+JSWENERGY,JSW Energy Limited,Utilities,8,2,5,1,0,40.491352,0.0,0.41,-0.115,0.08817001
+AUROPHARMA,Aurobindo Pharma Limited,Healthcare,8,5,2,1,0,25.18827,28.6,0.084,0.076,
+MEESHO,MEESHO,Consumer Cyclical,8,0,5,0,3,,0.0,0.471,,-0.46563
+BEARDSELL,Beardsell Limited,Industrials,8,8,0,0,0,11.460176,60.8,0.028,-0.172,
+PARACABLES,Paramount Communications Limited,Technology,8,3,3,0,2,29.610525,0.0,0.177,-0.662,
+BTML,Bodhi Tree Multimedia Limited,Communication Services,8,3,5,0,0,131.59999,0.0,1.312,-0.071,
+KCP,The KCP Limited,Basic Materials,8,8,0,0,0,13.990525,42.9,0.023,-0.032,
+KICL,Kalyani Investment Company Limited,Financial Services,8,3,3,2,0,48.78244,0.0,0.163,-0.471,
+INSECTICID,Insecticides (India) Limited,Basic Materials,8,7,1,0,0,14.835795,39.5,0.076,-0.396,
+DLF,DLF Limited,Real Estate,8,1,0,3,4,31.7507,0.0,-0.42,-0.011,0.10031
+BENGALASM,Bengal & Assam Company Limited,,8,3,3,2,0,,0.0,0.093,0.148,
+ITC,ITC Limited,Consumer Defensive,8,3,1,2,2,19.043077,20.9,0.067,0.0,
+EMPOWER,Empower India Limited,,8,3,5,0,0,,0.0,0.976,,
+GULFOILLUB,Gulf Oil Lubricants India Limited,Basic Materials,8,7,1,0,0,13.422365,45.2,0.091,-0.224,
+BTTL,Bhilwara Technical Textiles Limited,Consumer Cyclical,8,3,5,0,0,180.95,0.0,2.068,,
+DECNGOLD,Deccan Gold Mines Limited,,8,1,5,0,2,,0.0,7.441,-0.583,-0.17496
+INVPRECQ,Investment & Precision Castings Limited,,8,0,8,0,0,,0.0,0.196,6.541,
+ADANIGREEN,Adani Green Energy Limited,Utilities,8,0,7,1,0,142.90157,0.0,0.131,2.803,0.07576
+BLUESTONE,BLUESTONE,Consumer Cyclical,8,1,5,0,2,452.71432,0.0,0.477,,0.00971
+GALAXYSURF,Galaxy Surfactants Limited,Basic Materials,8,3,2,1,2,23.040405,0.0,0.149,-0.18,0.1047
+ANTGRAPHIC,Antarctica Limited,Consumer Cyclical,8,3,5,0,0,,0.0,0.259,-0.75,
+MOREPENLAB,Morepen Laboratories Limited,Healthcare,8,7,1,0,0,23.3,33.9,0.057,0.02,
+LYPSAGEMS,Lypsa Gems & Jewellery Limited,Consumer Cyclical,8,3,5,0,0,,0.0,-0.018,74.691,
+MEP,MEP Infrastructure Developers Limited,Industrials,8,3,5,0,0,,0.0,2.245,,
+EICHERMOT,Eicher Motors Limited,Consumer Cyclical,8,0,6,2,0,35.971794,0.0,0.229,0.213,
+AURIGROW,Auri Grow India Limited,Industrials,8,8,0,0,0,3.875,86.7,,,
+LAXMICOT,Laxmi Cotspin Limited,Consumer Cyclical,8,8,0,0,0,3.1875,88.3,-0.418,,
+MFML,Mahalaxmi Fabric Mills Limited,Consumer Cyclical,8,8,0,0,0,4.801126,82.4,-0.195,,
+LIBAS,Libas Consumer Products Limited,Consumer Cyclical,8,8,0,0,0,3.4782608,87.3,0.018,,
+AKSHAR,Akshar Spintex Limited,Consumer Cyclical,8,3,5,0,0,,0.0,0.323,,
+ADL,Archidply Decor Limited,Consumer Cyclical,8,3,5,0,0,2353.3333,0.0,-0.124,1.0,
+LASA,Lasa Supergenerics Limited,Healthcare,8,8,0,0,0,2.1405406,93.9,-0.933,,
+LFIC,Lakshmi Finance & Industrial Corporation Limited,Financial Services,8,3,3,2,0,35.22469,0.0,0.208,,
+MOIL,MOIL Limited,Basic Materials,8,3,0,3,2,21.51016,0.0,0.026,-0.199,0.10005
+NAVKARURB,Navkar Urbanstructure Limited,Basic Materials,8,3,5,0,0,,0.0,-0.385,6.5,
+MARKSANS,Marksans Pharma Limited,Healthcare,8,4,3,1,0,26.09434,26.0,0.106,0.082,
+INDOWIND,Indowind Energy Limited,Utilities,8,3,5,0,0,111.22222,0.0,-0.252,16.212,
+JSWINFRA,JSW Infrastructure Limited,Industrials,8,0,3,3,2,36.639233,0.0,0.179,-0.181,0.13948
+GREAVESCOT,Greaves Cotton Limited,Industrials,8,2,6,0,0,36.350876,0.0,0.166,0.225,
+JAGRAN,Jagran Prakashan Limited,Communication Services,8,8,0,0,0,8.904636,67.6,-0.077,-0.135,
+KAMOPAINTS,Kamdhenu Ventures Limited,Basic Materials,8,8,0,0,0,5.484848,77.6,-0.146,-0.5,
+ENTERO,Entero Healthcare Solutions Limited,Healthcare,8,2,6,0,0,46.088135,0.0,0.256,0.086,
+BYKE,The Byke Hospitality Limited,Consumer Cyclical,8,3,5,0,0,31.690908,0.0,0.05,0.5,
+NSIL,Nalwa Sons Investments Limited,Financial Services,8,3,0,2,3,126.57422,0.0,-0.118,-0.08,
+MKPL,M. K. Proteins Limited,Consumer Defensive,8,3,5,0,0,23.272726,0.0,1.269,0.0,
+GILLANDERS,Gillanders Arbuthnot and Company Limited,Consumer Defensive,8,8,0,0,0,13.037448,45.9,-0.163,-0.651,
+INDOUS,Indo Us Bio-Tech Limited,Basic Materials,8,7,0,1,0,14.22027,42.0,-0.032,-0.409,
+BBL,Bharat Bijlee Limited,Industrials,8,6,2,0,0,22.124613,24.3,0.106,-0.392,
+AURUM,Aurum PropTech Limited,Real Estate,8,2,5,0,1,655.7407,0.0,0.759,,-0.02928
+AVG,AVG Logistics Limited,Industrials,8,8,0,0,0,11.53314,60.6,-0.059,-0.058,
+AWHCL,Antony Waste Handling Cell Limited,Industrials,8,7,1,0,0,16.127266,44.8,0.081,-0.27,
+GSLSU,Global Surfaces Limited,Basic Materials,8,3,5,0,0,,0.0,0.287,,
+CHEMBOND,Chembond Material Technologies Limited,Basic Materials,8,6,0,0,2,18.722105,23.6,,,0.07979
+GLAXO,GlaxoSmithKline Pharmaceuticals Limited,Healthcare,8,0,6,2,0,40.653442,0.0,0.097,0.286,
+ALLCARGO,Allcargo Logistics Limited,Industrials,8,8,0,0,0,18.723404,36.0,-0.874,,
+GRAUWEIL,Grauer & Weil (India) Limited,Basic Materials,8,5,1,1,1,20.767742,15.2,0.058,-0.253,
+ELECTCAST,Electrosteel Castings Limited,Industrials,8,8,0,0,0,16.133858,44.8,-0.172,,
+APOLLO,Apollo Micro Systems Limited,Industrials,8,0,7,1,0,116.42292,0.0,0.7,0.133,
+ESAFSFB,ESAF Small Finance Bank,Financial Services,8,3,5,0,0,,0.0,1.423,,
+BLACKBUCK,BlackBuck Limited,Technology,8,1,5,2,0,25.319658,0.0,0.504,,
+INDUSINDBK,IndusInd Bank Limited,Financial Services,8,3,5,0,0,77.55031,0.0,2.727,,0.01362
+GANGESSECU,Ganges Securities Limited,Consumer Defensive,8,3,5,0,0,78.91667,0.0,-0.135,0.417,
+ALPHAGEO,Alphageo (India) Limited,Energy,8,3,5,0,0,,0.0,0.509,,
+BALAXI,Balaxi Pharmaceuticals Limited,Healthcare,8,8,0,0,0,15.134502,57.1,-0.01,-0.938,
+ALKEM,Alkem Laboratories Limited,Healthcare,8,4,2,2,0,27.701475,21.5,0.107,0.016,
+CUBEXTUB,Cubex Tubings Limited,Basic Materials,8,5,2,0,1,17.385664,29.0,0.126,-0.404,0.093660004
+GARFIBRES,Garware Technical Fibres Limited,Consumer Cyclical,8,2,5,1,0,29.408049,0.0,0.104,0.179,
+EMMBI,Emmbi Industries Limited,Consumer Cyclical,7,6,1,0,0,22.387863,18.1,0.091,-0.383,
+AERONEU,Aeroflex Neu Limited,Consumer Cyclical,7,2,5,0,0,115.89474,0.0,-0.045,112.985,
+OMPOWER,OMPOWER,Industrials,7,2,0,3,2,28.643412,0.0,,,0.35826
+AARON,Aaron Industries Limited,Industrials,7,0,7,0,0,39.38024,0.0,0.265,0.128,
+ASMS,Avio Smart Market Stack Limited,Technology,7,0,5,0,2,68.818184,0.0,4.552,,
+BOSCHLTD,Bosch Limited,Consumer Cyclical,7,0,4,1,2,40.322666,0.0,0.094,0.161,
+GNRL,Gujarat Natural Resources Limited,,7,0,5,2,0,,0.0,0.673,,
+BIKAJI,Bikaji Foods International Limited,Consumer Defensive,7,0,7,0,0,67.99288,0.0,0.105,1.175,
+ADVENZYMES,Advanced Enzyme Technologies Limited,Basic Materials,7,3,2,2,0,26.746323,0.0,0.017,0.128,
+BIRLAPREC,Birla Precision Technologies Limited,,7,2,5,0,0,,0.0,0.013,0.571,
+NARMADA,Narmada Agrobase Limited,Basic Materials,7,2,5,0,0,32.08108,0.0,0.543,-0.289,
+AEGISLOG,AEGISLOG,Energy,7,1,5,1,0,30.769056,0.0,0.011,0.424,
+IDEAFORGE,ideaForge Technology Limited,Technology,7,0,5,0,2,,0.0,5.944,,-0.028199999
+JITFINFRA,JITF Infralogistics Limited,Industrials,7,3,3,0,1,,0.0,0.16,,
+KOTAKBANK,Kotak Mahindra Bank Limited,Financial Services,7,3,1,3,0,19.96132,0.0,-0.11,0.098,0.11389
+KSL,Kalyani Steels Limited,Basic Materials,7,7,0,0,0,13.334152,45.6,-0.102,-0.102,
+KRONOX,KRONOX,Basic Materials,7,4,1,2,0,18.68608,23.7,0.053,0.011,
+BATLIBOI,Batliboi Limited,Industrials,7,2,5,0,0,90.744446,0.0,0.716,,
+ELGIEQUIP,Elgi Equipments Limited,Industrials,7,0,6,1,0,40.97494,0.0,0.184,0.182,
+ICICIPRULI,ICICI Prudential Life Insurance Company Limited,Financial Services,7,0,5,1,1,48.295757,0.0,-0.789,0.614,0.12579
+LT,Larsen & Toubro Limited,Industrials,7,2,2,2,1,33.44456,0.0,0.117,-0.345,0.16951999
+CRAMC,CRAMC,Financial Services,7,0,0,5,2,23.527397,0.0,0.029,-0.01,0.30286
+DHANUKA,Dhanuka Agritech Limited,Basic Materials,7,6,0,1,0,6.9299645,71.7,-0.079,-0.276,
+NGIL,Nakoda Group of Industries Limited,Consumer Defensive,7,2,5,0,0,46.86364,0.0,-0.252,1068.519,
+KABRAEXTRU,Kabra Extrusiontechnik Limited,Industrials,7,7,0,0,0,19.682568,32.7,-0.089,,
+MEDICO,Medico Remedies Limited,Healthcare,7,1,6,0,0,31.62143,0.0,0.486,0.094,
+AVANTEL,Avantel Limited,Technology,7,0,5,0,2,278.3889,0.0,0.296,-0.31,0.05211
+IITL,Industrial Investment Trust Limited,Financial Services,7,3,0,2,2,66.149796,0.0,,,
+GINNIFILA,Ginni Filaments Limited,Consumer Cyclical,7,7,0,0,0,9.11297,66.6,-0.174,,
+HAPPSTMNDS,Happiest Minds Technologies Limited,Technology,7,2,2,1,2,29.417753,0.0,0.107,-0.198,0.116969995
+HARRMALAYA,Harrisons Malayalam Limited,Consumer Defensive,7,7,0,0,0,15.310395,36.4,-0.008,-0.318,
+DATAMATICS,Datamatics Global Services Limited,Technology,7,4,3,0,0,22.519733,16.8,0.199,-0.51,
+ATLANTAA,Atlantaa Limited,Industrials,7,2,5,0,0,,0.0,9.328,,
+GLOTTIS,GLOTTIS,Industrials,7,7,0,0,0,13.961445,52.2,-0.268,-0.827,
+ATHERENERG,Ather Energy Limited,Consumer Cyclical,7,0,5,0,2,,0.0,0.737,,-0.33740002
+MAHEPC,Mahindra EPC Irrigation Limited,Industrials,7,3,2,0,2,25.40749,0.0,0.116,-0.237,0.07096
+GMDCLTD,Gujarat Mineral Development Corporation Limited,Energy,7,1,1,3,2,21.695478,0.0,0.08,-0.143,0.14189
+HDFCAMC,HDFC Asset Management Company Limited,Financial Services,7,0,0,5,2,40.64802,0.0,0.037,-0.028,0.32929
+MANOMAY,Manomay Tex India Limited,Consumer Cyclical,7,7,0,0,0,17.833332,34.7,-0.05,-0.234,
+KOTARISUG,Kothari Sugars and Chemicals Limited,Consumer Defensive,7,3,3,0,1,39.375004,0.0,0.164,,
+CHEMCON,Chemcon Speciality Chemicals Limited,Basic Materials,7,3,1,0,3,28.309689,0.0,0.054,-0.421,
+ADVANIHOTR,Advani Hotels & Resorts (India) Limited,Consumer Cyclical,7,3,0,2,2,20.607843,24.6,0.027,-0.093,
+LTTS,L&T Technology Services Limited,Technology,7,1,1,3,2,30.210909,0.0,-0.042,0.067,0.19540001
+AGIIL,AGI Infra Limited,Real Estate,7,0,5,2,0,61.011646,0.0,-0.043,0.372,
+ABSLAMC,Aditya Birla Sun Life AMC Limited,Financial Services,7,0,0,5,2,30.584745,0.0,-0.145,-0.181,0.25103
+HDFCBANK,HDFC Bank Limited,Financial Services,7,3,1,3,0,17.124052,0.0,-0.018,0.075,0.13818
+MAHASTEEL,Mahamaya Steel Industries Limited,Basic Materials,7,0,7,0,0,123.41555,0.0,0.122,0.758,
+GOODYEAR,Goodyear India Limited,Consumer Cyclical,7,2,5,0,0,30.580448,0.0,-0.039,1.599,
+IOLCP,IOL Chemicals and Pharmaceuticals Limited,Healthcare,7,5,2,0,0,26.820253,24.0,0.109,0.0,
+FAZE3Q,Faze Three Limited,Consumer Cyclical,7,2,5,0,0,34.484898,0.0,0.274,-0.277,
+MAXIND,Max India Limited,Healthcare,7,2,5,0,0,,0.0,0.274,,
+AVTNPL,AVT Natural Products Limited,Basic Materials,7,5,2,0,0,17.718086,27.7,0.122,-0.197,
+HLEGLAS,HLE Glascoat Limited,Industrials,7,2,5,0,0,32.482086,0.0,0.414,-0.728,
+E2E,E2E Networks Limited,Technology,7,1,5,0,1,,0.0,1.857,-0.596,-0.0095
+MAHSCOOTER,Maharashtra Scooters Ltd.,Financial Services,7,3,0,2,2,44.64319,0.0,-0.036,-0.923,0.010620001
+ARE&M,Amara Raja Energy & Mobility Limited,Industrials,7,7,0,0,0,20.284344,30.6,0.042,-0.53,
+CYIENT,Cyient Limited,Industrials,7,5,0,0,2,22.574541,22.8,0.009,-0.679,0.077659994
+GRAVITA,Gravita India Limited,Industrials,7,1,2,2,2,32.469704,0.0,0.131,-0.032,0.16680999
+BHARATRAS,Bharat Rasayan Limited,Basic Materials,7,5,1,1,0,17.300991,29.4,0.055,-0.013,
+PANAMAPET,Panama Petrochem Limited,Energy,7,6,1,0,0,9.689644,29.5,0.065,-0.056,
+GNA,G N A Axles Limited,Consumer Cyclical,7,7,0,0,0,14.28434,47.7,,,
+GPTHEALTH,GPT Healthcare Limited,Healthcare,7,4,3,0,0,28.653847,18.8,0.176,-0.235,
+NDTV,New Delhi Television Limited,Communication Services,7,3,3,0,1,,0.0,0.185,,-3.41214
+DOLLAR,Dollar Industries Limited,Consumer Cyclical,7,7,0,0,0,14.450191,47.1,0.02,-0.08,
+FISCHER,Fischer Medical Ventures Limited,Healthcare,7,0,5,2,0,59.101696,0.0,7.605,,
+INOXINDIA,INOX India Limited,Industrials,7,0,5,2,0,50.5111,0.0,0.285,0.041,
+KDDL,KDDL Limited,Consumer Cyclical,7,2,5,0,0,33.224903,0.0,0.264,-0.284,
+HAPPYFORGE,HAPPYFORGE,Industrials,7,0,5,2,0,45.868343,0.0,0.104,0.222,
+GENESYS,Genesys International Corporation Limited,Technology,7,6,0,1,0,21.637306,20.1,-0.149,-0.952,
+GPTINFRA,GPT Infraprojects Limited,Industrials,7,7,0,0,0,16.355337,44.1,0.021,-0.064,
+DAMCAPITAL,DAMCAPITAL,Financial Services,7,4,0,2,1,13.328098,27.5,-0.346,-0.61,
+MANGLMCEM,Mangalam Cement Limited,Basic Materials,7,2,5,0,0,30.117626,0.0,-0.039,0.454,
+AKUMS,AKUMS,Healthcare,7,3,2,0,2,31.04805,0.0,0.127,-0.426,0.08019
+KERNEX,Kernex Microsystems (India) Limited,Technology,7,0,5,2,0,44.639343,0.0,0.972,-0.159,
+GKSL,GKSL,Healthcare,7,0,5,2,0,63.23502,0.0,0.972,0.0,
+LANDMARK,Landmark Cars Limited,Consumer Cyclical,7,2,5,0,0,65.80702,0.0,0.126,0.248,
+KEC,KEC International Limited,Industrials,7,5,2,0,0,21.138727,27.7,0.122,-0.016,
+INDNIPPON,India Nippon Electricals Limited,Consumer Cyclical,7,7,0,0,0,17.271053,36.8,,,
+CAMPUS,Campus Activewear Limited,Consumer Cyclical,7,0,7,0,0,51.564934,0.0,0.143,0.362,
+ELECON,Elecon Engineering Company Limited,Industrials,7,2,0,3,2,31.940052,0.0,-0.065,-0.959,0.15851
+APCOTEXIND,Apcotex Industries Limited,Basic Materials,7,2,5,0,0,24.99488,0.0,-0.067,0.919,
+DCAL,Dishman Carbogen Amcis Limited,Healthcare,7,6,1,0,0,25.62665,27.4,0.055,,
+IVALUE,iValue Infosolutions Limited,Technology,7,7,0,0,0,14.325189,47.1,-0.096,-0.068,
+EXICOM,Exicom Tele-Systems Limited,Industrials,7,2,5,0,0,,0.0,0.407,,
+INDORAMA,Indo Rama Synthetics (India) Limited,Consumer Cyclical,7,7,0,0,0,6.8704762,74.9,0.014,-0.358,
+LIKHITHA,Likhitha Infrastructure Limited,Energy,7,3,0,1,3,15.4814825,0.0,-0.118,-0.463,
+BFUTILITIE,BF Utilities Limited,Industrials,7,5,0,2,0,12.788897,56.3,-0.984,,
+MMFL,M M Forgings Limited,Industrials,7,5,2,0,0,24.816362,15.1,0.106,-0.338,
+ABDL,ABDL,Consumer Defensive,7,0,5,1,1,68.057594,0.0,1.087,-0.48,0.13551
+GMRP&UI,GMR Power And Urban Infra Limited,Energy,7,3,3,1,0,9.668931,29.7,0.16,,
+GOCOLORS,Go Fashion (India) Limited,Consumer Cyclical,7,5,0,0,2,20.246773,25.9,-0.002,-0.598,0.08529
+NOCIL,NOCIL Limited,Basic Materials,7,2,0,0,5,49.542168,0.0,0.013,-0.192,0.03147
+FINKURVE,Finkurve Financial Services Limited,Financial Services,7,2,3,2,0,41.925,0.0,0.073,0.114,
+DTIL,Dhunseri Tea & Industries Limited,Consumer Defensive,6,3,3,0,0,,0.0,0.153,,
+MIRCELECTR,MIRC Electronics Limited,Consumer Cyclical,6,0,5,0,1,,0.0,0.271,,
+BGRENERGY,BGR Energy Systems Limited,Industrials,6,3,3,0,0,,0.0,0.177,,
+ESABINDIA,ESAB India Limited,Industrials,6,0,3,1,2,48.076923,0.0,0.122,0.065,
+ABCOTS,ABCOTS,Consumer Cyclical,6,1,5,0,0,32.043858,0.0,0.304,-0.473,
+LAKPRE,Lakshmi Precision Screws Limited,Industrials,6,3,3,0,0,,0.0,0.209,-0.099,-0.86243
+NOVARTIND,Novartis India Limited,Healthcare,6,2,0,2,2,30.672077,0.0,-0.076,-0.368,
+EXIDEIND,Exide Industries Limited,Consumer Cyclical,6,2,3,0,1,34.731342,0.0,0.092,0.15,0.06172
+FINOPB,Fino Payments Bank Limited,Financial Services,6,6,0,0,0,14.318127,22.1,-0.311,-0.705,0.067600004
+ENERGYDEV,Energy Development Company Limited,Utilities,6,1,5,0,0,,0.0,0.38,,
+ASTEC,Astec LifeSciences Limited,Basic Materials,6,1,5,0,0,,0.0,0.327,,-0.25842
+MARINE,Marine Electricals (India) Limited,Industrials,6,0,6,0,0,56.818184,0.0,0.085,1.237,
+MUTHOOTMF,MUTHOOTMF,Financial Services,6,4,0,0,2,17.858973,0.0,,,0.062069997
+INGERRAND,Ingersoll-Rand (India) Limited,Industrials,6,0,3,2,1,53.760696,0.0,0.182,-0.074,
+DEEDEV,DEEDEV,Industrials,6,1,5,0,0,42.205387,0.0,0.77,,
+HGM,Handson Global Management (HGM) Limited,Technology,6,1,5,0,0,174.14705,0.0,1.458,,
+DIVISLAB,Divi's Laboratories Limited,Healthcare,6,0,2,2,2,72.467575,0.0,0.123,-0.01,
+COHANCE,COHANCE,Healthcare,6,1,5,0,0,90.04256,0.0,0.773,-0.703,
+ITCHOTELS,ITCHOTELS,Consumer Cyclical,6,2,0,2,2,42.714283,0.0,-0.633,-0.498,
+BCONCEPTS,Brand Concepts Limited,Consumer Cyclical,6,1,5,0,0,53.50843,0.0,0.32,-0.677,
+HYUNDAI,HYUNDAI,Consumer Cyclical,6,1,0,3,2,27.32335,0.0,0.048,-0.222,0.29916
+ETHOSLTD,Ethos Limited,Consumer Cyclical,6,1,5,0,0,64.10951,0.0,0.267,-0.049,
+BLISSGVS,Bliss GVS Pharma Limited,Healthcare,6,5,0,1,0,27.247301,22.8,0.037,-0.057,
+BLUEJET,Blue Jet Healthcare Limited,Healthcare,6,3,0,2,1,25.452394,27.8,-0.396,-0.594,
+JINDALSTEL,Jindal Steel Limited,Basic Materials,6,2,3,0,1,37.17562,0.0,0.23,,0.067719996
+MOTHERSON,Samvardhana Motherson International Limited,Consumer Cyclical,6,1,5,0,0,40.098766,0.0,0.145,0.164,
+MALUPAPER,Malu Paper Mills Limited,Basic Materials,6,3,3,0,0,,0.0,0.226,,
+AHLADA,Ahlada Engineers Limited,Industrials,6,6,0,0,0,23.591162,19.3,-0.071,-0.444,
+JAYKAY,Jaykay Enterprises Limited,Industrials,6,2,2,2,0,69.091705,0.0,0.126,-0.767,
+GENCON,Generic Engineering Construction and Projects Limited,Industrials,6,6,0,0,0,23.257309,20.5,-0.136,-0.189,
+INTENTECH,Intense Technologies Limited,Technology,6,3,0,0,3,26.231958,0.0,0.001,-0.26,
+INDOCO,Indoco Remedies Limited,Healthcare,6,2,3,0,1,,0.0,0.219,,-0.101210006
+GEOJITFSL,Geojit Financial Services Limited,Financial Services,6,2,1,1,2,22.071644,0.0,0.081,-0.435,0.06585
+HITECHCORP,Hitech Corporation Limited,Consumer Cyclical,6,3,3,0,0,31.61737,0.0,0.18,,
+ASAHISONG,Asahi Songwon Colors Limited,Basic Materials,6,6,0,0,0,18.280516,25.4,-0.098,-0.198,
+NACLIND,NACL Industries Limited,Basic Materials,6,0,5,0,1,769.4286,0.0,0.792,,0.00823
+COUNCODOS,Country Condo's Limited,Real Estate,6,3,0,0,3,72.28571,0.0,-0.096,-0.667,
+ARVEE,Arvee Laboratories (India) Ltd.,Basic Materials,6,0,6,0,0,86.96809,0.0,0.098,10.857,
+JKLAKSHMI,JK Lakshmi Cement Limited,Basic Materials,6,5,1,0,0,17.483284,28.6,0.061,-0.093,
+MCL,M Tek Copper Limited,Basic Materials,6,1,5,0,0,38.070587,0.0,0.607,-0.152,
+DEVX,Dev Accelerator Limited,Real Estate,6,3,3,0,0,237.17647,0.0,0.19,,
+BLUESTARCO,Blue Star Limited,Industrials,6,0,3,2,1,64.51362,0.0,0.019,0.171,0.16222
+APARINDS,APAR Industries Limited,Industrials,6,0,6,0,0,52.357105,0.0,0.162,0.192,
+NAGREEKEXP,Nagreeka Exports Limited,Consumer Cyclical,6,3,3,0,0,34.194805,0.0,0.218,-0.286,
+MOHITIND,Mohit Industries Limited,Consumer Cyclical,6,3,3,0,0,,0.0,0.227,,
+EXXARO,Exxaro Tiles Limited,Industrials,6,3,1,0,2,111.0,0.0,0.052,-0.948,0.01018
+MOTISONS,MOTISONS,Consumer Cyclical,6,2,3,1,0,,0.0,0.201,,
+AIAENG,AIA Engineering Limited,Industrials,6,2,2,2,0,30.959377,0.0,0.001,0.135,
+IFGLEXPOR,IFGL Refractories Limited,Basic Materials,6,3,3,0,0,41.4425,0.0,0.237,,
+BLUEDART,Blue Dart Express Limited,Industrials,6,0,6,0,0,48.5449,0.0,0.08,1.891,
+DJML,DJ Mediaprint & Logistics Limited,Industrials,6,1,5,0,0,39.24896,0.0,0.352,0.0,
+NH,Narayana Hrudayalaya Limited,Healthcare,6,0,5,1,0,48.08305,0.0,0.574,-0.343,
+AJAXENGG,AJAXENGG,Industrials,6,2,0,1,3,27.390741,0.0,-0.209,-0.439,
+INVENTURE,Inventure Growth & Securities Limited,Financial Services,6,4,0,0,2,16.5,0.0,-0.523,,0.01402
+GLENMARK,Glenmark Pharmaceuticals Limited,Healthcare,6,0,6,0,0,61.727703,0.0,0.151,0.158,
+ADANIENT,Adani Enterprises Limited,Energy,6,1,3,1,1,36.902176,0.0,0.203,,0.13664
+DIGJAMLMTD,Digjam Limited,Consumer Cyclical,6,0,5,1,0,58.287502,0.0,0.304,-0.658,
+GRAPHITE,Graphite India Limited,Industrials,6,2,3,1,0,45.87974,0.0,0.228,,
+ASHIKA,Ashika Credit Capital Limited,,6,2,0,1,3,,0.0,,,
+GEECEE,GeeCee Ventures Limited,Real Estate,6,4,0,2,0,28.098131,0.0,-0.722,-0.747,
+DHARMAJ,Dharmaj Crop Guard Limited,Basic Materials,6,5,1,0,0,18.584444,24.2,0.086,-0.371,
+HCC,Hindustan Construction Company Limited,Industrials,6,4,0,1,1,22.536842,22.9,-0.259,-0.46,0.10915
+AJMERA,Ajmera Realty & Infra India Limited,Real Estate,6,5,0,1,0,19.02259,25.2,-0.058,-0.282,
+MMP,MMP Industries Limited,Basic Materials,6,2,4,0,0,29.252666,0.0,0.208,0.054,
+OMINFRAL,Om Infra Limited,Industrials,6,4,0,0,2,29.45485,0.0,-0.039,-0.497,0.0257
+LANDSMILL,Landsmill Green Limited,Industrials,6,3,0,0,3,,0.0,,,
+DECCANCE,Deccan Cements Limited,Basic Materials,6,4,2,0,0,27.55174,0.0,0.133,,
+ONEPOINT,One Point One Solutions Limited,Industrials,6,1,4,1,0,45.286766,0.0,0.177,0.1,
+INDPRUD,Industrial And Prudential Investment Company Limited,,6,3,1,2,0,,0.0,-0.096,0.082,
+ASKAUTOLTD,ASKAUTOLTD,Consumer Cyclical,6,0,6,0,0,31.938066,0.0,0.185,0.213,
+EMAMILTD,Emami Limited,Consumer Defensive,6,1,3,2,0,23.53216,0.0,0.098,0.146,
+BHARTIARTL,Bharti Airtel Limited,Communication Services,6,0,3,3,0,42.914413,0.0,0.157,-0.34,0.19358999
+NEAGI,Neelamalai Agro Industries Limited,,6,0,4,2,0,,0.0,0.223,0.067,
+ICICIGI,ICICI Lombard General Insurance Company Limited,Financial Services,6,0,3,3,0,33.2223,0.0,0.122,0.067,0.17851
+BAYERCROP,Bayer CropScience Limited,Basic Materials,6,0,5,1,0,29.154156,0.0,0.047,1.798,
+COCKERILL,John Cockerill India Limited,Industrials,6,0,5,0,1,249.99998,0.0,0.411,,0.05015
+KISSHT,KISSHT,Financial Services,6,1,0,3,2,20.573978,0.0,,,0.17743
+KPITTECH,KPIT Technologies Limited,Technology,6,1,2,2,1,30.214684,0.0,0.12,-0.333,0.1973
+BAJAJFINSV,Bajaj Finserv Ltd.,Financial Services,6,1,2,1,2,28.329508,0.0,0.053,0.057,0.14602
+ERIS,Eris Lifesciences Limited,Healthcare,6,0,5,1,0,43.479225,0.0,0.109,0.191,
+ATGL,Adani Total Gas Limited,Utilities,6,0,4,2,0,103.05184,0.0,0.161,0.085,0.14456001
+ARVINDFASN,Arvind Fashions Limited,Consumer Cyclical,6,0,3,2,1,46.95558,0.0,0.154,,0.15903
+ASTRAZEN,AstraZeneca Pharma India Limited,Healthcare,6,0,6,0,0,105.264145,0.0,0.389,0.057,
+BOMDYEING,The Bombay Dyeing and Manufacturing Company Limited,Consumer Cyclical,6,3,0,0,3,146.2143,0.0,-0.219,,
+INNOVISION,INNOVISION,Industrials,6,1,5,0,0,25.052717,0.0,0.021,0.845,
+MTNL,Mahanagar Telephone Nigam Limited,Communication Services,6,3,3,0,0,,0.0,0.161,,
+KINGFA,Kingfa Science & Technology (India) Limited,Basic Materials,6,0,5,0,1,40.487213,0.0,0.111,0.166,
+CERA,Cera Sanitaryware Limited,Industrials,6,0,3,1,2,35.58664,0.0,0.2,-0.097,0.14376001
+DEEPAKFERT,Deepak Fertilisers And Petrochemicals Corporation Limited,Basic Materials,6,5,1,0,0,19.012257,22.4,0.097,-0.436,
+BAJAJINDEF,BAJAJINDEF,Industrials,6,2,2,1,1,33.333332,0.0,0.132,-0.301,
+CELLO,Cello World Limited,Consumer Cyclical,6,2,0,1,3,28.418037,0.0,0.002,-0.278,
+JUBLPHARMA,Jubilant Pharmova Limited,Healthcare,6,3,3,0,0,36.36247,0.0,0.165,-0.447,
+KSHINTL,KSHINTL,Industrials,5,0,5,0,0,45.668583,0.0,0.585,-0.119,
+MIDHANI,Mishra Dhatu Nigam Limited,Basic Materials,5,0,4,1,0,69.396255,0.0,0.158,0.088,
+ARIHANTCAP,Arihant Capital Markets Limited,Financial Services,5,3,0,2,0,19.62216,0.0,-0.089,-0.58,
+MUTHOOTCAP,Muthoot Capital Services Limited,Financial Services,5,3,0,0,2,27.096905,0.0,-0.005,-0.163,0.01682
+DNAMEDIA,Diligent Media Corporation Limited,Communication Services,5,4,0,1,0,29.7,0.0,-0.178,,
+JTEKTINDIA,JTEKT India Limited,Consumer Cyclical,5,1,4,0,0,47.65592,0.0,0.149,0.141,
+IPCALAB,Ipca Laboratories Limited,Healthcare,5,1,4,0,0,44.84493,0.0,0.066,0.236,
+ASHOKLEY,Ashok Leyland Limited,Industrials,5,1,4,0,0,27.150711,0.0,0.236,0.066,
+ICEMAKE,Ice Make Refrigeration Limited,Industrials,5,0,5,0,0,87.705475,0.0,0.387,-0.489,
+ESSENTIA,Integra Essentia Limited,Consumer Defensive,5,3,2,0,0,56.666668,0.0,0.124,0.0,
+PARKHOTELS,PARKHOTELS,Consumer Cyclical,5,2,2,1,0,31.505291,0.0,0.127,-0.252,
+COMPUSOFT,Compucom Software Limited,Consumer Defensive,5,3,2,0,0,39.705883,0.0,0.104,,
+HPAL,HP Adhesives Limited,Basic Materials,5,3,0,0,2,24.704699,0.0,-0.13,,0.03751
+CPEDU,Career Point Edutech Ltd.,Consumer Defensive,5,5,0,0,0,15.9034195,34.0,,,
+MCCHRLS-B,Mac Charles (India) Limited,,5,0,5,0,0,,0.0,10.822,,
+BIGBLOC,Bigbloc Construction Limited,Industrials,5,0,5,0,0,,0.0,0.281,-0.133,
+PASHUPATI,Pashupati Cotspin Limited,Consumer Cyclical,5,0,5,0,0,98.075264,0.0,-0.035,1.754,
+KANSAINER,Kansai Nerolac Paints Limited,Basic Materials,5,2,1,0,2,30.504122,0.0,0.075,0.04,0.08796
+BDL,Bharat Dynamics Limited,Industrials,5,0,0,2,3,84.045654,0.0,-0.319,-0.504,
+PARAGMILK,Parag Milk Foods Limited,Consumer Defensive,5,3,2,0,0,20.625355,0.0,0.145,-0.208,
+A2ZINFRA,A2Z Infra Engineering Limited,Industrials,5,0,5,0,0,107.28572,0.0,0.289,,
+IDEA,Vodafone Idea Limited,Communication Services,5,3,0,2,0,,0.0,0.044,,
+ASALCBR,Associated Alcohols & Breweries Limited,Consumer Defensive,5,5,0,0,0,18.658617,22.5,-0.204,0.001,
+KIRANVYPAR,Kiran Vyapar Limited,,5,3,2,0,0,,0.0,0.128,,
+CINELINE,Cineline India Limited,Communication Services,5,2,3,0,0,,0.0,0.154,,0.077259995
+NITIRAJ,Nitiraj Engineers Limited,Technology,5,2,0,0,3,124.956245,0.0,-0.695,-0.94,
+ELCIDIN,Elcid Investments Limited,,5,3,0,2,0,,0.0,,,0.010620001
+AHLEAST,Asian Hotels (East) Limited,Consumer Cyclical,5,3,2,0,0,,0.0,0.134,,
+CUMMINSIND,Cummins India Limited,Industrials,5,0,0,2,3,66.66667,0.0,-0.013,-0.13,
+HNDFDS,Hindustan Foods Limited,Industrials,5,0,5,0,0,45.23044,0.0,0.135,0.238,
+KOTIC,Kothari Industrial Corporation Limited,,5,0,5,0,0,,0.0,1.019,,
+BALRAMCHIN,Balrampur Chini Mills Limited,Consumer Defensive,5,3,1,0,1,24.449478,0.0,0.075,-0.307,0.095410004
+APOLSINHOT,Apollo Sindoori Hotels Limited,Industrials,5,3,2,0,0,29.155998,0.0,0.145,-0.593,
+GAYAHWS,Gayatri Highways Limited,Industrials,5,3,0,2,0,47.399998,0.0,-0.748,,
+BODALCHEM,Bodal Chemicals Limited,Basic Materials,5,3,2,0,0,28.258331,0.0,0.104,-0.953,
+GOODLUCK,Goodluck India Limited,Basic Materials,5,2,3,0,0,26.043505,0.0,0.101,0.059,
+GREENPANEL,Greenpanel Industries Limited,Basic Materials,5,2,1,0,2,,0.0,0.077,-0.954,-0.02125
+MIDWESTLTD,MIDWESTLTD,Basic Materials,5,0,3,2,0,41.32298,0.0,0.1,0.135,
+KOPRAN,Kopran Limited,Healthcare,5,2,3,0,0,45.707603,0.0,0.169,-0.102,
+ELITECON,Elitecon International Limited,,5,0,5,0,0,,0.0,17.5,-0.941,
+DCXINDIA,DCX Systems Limited,Industrials,5,2,0,0,3,164.11765,0.0,-0.395,,
+BHARATFORG,Bharat Forge Limited,Consumer Cyclical,5,0,3,1,1,84.76296,0.0,0.175,-0.179,0.11603
+DAVANGERE,Davangere Sugar Company Limited,Consumer Defensive,5,3,2,0,0,77.8,0.0,0.13,,
+JKPAPER,JK Paper Limited,Basic Materials,5,4,1,0,0,27.183048,0.0,0.08,-0.583,
+AMBER,Amber Enterprises India Limited,Consumer Cyclical,5,0,4,0,1,181.8211,0.0,0.137,0.113,0.05583
+ALBERTDAVD,Albert David Limited,Healthcare,5,3,0,0,2,42.729694,0.0,-0.185,,-0.0038100001
+MODTHREAD,Modern Threads (India) Limited,Consumer Cyclical,5,5,0,0,0,13.858434,49.3,,,
+NDRAUTO,NDR Auto Components Limited,Consumer Cyclical,5,0,5,0,0,32.148514,0.0,0.189,0.135,
+FACT,The Fertilisers and Chemicals Travancore Limited,Basic Materials,5,0,5,0,0,2006.1364,0.0,0.651,,
+GOPAL,Gopal Snacks Limited,Consumer Defensive,5,0,5,0,0,908.28125,0.0,0.018,1.884,
+GTECJAINX,G-Tec Jainx Education Limited,Consumer Defensive,5,0,5,0,0,,0.0,1.037,,
+MAGNUM,Magnum Ventures Limited,Basic Materials,5,3,0,0,2,,0.0,-0.012,-0.969,-0.01646
+ACEINTEG,Ace Integrated Solutions Limited,Industrials,5,3,0,0,2,,0.0,-0.923,,
+IDFCFIRSTB,IDFC First Bank Limited,Financial Services,5,3,0,2,0,35.984043,0.0,-0.011,-0.232,
+INDIQUBE,INDIQUBE,Real Estate,5,0,5,0,0,,0.0,0.456,,
+NORBTEAEXP,Norben Tea & Exports Limited,Consumer Defensive,5,0,5,0,0,,0.0,0.497,,
+KALYANI,Kalyani Commercials Limited,Consumer Cyclical,5,5,0,0,0,5.9215264,78.3,,,
+GODREJCP,Godrej Consumer Products Limited,Consumer Defensive,5,0,2,3,0,57.130287,0.0,0.084,0.097,0.15099
+CREST,Crest Ventures Limited,Financial Services,5,3,0,2,0,21.742243,0.0,-0.199,-0.233,
+EQUIPPP,Equippp Social Impact Technologies Limited,Technology,5,0,5,0,0,211.71428,0.0,22.439,,
+JSWHL,JSW Holdings Limited,Industrials,5,3,0,2,0,96.15564,0.0,-0.419,-0.51,
+CARBORUNIV,Carborundum Universal Limited,Industrials,5,0,3,0,2,107.55122,0.0,0.168,,0.043670002
+LUXIND,Lux Industries Limited,Consumer Cyclical,5,2,3,0,0,38.027817,0.0,0.217,-0.598,
+OCCLLTD,OCCL Limited,Basic Materials,5,5,0,0,0,12.467655,49.1,,,
+ACL,Andhra Cements Limited,Basic Materials,5,0,5,0,0,,0.0,0.817,,-0.59621
+ATAM,Atam Valves Limited,Industrials,5,5,0,0,0,22.574535,22.8,-0.401,,
+MRPL,Mangalore Refinery and Petrochemicals Limited,Energy,5,3,0,1,1,13.7028265,0.0,-0.034,-0.682,0.14169
+GODAVARIB,GODAVARIB,Basic Materials,5,2,3,0,0,43.457058,0.0,0.028,0.229,
+MAMATA,MAMATA,Industrials,5,3,0,2,0,23.37128,20.1,-0.085,-0.101,
+NIRAJISPAT,Niraj Ispat Industries Limited,Consumer Cyclical,5,5,0,0,0,9.0414715,66.9,,,
+BLIL,Balmer Lawrie Investments Limited,,5,3,0,2,0,,0.0,0.038,0.027,
+KESORAMIND,Kesoram Industries Limited,Basic Materials,5,3,0,2,0,,0.0,-0.011,,
+LEMERITE,LEMERITE,Consumer Cyclical,5,0,5,0,0,91.80664,0.0,-0.231,7.0,
+KAUSHALYA,Kaushalya Infrastructure Development Corporation Limited,Industrials,5,3,0,2,0,,0.0,-0.93,,
+IRB,IRB Infrastructure Developers Limited,Industrials,5,4,0,1,0,31.71875,0.0,-0.163,-0.965,
+ARFIN,Arfin India Limited,Basic Materials,5,0,5,0,0,169.40741,0.0,0.042,0.611,
+MUFIN,Mufin Green Finance Limited,Financial Services,5,0,3,2,0,92.38525,0.0,-0.065,0.206,
+EIHOTEL,EIH Limited,Consumer Cyclical,5,2,1,2,0,30.68932,0.0,0.091,-0.08,
+ORCHASP,Orchasp Limited,Technology,5,3,0,2,0,,0.0,-0.271,-0.531,
+INFOMEDIA,Infomedia Press Limited,Financial Services,5,3,0,0,2,,0.0,,,
+KAVDEFENCE,KAVDEFENCE,Technology,5,3,0,2,0,126.63265,0.0,-0.928,,
+OLECTRA,Olectra Greentech Limited,Industrials,5,0,5,0,0,70.92836,0.0,0.288,0.002,
+MICEL,MIC Electronics Limited,Technology,5,1,2,0,2,,0.0,0.133,,-0.05751
+DENORA,De Nora India Limited,Industrials,5,2,1,0,2,41.32982,0.0,0.07,,0.07259
+MOBIKWIK,MOBIKWIK,Technology,5,2,2,0,1,,0.0,0.105,,-0.11015
+AEQUS,AEQUS,Industrials,5,0,5,0,0,,0.0,0.508,,
+GCSL,Gretex Corporate Services Limited,Financial Services,5,2,0,1,2,,0.0,-0.292,,0.09791
+ANIKINDS,Anik Industries Limited,Consumer Defensive,5,3,0,0,2,72.2459,0.0,-0.133,-0.985,0.07674
+KIMS,Krishna Institute of Medical Sciences Limited,Healthcare,5,0,5,0,0,101.014595,0.0,0.36,-0.583,0.09724
+BNALTD,B & A Limited,,5,3,2,0,0,,0.0,0.101,,
+BNAGROCHEM,BN Agrochem Limited,,5,0,5,0,0,,0.0,1.254,,
+DGCONTENT,Digicontent Limited,Communication Services,5,2,3,0,0,26.742859,0.0,0.17,,
+KRITIKA,Kritika Wires Limited,Basic Materials,5,3,0,0,2,21.034483,0.0,-0.383,-0.393,0.06346
+FINEORG,Fine Organic Industries Limited,Basic Materials,5,0,1,2,2,35.843197,0.0,0.081,-0.106,
+JISLDVREQS,Jain Irrigation Systems Limited,Industrials,4,3,0,0,1,98.583336,0.0,0.043,,-0.0068
+DIXON,Dixon Technologies (India) Limited,Technology,4,0,0,3,1,40.815643,0.0,0.021,-0.361,0.37133
+HESTERBIO,Hester Biosciences Limited,Healthcare,4,2,1,1,0,37.877975,0.0,0.09,-0.184,
+DSSL,Dynacons Systems & Solutions Limited,Technology,4,3,1,0,0,20.618761,23.8,0.095,-0.347,
+APEX,Apex Frozen Foods Limited,Consumer Defensive,4,2,2,0,0,44.04537,0.0,0.145,,
+DBSTOCKBRO,DB (International) Stock Brokers Limited,Financial Services,4,3,0,1,0,30.674156,0.0,-0.287,-0.167,
+NHPC,NHPC Limited,Utilities,4,2,0,2,0,49.22436,0.0,-0.029,-0.043,
+KHADIM,Khadim India Limited,Consumer Cyclical,4,4,0,0,0,26.338062,0.0,-0.462,,
+NETWORK18,Network18 Media & Investments Limited,Communication Services,4,3,1,0,0,32.545456,0.0,0.097,,0.031689998
+5PAISA,5paisa Capital Limited,Financial Services,4,2,0,2,0,21.884007,0.0,-0.11,-0.237,
+FORTIS,Fortis Healthcare Limited,Healthcare,4,0,3,1,0,75.75865,0.0,0.175,-0.216,
+MOTOGENFIN,The Motor & General Finance Limited,Real Estate,4,3,0,1,0,69.52941,0.0,,,
+ALKALI,Alkali Metals Limited,Basic Materials,4,2,2,0,0,75.47127,0.0,0.115,,
+LEMONTREE,Lemon Tree Hotels Limited,Consumer Cyclical,4,0,2,2,0,40.01079,0.0,0.143,0.0,
+ANUP,The Anup Engineering Limited,Industrials,4,0,3,1,0,34.24765,0.0,0.206,-0.157,
+ARCHIDPLY,Archidply Industries Limited,Basic Materials,4,2,2,0,0,34.663864,0.0,0.114,,
+CELEBRITY,Celebrity Fashions Limited,Consumer Cyclical,4,1,3,0,0,,0.0,0.189,,
+DODLA,Dodla Dairy Limited,Consumer Defensive,4,1,3,0,0,31.547216,0.0,0.137,0.081,
+DALBHARAT,Dalmia Bharat Limited,Basic Materials,4,2,0,0,2,28.408155,0.0,0.038,-0.108,0.06501
+HINDOILEXP,Hindustan Oil Exploration Company Limited,Energy,4,2,0,2,0,21.043533,0.0,-0.486,-0.808,
+BIRLANU,BirlaNu Limited,Industrials,4,3,1,0,0,,0.0,0.098,,-0.10299
+LIBERTSHOE,Liberty Shoes Ltd.,Consumer Cyclical,4,2,2,0,0,35.333332,0.0,0.13,-0.748,
+BOHRAIND,Bohra Industries Limited,Basic Materials,4,3,0,0,1,,0.0,,,
+MAXESTATES,MAXESTATES,Real Estate,4,2,0,2,0,133.1908,0.0,-0.006,-0.998,
+ASTRON,Astron Paper & Board Mill Limited,Basic Materials,4,3,1,0,0,,0.0,0.056,,
+JISLJALEQS,Jain Irrigation Systems Limited,Industrials,4,3,0,0,1,129.66667,0.0,0.043,,-0.0068
+JPPOWER,Jaiprakash Power Ventures Limited,Utilities,4,2,0,0,2,39.877552,0.0,0.034,,0.03603
+DOMS,DOMS Industries Limited,Industrials,4,0,4,0,0,62.11581,0.0,0.182,0.065,
+BLUSPRING,Bluspring Enterprises Limited,Industrials,4,3,1,0,0,,0.0,0.091,,
+DEEPAKNTR,Deepak Nitrite Limited,Basic Materials,4,1,1,0,2,46.7349,0.0,-0.024,0.085,0.09751
+FERMENTA,Fermenta Biotech Limited,,4,2,0,2,0,,0.0,-0.122,-0.659,
+AMANTA,AMANTA,Healthcare,4,3,1,0,0,36.769886,0.0,0.098,-0.106,
+EPACK,EPACK Durable Limited,Consumer Cyclical,4,2,2,0,0,56.133175,0.0,0.135,0.038,
+MMWL,Media Matrix Worldwide Limited,Communication Services,4,0,2,0,2,294.4,0.0,0.106,,0.0717
+HLVLTD,HLV Limited,Consumer Cyclical,4,3,1,0,0,109.71428,0.0,0.055,-0.375,0.00936
+KOKUYOCMLN,Kokuyo Camlin Limited,Industrials,4,2,2,0,0,35.4313,0.0,0.131,-0.339,
+ABMKNO,ABM Knowledgeware Limited,,4,2,1,1,0,,0.0,0.088,-0.455,
+GRANDOAK,Grand Oak Canyons Distillery Limited,,4,2,0,2,0,,0.0,,,
+COMFINTE,Comfort Intech Limited,,4,3,1,0,0,,0.0,0.054,,
+NATIONSTD,National Standard (India) Limited,,4,0,0,2,2,,0.0,-1.0,-0.678,0.034849998
+CENTURYPLY,Century Plyboards (India) Limited,Basic Materials,4,0,4,0,0,71.97467,0.0,0.184,0.091,
+BRIGADE,Brigade Enterprises Limited,Real Estate,4,2,1,1,0,2458.0356,0.0,0.076,-0.234,
+GRAVISSHO,Graviss Hospitality Limited,,4,3,1,0,0,,0.0,0.095,,-0.00343
+JSWCEMENT,JSWCEMENT,Basic Materials,4,2,2,0,0,,0.0,0.132,,
+GTPL,GTPL Hathway Limited,Communication Services,4,3,1,0,0,49.028572,0.0,0.063,,0.009649999
+CENTUM,Centum Electronics Limited,Technology,4,0,0,3,1,,0.0,-0.057,-0.836,0.28000998
+OAL,Oriental Aromatics Limited,Basic Materials,4,2,2,0,0,1449.2858,0.0,0.13,,
+AROGRANITE,Aro Granite Industries Limited,Industrials,4,3,0,0,1,,0.0,-0.478,,-0.065689996
+ADANIENSOL,Adani Energy Solutions Limited,Utilities,4,0,3,0,1,69.93562,0.0,0.168,0.035,0.096599996
+DCMNVL,DCM Nouvelle Limited,Consumer Cyclical,4,3,0,0,1,39.096443,0.0,-0.064,-0.165,0.00493
+NIPPOBATRY,Indo National Limited,Industrials,4,3,1,0,0,,0.0,0.073,-0.26,
+CYBERMEDIA,Cyber Media (India) Limited,Communication Services,4,3,1,0,0,40.023254,0.0,0.051,,
+ELGIRUBCO,Elgi Rubber Company Limited,Consumer Cyclical,4,3,1,0,0,,0.0,0.094,,
+MOL,Meghmani Organics Limited,Basic Materials,4,3,0,0,1,32.74843,0.0,-0.076,-0.59,0.01878
+NUVOCO,Nuvoco Vistas Corporation Limited,Basic Materials,4,3,1,0,0,32.45283,0.0,0.087,-0.149,0.03742
+FIRSTCRY,FIRSTCRY,Consumer Cyclical,4,2,2,0,0,,0.0,0.116,,
+HARDWYN,Hardwyn India Limited,Industrials,4,2,1,0,1,99.208336,0.0,0.058,-0.5,
+HBSL,HB Stockholdings Limited,Financial Services,3,3,0,0,0,,0.0,,,
+DIAMONDYD,Prataap Snacks Limited,Consumer Defensive,3,1,0,0,2,249.8383,0.0,0.049,,0.01398
+IMAGICAA,Imagicaaworld Entertainment Limited,Communication Services,3,3,0,0,0,160.07407,0.0,-0.009,-0.962,0.00051
+NKIND,N.K Industries Limited,Consumer Defensive,3,3,0,0,0,,0.0,-0.308,,
+IWP,The Indian Wood Products Company Limited,,3,3,0,0,0,,0.0,-0.031,-0.158,
+CAMLINFINE,Camlin Fine Sciences Limited,Basic Materials,3,2,1,0,0,,0.0,0.055,,
+HINDWAREAP,Hindware Home Innovation Limited,Consumer Cyclical,3,2,1,0,0,,0.0,0.068,,
+CAPTRUST,Capital Trust Limited,Financial Services,3,3,0,0,0,,0.0,-0.426,,
+AMDIND,AMD Industries Limited,Consumer Cyclical,3,3,0,0,0,,0.0,-0.154,,
+LAHOTIOV,Lahoti Overseas Limited,,3,3,0,0,0,,0.0,-0.175,-0.057,
+AARTIPHARM,Aarti Pharmalabs Limited,Healthcare,3,2,0,1,0,30.210102,0.0,-0.196,-0.352,
+MADHAVIPL,Madhav Infra Projects Limited,,3,3,0,0,0,,0.0,-0.635,,
+CEREBRAINT,Cerebra Integrated Technologies Limited,Industrials,3,3,0,0,0,,0.0,-0.924,,
+AARNAV,Aarnav Fashions Limited,,3,3,0,0,0,,0.0,0.043,-0.569,
+ACCURACY,Accuracy Shipping Limited,Industrials,3,3,0,0,0,33.705883,0.0,-0.38,-0.167,
+ARSHIYA,Arshiya Limited,Industrials,3,3,0,0,0,,0.0,0.028,,
+DAICHI,Dai-ichi Karkaria Limited,,3,3,0,0,0,,0.0,-0.071,,
+KAKATCEM,Kakatiya Cement Sugar and Industries Limited,Basic Materials,3,3,0,0,0,,0.0,-0.245,,
+HMT,HMT Limited,Industrials,3,3,0,0,0,,0.0,-0.286,,
+BEEKAY,Beekay Steel Industries Limited,,3,3,0,0,0,,0.0,,,
+PALREDTEC,Palred Technologies Limited,Technology,3,3,0,0,0,,0.0,-0.11,,
+MHRIL,Mahindra Holidays & Resorts India Limited,Consumer Cyclical,3,0,1,0,2,67.95652,0.0,0.053,-0.431,0.08522
+KANCHI,Kanchi Karpooram Limited,,3,3,0,0,0,,0.0,-0.046,-0.268,
+ELANTAS,ELANTAS Beck India Limited,Basic Materials,3,0,1,2,0,49.75015,0.0,0.078,-0.054,
+ABFRL,Aditya Birla Fashion and Retail Limited,Consumer Cyclical,3,3,0,0,0,,0.0,-0.456,,
+HDIL,Housing Development and Infrastructure Limited,Real Estate,3,3,0,0,0,,0.0,-0.135,,
+MADHUCON,Madhucon Projects Limited,Industrials,3,3,0,0,0,,0.0,-0.218,,
+ASTAR,Asian Star Company Limited,,3,3,0,0,0,,0.0,-0.041,-0.297,
+BVCL,Barak Valley Cements Limited,Basic Materials,3,3,0,0,0,4218.0,0.0,-0.129,,
+DHRUV,Dhruv Consultancy Services Limited,Industrials,3,3,0,0,0,,0.0,,,
+MANGALAM,Mangalam Drugs & Organics Limited,Healthcare,3,3,0,0,0,,0.0,-0.074,,-0.35233003
+ALOKINDS,Alok Industries Limited,Consumer Cyclical,3,3,0,0,0,,0.0,0.031,,
+BANKA,Banka BioLoo Limited,Industrials,3,2,1,0,0,,0.0,0.087,,
+BI,Bilcare Limited,,3,3,0,0,0,,0.0,-0.085,,
+ORISSAMINE,The Orissa Minerals Development Company Limited,Basic Materials,3,3,0,0,0,,0.0,-0.001,,
+DCMFINSERV,DCM Financial Services Limited,Financial Services,3,3,0,0,0,,0.0,,,
+ORTEL,Ortel Communications Limited,Communication Services,3,3,0,0,0,,0.0,-0.424,,
+JHS,JHS Svendgaard Laboratories Limited,Consumer Defensive,3,3,0,0,0,,0.0,0.04,,
+ORIENTLTD,Orient Press Limited,Consumer Cyclical,3,3,0,0,0,,0.0,-0.062,,
+HGS,Hinduja Global Solutions Limited,Industrials,3,3,0,0,0,,0.0,0.011,,
+AKG,AKG Exim Limited,Industrials,3,3,0,0,0,59.210526,0.0,-0.386,-0.4,0.01171
+FEL,Future Enterprises Limited,Consumer Cyclical,3,3,0,0,0,,0.0,-0.132,,-2.38273
+GSS,GSS Infotech Limited,Technology,3,3,0,0,0,,0.0,-0.205,,
+FLEXITUFF,Flexituff Ventures International Limited,Consumer Cyclical,3,3,0,0,0,,0.0,,,
+ANKITMETAL,Ankit Metal & Power Limited,Basic Materials,3,3,0,0,0,,0.0,-0.255,,
+HAVISHA,Sri Havisha Hospitality and Infrastructure Limited,Consumer Cyclical,3,2,1,0,0,,0.0,0.065,,
+KHANDSE,Khandwala Securities Limited,Financial Services,3,3,0,0,0,,0.0,-0.455,,
+IONEXCHANG,Ion Exchange (India) Limited,Industrials,3,2,1,0,0,25.450098,0.0,0.064,-0.582,
+21STCENMGM,Twentyfirst Century Management Services Limited,Financial Services,3,3,0,0,0,,0.0,,,
+KSR,KSR Footwear Limited,Consumer Cyclical,3,3,0,0,0,,0.0,-0.096,,
+MADHAV,Madhav Marbles and Granites Limited,Industrials,3,3,0,0,0,,0.0,-0.036,,
+FMNL,Future Market Networks Limited,Real Estate,3,3,0,0,0,,0.0,-0.077,-0.554,
+MORARJEE,Morarjee Textiles Limited,Consumer Cyclical,3,3,0,0,0,,0.0,,,
+ATLASCYCLE,Atlas Cycles (Haryana) Limited,Consumer Cyclical,3,3,0,0,0,,0.0,-0.827,,-0.02095
+GLFL,Gujarat Lease Financing Limited,Financial Services,3,3,0,0,0,349.0,0.0,-0.027,-0.5,
+GANGAFORGE,Ganga Forging Limited,Industrials,3,3,0,0,0,,0.0,,,
+JUBLCPL,Jubilant Agri and Consumer Products Limited,Basic Materials,3,1,2,0,0,22.832123,0.0,0.135,0.022,
+BLUECHIP,Blue Chip India Limited,Financial Services,3,3,0,0,0,,0.0,,,
+ODIGMA,Odigma Consultancy Solutions Limited,Communication Services,3,3,0,0,0,,0.0,-0.06,,
+MTEDUCARE,MT Educare Limited,Consumer Defensive,3,3,0,0,0,,0.0,-0.422,,
+COMPINFO,Compuage Infocom Limited,Technology,3,3,0,0,0,,0.0,-0.698,,
+ARENTERP,Rajdarshan Industries Limited,Basic Materials,3,3,0,0,0,,0.0,,,
+LCCINFOTEC,LCC Infotech Limited,Consumer Defensive,3,0,1,0,2,,0.0,0.062,,
+GLOBALE,Globale Tessile Limited,Consumer Cyclical,3,3,0,0,0,,0.0,-0.776,,
+CREATIVEYE,Creative Eye Limited,Communication Services,3,3,0,0,0,,0.0,,,
+CTE,Cambridge Technology Enterprises Limited,Technology,3,3,0,0,0,,0.0,-0.093,,
+MANKIND,Mankind Pharma Limited,Healthcare,3,0,2,1,0,58.141697,0.0,0.104,0.048,
+IMPEXFERRO,Impex Ferro Tech Limited,Basic Materials,3,3,0,0,0,,0.0,,,
+GANECOS,Ganesha Ecosphere Limited,Consumer Cyclical,3,3,0,0,0,68.47811,0.0,-0.102,-0.849,
+IFBIND,IFB Industries Limited,Consumer Cyclical,3,1,2,0,0,37.59203,0.0,0.113,-0.229,
+ARCHIES,Archies Limited,Consumer Cyclical,3,3,0,0,0,,0.0,-0.229,,
+BONLON,Bonlon Industries Limited,Basic Materials,3,3,0,0,0,32.91724,0.0,-0.073,-0.606,
+FLFL,Future Lifestyle Fashions Limited,Consumer Cyclical,3,3,0,0,0,,0.0,-0.787,,
+BLAL,BEML Land Assets Limited,Financial Services,3,3,0,0,0,,0.0,,,
+AFCONS,AFCONS,Industrials,3,3,0,0,0,27.559378,0.0,-0.073,-0.353,
+FILATFASH,Filatex Fashions Limited,Consumer Cyclical,3,3,0,0,0,,0.0,-0.595,-0.985,
+MIRZAINT,Mirza International Limited,Consumer Cyclical,3,3,0,0,0,49.935482,0.0,0.033,,
+BALKRISIND,Balkrishna Industries Limited,Consumer Cyclical,3,1,1,1,0,33.446987,0.0,0.069,-0.15,
+KANORICHEM,Kanoria Chemicals & Industries Limited,Basic Materials,3,3,0,0,0,,0.0,-0.235,,
+ONMOBILE,OnMobile Global Limited,Communication Services,3,3,0,0,0,33.92638,0.0,-0.173,,
+DIGITIDE,Digitide Solutions Limited,Industrials,3,2,1,0,0,,0.0,0.065,,
+COCHINSHIP,Cochin Shipyard Limited,Industrials,3,0,0,2,1,57.813633,0.0,-0.066,-0.038,0.12517
+MCLEODRUSS,McLeod Russel India Limited,Consumer Defensive,3,0,3,0,0,,0.0,0.202,,
+GRINDWELL,Grindwell Norton Limited,Industrials,3,0,2,1,0,49.504925,0.0,0.071,0.097,
+DIGISPICE,DiGiSPICE Technologies Limited,Financial Services,3,2,0,0,1,74.07407,0.0,-0.067,,0.097550005
+CYIENTDLM,Cyient DLM Limited,Technology,3,1,0,0,2,45.048702,0.0,-0.138,-0.275,0.07472
+JKCEMENT,J.K. Cement Limited,Basic Materials,3,0,3,0,0,41.32194,0.0,0.182,-0.079,
+FUSION,Fusion Finance Limited,Financial Services,3,3,0,0,0,,0.0,,,
+DPSCLTD,India Power Corporation Limited,Utilities,3,3,0,0,0,330.33334,0.0,-0.023,-0.467,
+MAPMYINDIA,C. E. Info Systems Limited,Technology,3,0,0,2,1,42.201412,0.0,-0.182,-0.422,
+LANCORHOL,Lancor Holdings Limited,Real Estate,3,3,0,0,0,,0.0,-0.162,,
+DBOL,Dhampur Bio Organics Limited,Consumer Defensive,3,3,0,0,0,31.073034,0.0,-0.118,,
+GTLINFRA,GTL Infrastructure Limited,Technology,3,3,0,0,0,,0.0,0.036,,
+OMAXE,Omaxe Limited,Real Estate,3,3,0,0,0,,0.0,-0.305,,
+LOTUSEYE,Lotus Eye Hospital and Institute Limited,Healthcare,3,1,2,0,0,333.0,0.0,0.106,,
+JINDALPHOT,Jindal Photo Limited,Financial Services,3,3,0,0,0,87.68707,0.0,-0.964,-0.995,
+ISHANCH,Ishan Dyes and Chemicals Limited,Basic Materials,3,3,0,0,0,,0.0,-0.118,,
+DSFCL,DSFCL,Basic Materials,3,3,0,0,0,,0.0,0.036,,
+KAYA,Kaya Limited,Consumer Defensive,3,3,0,0,0,,0.0,0.033,,
+CONCOR,Container Corporation of India Limited,Industrials,3,2,0,1,0,30.954653,0.0,0.045,-0.089,
+BPL,BPL Limited,Technology,3,3,0,0,0,,0.0,-0.007,-0.375,-0.037920002
+MEDICAMEQ,Medicamen Biotech Limited,Healthcare,3,2,1,0,0,47.427353,0.0,0.051,-0.474,
+KRITI,Kriti Industries (India) Limited,Industrials,3,2,0,0,1,341.0,0.0,0.031,,0.00533
+KCPSUGIND,K.C.P. Sugar and Industries Corporation Limited,Consumer Defensive,3,3,0,0,0,68.47222,0.0,-0.232,,
+DVL,Dhunseri Ventures Limited,Financial Services,3,3,0,0,0,,0.0,-0.467,-0.936,
+HCL-INSYS,HCL Infosystems Limited,Technology,3,3,0,0,0,,0.0,-0.26,,
+EVERESTIND,Everest Industries Limited,Industrials,3,3,0,0,0,,0.0,-0.237,,
+BEML,BEML Limited,Industrials,3,0,3,0,0,59.882786,0.0,0.237,,
+CASTROLIND,Castrol India Limited,Energy,3,0,1,2,0,18.724459,0.0,0.087,0.038,
+CHEMFAB,Chemfab Alkalis Limited,Basic Materials,3,2,0,0,1,,0.0,-0.16,,-0.00907
+PARSVNATH,Parsvnath Developers Limited,Real Estate,3,3,0,0,0,,0.0,0.048,,
+NAGAFERT,Nagarjuna Fertilizers and Chemicals Limited,Basic Materials,3,3,0,0,0,,0.0,,,
+JUBLFOOD,Jubilant FoodWorks Limited,Consumer Cyclical,3,0,3,0,0,95.320244,0.0,0.203,,
+PAKKA,Pakka Limited,Basic Materials,3,3,0,0,0,67.56716,0.0,-0.089,-0.35,
+IGPL,I G Petrochemicals Limited,Basic Materials,3,3,0,0,0,,0.0,-0.166,,
+DELPHIFX,Delphi World Money Limited,Financial Services,3,3,0,0,0,65.05555,0.0,-0.198,0.0,0.022079999
+GUFICBIO,Gufic Biosciences Limited,Healthcare,3,1,2,0,0,56.513027,0.0,0.114,-0.358,
+OILCOUNTUB,Oil Country Tubular Limited,Energy,3,3,0,0,0,,0.0,-0.864,,
+GEMAROMA,GEMAROMA,Basic Materials,3,3,0,0,0,29.148975,0.0,-0.185,,
+JINDALPOLY,Jindal Poly Films Limited,Consumer Cyclical,3,3,0,0,0,,0.0,-0.729,,
+GVKPIL,GVK Power & Infrastructure Limited,Utilities,3,3,0,0,0,,0.0,-0.984,,
+KREBSBIO,Krebs Biochemicals & Industries Limited,Healthcare,3,3,0,0,0,,0.0,-0.366,,
+MUKTAARTS,Mukta Arts Limited,Communication Services,3,3,0,0,0,,0.0,-0.034,,
+KRISHIVAL,KRISHIVAL,Consumer Defensive,3,0,0,1,2,42.942894,0.0,-0.184,-0.021,0.12996
+NAHARSPING,Nahar Spinning Mills Limited,Consumer Cyclical,3,3,0,0,0,47.6107,0.0,-0.139,,
+BECTORFOOD,Mrs. Bectors Food Specialities Limited,Consumer Defensive,3,1,2,0,0,39.875,0.0,0.084,0.099,
+DHUNINV,Dhunseri Investments Limited,Financial Services,3,3,0,0,0,,0.0,-0.519,,
+GABRIEL,Gabriel India Limited,Consumer Cyclical,3,0,3,0,0,,0.0,0.159,-0.089,
+JKIPL,JKIPL,Industrials,3,3,0,0,0,,0.0,-0.76,,
+OBCL,OBCL Limited,Industrials,3,3,0,0,0,,0.0,-0.162,,
+LOYALTEX,Loyal Textile Mills Limited,Consumer Cyclical,3,3,0,0,0,,0.0,-0.32,,
+GVPTECH,GVP Infotech Limited,Technology,3,3,0,0,0,,0.0,-0.46,,0.00452
+ENIL,Entertainment Network (India) Limited,Communication Services,3,3,0,0,0,,0.0,0.038,,
+AKSHOPTFBR,Aksh Optifibre Limited,Technology,3,3,0,0,0,,0.0,-0.089,,
+GPIL,Godawari Power & Ispat Limited,Basic Materials,3,2,0,1,0,24.502127,0.0,-0.122,-0.038,
+BAJAJHIND,Bajaj Hindusthan Sugar Limited,Consumer Defensive,3,3,0,0,0,,0.0,-0.065,,
+DMCC,DMCC Speciality Chemicals Limited,Basic Materials,3,1,0,1,1,29.937918,0.0,-0.467,-0.085,0.114879996
+KSB,KSB Limited,Industrials,3,0,0,0,3,57.467922,0.0,0.01,-0.232,
+ASHIMASYN,Ashima Limited,Real Estate,3,3,0,0,0,,0.0,-0.641,,
+BIOCON,Biocon Limited,Healthcare,3,2,0,0,1,151.44366,0.0,0.023,-0.725,0.011469999
+ORIENTPPR,Orient Paper & Industries Limited,Basic Materials,3,3,0,0,0,,0.0,0.027,,
+BSL,BSL Limited,Consumer Cyclical,3,3,0,0,0,34.99437,0.0,-0.017,-0.611,
+DEVYANI,Devyani International Limited,Consumer Cyclical,3,0,3,0,0,,0.0,0.197,,-0.025880001
+DISHTV,Dish TV India Limited,Communication Services,3,3,0,0,0,,0.0,-0.198,,
+HERANBA,Heranba Industries Limited,Basic Materials,3,3,0,0,0,,0.0,-0.117,,
+EUREKAFORB,Eureka Forbes Limited,Consumer Cyclical,3,2,1,0,0,62.111652,0.0,0.08,-0.713,
+INDTERRAIN,Indian Terrain Fashions Limited,Consumer Cyclical,3,3,0,0,0,,0.0,0.047,,
+AKSHARCHEM,AksharChem (India) Limited,Basic Materials,3,3,0,0,0,,0.0,-0.114,,
+NATCAPSUQ,Natural Capsules Limited,Healthcare,3,3,0,0,0,,0.0,-0.139,,
+MOSCHIP,MOSCHIP,Technology,3,0,3,0,0,112.21111,0.0,0.184,-0.625,
+HTMEDIA,HT Media Limited,Communication Services,3,3,0,0,0,2117.0,0.0,0.014,,
+ESSARSHPNG,Essar Shipping Limited,Industrials,3,3,0,0,0,,0.0,-0.99,,
+EMAMIREAL,Emami Realty Limited,Real Estate,3,3,0,0,0,,0.0,-0.915,,
+EMBDL,Embassy Developments Limited,Real Estate,3,3,0,0,0,,0.0,-0.237,,
+NELCO,Nelco Limited,Technology,3,0,3,0,0,453.9865,0.0,0.173,,0.02586
+GMMPFAUDLR,GMM Pfaudler Limited,Industrials,3,1,2,0,0,227.53807,0.0,0.102,,
+GREENLAM,Greenlam Industries Limited,Consumer Cyclical,3,0,3,0,0,342.94116,0.0,0.173,,
+GUJTHEM,Gujarat Themis Biosyn Limited,Healthcare,3,0,1,2,0,83.968254,0.0,0.097,-0.042,
+MINDTECK,Mindteck (India) Limited,Technology,3,3,0,0,0,23.144318,0.0,-0.034,-0.36,
+ALLTIME,ALLTIME,Consumer Defensive,3,2,1,0,0,43.677063,0.0,0.071,-0.328,
+FELDVR,Future Enterprises Limited,Consumer Cyclical,3,3,0,0,0,,0.0,-0.132,,-2.38273
+3MINDIA,3M India Limited,Industrials,2,0,2,0,0,93.45836,0.0,0.127,,
+DREDGECORP,Dredging Corporation of India Limited,Industrials,2,2,0,0,0,,0.0,-0.149,,-0.05193
+ACI,Archean Chemical Industries Limited,Basic Materials,2,1,0,0,1,62.127174,0.0,-0.114,-0.741,0.05552
+LAXMIDENTL,LAXMIDENTL,Healthcare,2,1,1,0,0,47.6327,0.0,0.071,-0.591,
+CIFL,Capital India Finance Limited,Financial Services,2,2,0,0,0,26.83654,0.0,-0.038,,
+ARVSMART,Arvind SmartSpaces Limited,Real Estate,2,1,0,1,0,37.02762,0.0,-0.208,-0.396,
+CHEMPLASTS,Chemplast Sanmar Limited,Basic Materials,2,2,0,0,0,,0.0,-0.21,,
+AEPL,Artemis Electricals and Projects Limited,Industrials,2,1,0,1,0,42.92105,0.0,-0.769,-0.7,
+ORCHPHARMA,Orchid Pharma Limited,Healthcare,2,2,0,0,0,188.51851,0.0,-0.015,,
+KOLTEPATIL,Kolte-Patil Developers Limited,Real Estate,2,2,0,0,0,64.05983,0.0,-0.241,-0.847,
+KITEX,Kitex Garments Limited,Consumer Cyclical,2,2,0,0,0,,0.0,-0.341,,
+EMIL,Electronics Mart India Limited,Consumer Cyclical,2,2,0,0,0,49.33745,0.0,0.029,-0.061,
+MSPL,MSP Steel & Power Limited,Basic Materials,2,2,0,0,0,,0.0,-0.109,-0.46,
+ABREL,Aditya Birla Real Estate Limited,Real Estate,2,1,0,0,1,,0.0,,,-0.08911
+ASAHIINDIA,Asahi India Glass Limited,Consumer Cyclical,2,0,2,0,0,67.572136,0.0,0.117,-0.101,
+BAJAJELEC,Bajaj Electricals Limited,Consumer Cyclical,2,2,0,0,0,126.39872,0.0,-0.185,,
+LOKESHMACH,Lokesh Machines Limited,Industrials,2,2,0,0,0,269.96738,0.0,-0.02,,
+INDIGOPNTS,Indigo Paints Limited,Basic Materials,2,1,0,1,0,32.679935,0.0,0.047,0.008,
+HONAUT,Honeywell Automation India Limited,Industrials,2,0,1,1,0,50.7612,0.0,0.071,-0.082,
+PAGEIND,Page Industries Limited,Consumer Cyclical,2,0,1,1,0,54.945385,0.0,0.056,-0.074,
+APCL,Anjani Portland Cement Limited,Basic Materials,2,2,0,0,0,,0.0,-0.239,,
+ICIL,Indo Count Industries Limited,Consumer Cyclical,2,2,0,0,0,48.04636,0.0,-0.077,-0.677,
+JBMA,JBM Auto Limited,Consumer Cyclical,2,0,2,0,0,69.437225,0.0,0.142,-0.171,
+CENTRUM,Centrum Capital Limited,Financial Services,2,2,0,0,0,,0.0,-0.094,,
+AFFORDABLE,Affordable Robotic & Automation Limited,Industrials,2,2,0,0,0,40.443607,0.0,-0.421,,
+ANTHEM,ANTHEM,Healthcare,2,0,0,2,0,91.72131,0.0,-0.15,-0.258,
+FOSECOIND,Foseco India Limited,Basic Materials,2,1,0,1,0,45.869526,0.0,0.012,-0.011,
+JYOTHYLAB,Jyothy Labs Limited,Consumer Defensive,2,1,0,1,0,23.530045,0.0,0.05,-0.071,
+BBOX,Black Box Limited,Technology,2,0,2,0,0,70.41267,0.0,0.105,-0.119,
+BAJAJST,Bajaj Steel Industries Limited,,2,2,0,0,0,,0.0,-0.093,,
+DCM,DCM Limited,Industrials,2,2,0,0,0,29.319298,0.0,0.02,,
+COLPAL,Colgate-Palmolive (India) Limited,Consumer Defensive,2,0,0,2,0,44.244164,0.0,0.017,0.003,
+HCG,HealthCare Global Enterprises Limited,Healthcare,2,0,2,0,0,475.5224,0.0,0.133,,
+ACE,Action Construction Equipment Limited,Industrials,2,1,0,1,0,25.0,0.0,-0.023,0.043,
+AVROIND,Avro India Limited,Consumer Cyclical,2,2,0,0,0,38.185184,0.0,0.035,0.0,
+LAL,Lorenzini Apparels Limited,Consumer Cyclical,2,2,0,0,0,,0.0,-0.026,,
+AAATECH,AAA Technologies Limited,Technology,2,1,0,1,0,38.04065,0.0,-0.31,-0.186,
+BATAINDIA,Bata India Limited,Consumer Cyclical,2,0,2,0,0,50.007202,0.0,0.028,0.125,
+CINEVISTA,Cinevista Limited,Communication Services,2,2,0,0,0,,0.0,-0.364,,
+FAIRCHEMOR,Fairchem Organics Limited,Basic Materials,2,2,0,0,0,334.0811,0.0,-0.118,,
+GOKEX,Gokaldas Exports Limited,Consumer Cyclical,2,2,0,0,0,44.055096,0.0,-0.009,-0.72,
+OSWALSEEDS,ShreeOswal Seeds and Chemicals Limited,Basic Materials,2,2,0,0,0,30.923079,0.0,-0.274,-0.814,
+ARTNIRMAN,Art Nirman Limited,Real Estate,2,2,0,0,0,75.254906,0.0,-0.444,-0.727,
+LXCHEM,Laxmi Organic Industries Limited,Basic Materials,2,2,0,0,0,53.13241,0.0,-0.086,-0.124,
+ASTRAL,Astral Limited,Industrials,2,0,2,0,0,82.665245,0.0,0.103,-0.056,
+GSPCROP,GSPCROP,Basic Materials,2,2,0,0,0,24.033709,0.0,-0.017,,
+LYKALABS,Lyka Labs Limited,Healthcare,2,2,0,0,0,,0.0,,,
+AAREYDRUGS,Aarey Drugs & Pharmaceuticals Limited,Healthcare,2,2,0,0,0,72.70491,0.0,-0.279,-0.219,
+LGHL,LGHL,Consumer Cyclical,2,0,1,1,0,108.600006,0.0,0.092,-0.12,
+ASTERDM,Aster DM Healthcare Limited,Healthcare,2,0,2,0,0,117.57411,0.0,0.13,-0.105,
+BELRISE,BELRISE,Consumer Cyclical,2,1,1,0,0,39.078358,0.0,0.082,-0.275,
+HALDER,Halder Venture Limited,Consumer Defensive,2,2,0,0,0,3284.2856,0.0,-0.592,-0.023,
+DIAMINESQ,Diamines and Chemicals Limited,Basic Materials,2,2,0,0,0,,0.0,-0.564,,
+MARSONS,Marsons Limited,Industrials,2,0,0,2,0,75.30527,0.0,0.04,0.027,
+IGARASHI,Igarashi Motors India Limited,Consumer Cyclical,2,2,0,0,0,90.93968,0.0,0.025,-0.323,
+KWIL,KWIL,Consumer Defensive,2,0,0,0,2,,0.0,,,
+KALPATARU,KALPATARU,Real Estate,2,2,0,0,0,69.38155,0.0,-0.141,,
+MARALOVER,Maral Overseas Limited,Consumer Cyclical,2,2,0,0,0,,0.0,-0.012,,
+PANACEABIO,Panacea Biotec Limited,Healthcare,2,2,0,0,0,,0.0,0.01,-0.122,
+IFCI,IFCI Limited,Financial Services,2,2,0,0,0,91.72464,0.0,,,
+KALYANIFRG,Kalyani Forge Limited,Consumer Cyclical,2,2,0,0,0,39.848877,0.0,-0.013,,
+ABINFRA,ABINFRA,Industrials,2,0,2,0,0,35.459457,0.0,-0.008,0.105,
+MANAKALUCO,Manaksia Aluminium Company Limited,Basic Materials,2,2,0,0,0,35.791668,0.0,0.021,0.0,
+AYMSYNTEX,AYM Syntex Limited,Consumer Cyclical,2,2,0,0,0,,0.0,-0.143,-0.643,
+HDFCLIFE,HDFC Life Insurance Company Limited,Financial Services,2,0,0,1,1,68.47019,0.0,-0.177,0.041,0.11281
+BOSCH-HCIL,Bosch Home Comfort India Limited,Consumer Cyclical,2,0,2,0,0,312.7991,0.0,0.102,,
+BAJEL,Bajel Projects Limited,Utilities,2,2,0,0,0,185.96841,0.0,-0.096,,
+JINDWORLD,Jindal Worldwide Limited,Consumer Cyclical,1,1,0,0,0,40.196968,0.0,-0.148,-0.239,
+JAIBALAJI,Jai Balaji Industries Limited,Basic Materials,1,1,0,0,0,37.910892,0.0,-0.106,-0.902,
+MAANALU,Maan Aluminium Limited,Basic Materials,1,1,0,0,0,49.250885,0.0,-0.166,-0.071,
+BASF,BASF India Limited,Basic Materials,1,1,0,0,0,44.054394,0.0,0.028,0.03,
+CROMPTON,Crompton Greaves Consumer Electricals Limited,Consumer Cyclical,1,0,1,0,0,,0.0,0.073,-0.105,
+OLAELEC,OLAELEC,Consumer Cyclical,1,1,0,0,0,,0.0,-0.55,,
+GALLANTT,Gallantt Ispat Limited,Basic Materials,1,0,0,1,0,37.17066,0.0,,,
+BHARATCOAL,BHARATCOAL,Basic Materials,1,1,0,0,0,137.17857,0.0,-0.151,-0.571,0.02096
+MENNPIS,Menon Pistons Limited,,1,1,0,0,0,,0.0,-0.427,,
+FOCUS,Focus Lighting and Fixtures Limited,Consumer Cyclical,1,1,0,0,0,119.07043,0.0,-0.093,,
+NEOGEN,Neogen Chemicals Limited,Basic Materials,1,0,1,0,0,222.2697,0.0,0.092,-0.632,
+HEMIPROP,Hemisphere Properties India Limited,Real Estate,1,0,1,0,0,,0.0,0.071,,
+AXITA,Axita Cotton Limited,Consumer Cyclical,1,1,0,0,0,157.4,0.0,-0.608,,
+KIRLOSBROS,Kirloskar Brothers Limited,Industrials,1,0,1,0,0,34.12739,0.0,-0.024,0.06,
+ABLBL,ABLBL,Consumer Cyclical,1,0,1,0,0,73.815605,0.0,0.096,-0.051,
+KEEPLEARN,DSJ Keep Learning Limited,Consumer Defensive,1,1,0,0,0,,0.0,-0.311,,
+INDIGO,InterGlobe Aviation Limited,Industrials,1,0,1,0,0,52.080868,0.0,0.062,-0.776,
+ASIANPAINT,Asian Paints Limited,Basic Materials,1,0,0,1,0,64.92898,0.0,0.037,-0.046,
+JWL,Jupiter Wagons Limited,Industrials,1,1,0,0,0,47.6038,0.0,-0.135,-0.419,
+JUBLINGREA,Jubilant Ingrevia Limited,Basic Materials,1,1,0,0,0,43.663483,0.0,-0.005,-0.323,
+ORIENTTECH,ORIENTTECH,Technology,1,1,0,0,0,59.163094,0.0,-0.033,,
+ABMINTLLTD,ABM International Limited,Basic Materials,1,1,0,0,0,,0.0,-0.081,,
+FLUOROCHEM,Gujarat Fluorochemicals Limited,Basic Materials,1,0,0,1,0,62.109047,0.0,-0.01,-0.19,
+EASEMYTRIP,Easy Trip Planners Limited,Consumer Cyclical,1,1,0,0,0,,0.0,0.007,-0.778,
+ICDSLTD,ICDS Limited,Real Estate,1,1,0,0,0,25.422222,0.0,,,
+ASTRAMICRO,Astra Microwave Products Limited,Technology,1,0,0,1,0,65.790726,0.0,0.007,-0.016,
+PARASPETRO,Paras Petrofils Limited,Consumer Cyclical,1,1,0,0,0,,0.0,,0.0,
+ORKLAINDIA,ORKLAINDIA,Consumer Defensive,1,1,0,0,0,34.9723,0.0,0.034,-0.146,
+AARTECH,Aartech Solonics Limited,Industrials,1,1,0,0,0,72.89091,0.0,-0.245,-0.69,
+ALKYLAMINE,Alkyl Amines Chemicals Limited,Basic Materials,1,0,0,1,0,49.021057,0.0,-0.046,-0.035,
+GOYALALUM,Goyal Aluminiums Limited,Basic Materials,1,1,0,0,0,38.388885,0.0,-0.142,-0.5,
+BOROLTD,Borosil Limited,Consumer Cyclical,1,1,0,0,0,36.10493,0.0,0.002,-0.327,
+ARIHANTSUP,Arihant Superstructures Limited,Real Estate,1,1,0,0,0,27.015074,0.0,-0.164,-0.76,
+AMNPLST,Amines & Plasticizers Limited,Basic Materials,1,1,0,0,0,33.660194,0.0,-0.253,-0.22,
+ONESOURCE,ONESOURCE,Healthcare,1,1,0,0,0,,0.0,-0.26,,
+GRPLTD,GRP Limited,Consumer Cyclical,1,0,0,0,1,40.159927,0.0,-0.096,,0.01741
+BORORENEW,Borosil Renewables Limited,Technology,1,0,1,0,0,52.93122,0.0,0.08,,
+APOLLOPIPE,Apollo Pipes Limited,Industrials,1,1,0,0,0,156.02986,0.0,-0.197,,
+KPRMILL,K.P.R. Mill Limited,Consumer Cyclical,1,0,0,1,0,36.37062,0.0,-0.04,0.03,
+CANHLIFE,CANHLIFE,Financial Services,1,0,0,0,1,101.82706,0.0,-0.553,,0.081099994
+DCMSIL,DCM Shriram International Limited,Industrials,0,0,0,0,0,,0.0,-0.187,-0.744,
+CURAA,CURAA,Technology,0,0,0,0,0,,0.0,,,
+ELPROINTL,Elpro International Limited,Unknown,0,0,0,0,0,31.9438,0.0,,,
+LMW,LMW Limited,Industrials,0,0,0,0,0,135.13689,0.0,-0.011,-0.24,
+NIBE,Nibe Limited,Industrials,0,0,0,0,0,,0.0,-0.603,,
+3PLAND,3P Land Holdings Ltd,Unknown,0,0,0,0,0,,0.0,,,
+MAFATIND,Mafatlal Industries Limited,Unknown,0,0,0,0,0,10.511236,0.0,,,
+MFSL,Max Financial Services Limited,Financial Services,0,0,0,0,0,665.5601,0.0,-0.402,,0.01629
+EFCIL-RE,EFCIL-RE,Unknown,0,0,0,0,0,,0.0,,,
+LGEINDIA,LGEINDIA,Technology,0,0,0,0,0,61.35146,0.0,-0.064,-0.616,
+KIOCL,KIOCL Limited,Basic Materials,0,0,0,0,0,,0.0,-0.116,,
+AGRITECH,Agri-tech (India) Limited,Consumer Defensive,0,0,0,0,0,,0.0,,,
+DELTAMAGNT,Delta Manufacturing Limited,Consumer Cyclical,0,0,0,0,0,,0.0,0.028,,
+JASH,Jash Engineering Limited,Industrials,0,0,0,0,0,43.672314,0.0,-0.112,-0.624,
+ORTINGLOBE,Ortin Global Limited,Healthcare,0,0,0,0,0,,0.0,-0.633,,
+GRADIENTE,Gradiente Infotainment Limited,Communication Services,0,0,0,0,0,,0.0,-0.411,0.0,
+GLOBALVECT,Global Vectra Helicorp Limited,Industrials,0,0,0,0,0,,0.0,0.031,,
+NDGL,Naga Dhunseri Group Limited,Financial Services,0,0,0,0,0,53.191044,0.0,,,
+EIFFL,Euro India Fresh Foods Limited,Consumer Defensive,0,0,0,0,0,102.07048,0.0,-0.406,-0.493,
+BSHSL,Bombay Super Hybrid Seeds Limited,Basic Materials,0,0,0,0,0,36.238808,0.0,-0.159,-0.129,
+ITI,ITI Limited,Technology,0,0,0,0,0,,0.0,-0.503,,
+JSWDULUX,JSW Dulux Limited,Unknown,0,0,0,0,0,6.775094,0.0,,,
+NIMBSPROJ,Nimbus Projects Limited,Unknown,0,0,0,0,0,,0.0,,,
+OPTIEMUS,Optiemus Infracom Limited,Technology,0,0,0,0,0,55.846775,0.0,-0.088,-0.223,
+HBESD,HB Estate Developers Limited,Unknown,0,0,0,0,0,,0.0,,,

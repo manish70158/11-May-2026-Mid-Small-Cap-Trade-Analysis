@@ -1,0 +1,21 @@
+rank,symbol,name,sector,composite_score,fundamental_score,technical_score,risk_score,sentiment_score,entry_price,target_price,expected_upside_pct
+1,GESHIP,The Great Eastern Shipping Company Limited,Industrials,75.0,24,23.0,15.5,12.5,100,132.11,32.1
+2,MAHABANK,Bank of Maharashtra,Financial Services,74.0,22,20.5,18.0,13.5,100,134.23,34.2
+3,NORTHARC,Northern Arc Capital Limited,Financial Services,73.0,20,23.5,14.0,15.5,100,134.72,34.7
+4,M&MFIN,Mahindra & Mahindra Financial Services Limited,Financial Services,71.0,20,22.0,15.5,13.5,100,129.26,29.3
+5,HINDZINC,Hindustan Zinc Limited,Basic Materials,70.5,19,25.0,13.0,13.5,100,128.13,28.1
+6,JSWSTEEL,JSW Steel Limited,Basic Materials,70.0,18,19.5,18.0,14.5,100,128.54,28.5
+7,LUPIN,Lupin Limited,Healthcare,68.5,23,15.5,16.5,13.5,100,123.74,23.7
+8,ENGINERSIN,Engineers India Limited,Industrials,67.0,19,18.5,17.0,12.5,100,119.05,19.0
+9,MASFIN,MAS Financial Services Limited,Financial Services,66.0,20,17.0,13.0,16.0,100,121.85,21.9
+10,BAJAJ-AUTO,Bajaj Auto Limited,Consumer Cyclical,65.5,18,16.5,17.5,13.5,100,120.62,20.6
+11,GLAND,Gland Pharma Limited,Healthcare,65.0,17,19.0,15.5,13.5,100,120.57,20.6
+12,HINDCOPPER,Hindustan Copper Limited,Basic Materials,65.0,17,24.0,12.5,11.5,100,124.53,24.5
+13,AEROFLEX,Aeroflex Industries Limited,Industrials,65.0,15,24.0,12.5,13.5,100,122.56,22.6
+14,HEROMOTOCO,Hero MotoCorp Limited,Consumer Cyclical,64.5,22,12.0,15.5,15.0,100,120.0,20.0
+15,NESTLEIND,Nestlé India Limited,Consumer Defensive,64.5,13,22.0,17.0,12.5,100,121.17,21.2
+16,FCL,Fineotex Chemical Limited,Basic Materials,64.5,18,20.5,12.5,13.5,100,124.8,24.8
+17,OFSS,Oracle Financial Services Software Limited,Technology,64.0,19,20.0,13.0,12.0,100,120.29,20.3
+18,DATAPATTNS,Data Patterns (India) Limited,Industrials,63.5,12,25.5,14.5,11.5,100,124.33,24.3
+19,CUPID,Cupid Limited,Consumer Defensive,63.5,17,20.0,13.5,13.0,100,119.67,19.7
+20,GHCLTEXTIL,GHCL Textiles Limited,Consumer Cyclical,63.0,20,18.5,11.5,13.0,100,120.16,20.2

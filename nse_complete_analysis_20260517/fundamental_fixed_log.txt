@@ -1,0 +1,48 @@
+2026-05-17 17:46:40,862 - INFO - Starting FIXED fundamental analysis...
+2026-05-17 17:46:40,862 - INFO - Handling infinity values and data type errors...
+2026-05-17 17:46:40,868 - INFO - Loaded 1554 stocks
+2026-05-17 17:47:21,074 - INFO - Progress: 50/1554 (3.2%)
+2026-05-17 17:48:03,927 - INFO - Progress: 100/1554 (6.4%)
+2026-05-17 17:48:45,620 - INFO - Progress: 150/1554 (9.7%)
+2026-05-17 17:49:26,954 - INFO - Progress: 200/1554 (12.9%)
+2026-05-17 17:50:08,542 - INFO - Progress: 250/1554 (16.1%)
+2026-05-17 17:50:49,851 - INFO - Progress: 300/1554 (19.3%)
+2026-05-17 17:51:32,147 - INFO - Progress: 350/1554 (22.5%)
+2026-05-17 17:52:14,554 - INFO - Progress: 400/1554 (25.7%)
+2026-05-17 17:52:57,670 - INFO - Progress: 450/1554 (29.0%)
+2026-05-17 17:53:40,031 - INFO - Progress: 500/1554 (32.2%)
+2026-05-17 17:54:21,950 - INFO - Progress: 550/1554 (35.4%)
+2026-05-17 17:55:03,921 - INFO - Progress: 600/1554 (38.6%)
+2026-05-17 17:55:47,286 - INFO - Progress: 650/1554 (41.8%)
+2026-05-17 17:56:30,446 - INFO - Progress: 700/1554 (45.0%)
+2026-05-17 17:57:12,823 - INFO - Progress: 750/1554 (48.3%)
+2026-05-17 17:57:55,304 - INFO - Progress: 800/1554 (51.5%)
+2026-05-17 17:58:37,700 - INFO - Progress: 850/1554 (54.7%)
+2026-05-17 17:59:19,786 - INFO - Progress: 900/1554 (57.9%)
+2026-05-17 18:00:01,795 - INFO - Progress: 950/1554 (61.1%)
+2026-05-17 18:00:43,419 - INFO - Progress: 1000/1554 (64.4%)
+2026-05-17 18:01:26,657 - INFO - Progress: 1050/1554 (67.6%)
+2026-05-17 18:02:08,553 - INFO - Progress: 1100/1554 (70.8%)
+2026-05-17 18:02:51,413 - INFO - Progress: 1150/1554 (74.0%)
+2026-05-17 18:03:34,067 - INFO - Progress: 1200/1554 (77.2%)
+2026-05-17 18:04:15,823 - INFO - Progress: 1250/1554 (80.4%)
+2026-05-17 18:04:57,638 - INFO - Progress: 1300/1554 (83.7%)
+2026-05-17 18:05:40,105 - INFO - Progress: 1350/1554 (86.9%)
+2026-05-17 18:06:21,583 - INFO - Progress: 1400/1554 (90.1%)
+2026-05-17 18:07:03,528 - INFO - Progress: 1450/1554 (93.3%)
+2026-05-17 18:07:44,835 - INFO - Progress: 1500/1554 (96.5%)
+2026-05-17 18:08:27,467 - INFO - Progress: 1550/1554 (99.7%)
+2026-05-17 18:08:31,609 - INFO - Successfully fetched data for 1554 stocks
+2026-05-17 18:08:31,669 - INFO - ✅ Saved 1554 stocks to nse_complete_analysis_20260517/fundamental_scores.csv
+2026-05-17 18:08:31,669 - INFO - Top 10 by fundamental score:
+          symbol  fundamental_score              sector
+1547   NITTAGELA                 24     Basic Materials
+871     MASTERTR                 24  Financial Services
+232       GESHIP                 24         Industrials
+75         LUPIN                 23          Healthcare
+1129        AFIL                 23  Financial Services
+49    MUTHOOTFIN                 23  Financial Services
+426     KPIGREEN                 23           Utilities
+1105    NAHARCAP                 23  Financial Services
+806     INFOBEAN                 23          Technology
+271       EMMVEE                 22          Technology
