@@ -1,0 +1,23 @@
+{
+  "skill_name": "nse-stock-recommender",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Find me the top 20 stocks to buy right now from NSE. I want short-term opportunities for the next 1-3 months with detailed analysis covering fundamentals, technicals, and risk.",
+      "expected_output": "Complete analysis of NSE stocks with top 20 recommendations, including composite scores, entry points, target prices, and detailed markdown report.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Which NSE stocks have strong fundamentals AND bullish technical signals right now? Need complete screening with all metrics - valuation ratios, growth numbers, technical indicators, sentiment analysis. Give me ranked recommendations.",
+      "expected_output": "Top 20 NSE stocks ranked by composite score combining fundamental, technical, risk, and sentiment analysis, with detailed report and metrics.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "I'm looking to invest for 2-3 months. Screen all NSE listed stocks and recommend the best opportunities based on complete analysis including P/E ratios, earnings growth, RSI, MACD, analyst ratings, and risk factors. Show me top picks with entry and exit points.",
+      "expected_output": "Comprehensive top 20 stock recommendations with 4-pillar analysis (fundamental, technical, risk, sentiment), entry/target prices, expected upside, and detailed investment rationale for each stock.",
+      "files": []
+    }
+  ]
+}
