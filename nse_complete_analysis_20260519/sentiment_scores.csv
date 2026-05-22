@@ -1,0 +1,450 @@
+symbol,name,sector,sentiment_score,news_score,analyst_score,social_score,news_coverage_score,news_count,news_sentiment_score,news_total,recommendation_score,recommendation,recommendation_mean,target_upside_score,target_upside_pct,target_price,num_analysts,analyst_total,twitter_score,twitter_mentions,reddit_score,reddit_discussions,social_total,social_note,sentiment_summary
+HDFCBANK,HDFC Bank Limited,Financial Services,16.5,7,7.0,2.5,4,10,3,7,4,Strong Buy,1.15,3.0,37.3,1039.79,39,7.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Very Positive
+ICICIBANK,ICICI Bank Limited,Financial Services,16.5,7,7.0,2.5,4,10,3,7,4,Strong Buy,1.25,3.0,35.5,1669.8,40,7.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Very Positive
+M&M,Mahindra & Mahindra Limited,Consumer Cyclical,16.5,7,7.0,2.5,4,10,3,7,4,Strong Buy,1.29,3.0,32.8,4143.65,34,7.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Very Positive
+INDIANHUME,The Indian Hume Pipe Company Limited,Industrials,16.5,7,7.0,2.5,4,0,3,7,4,Strong Buy,1.0,3.0,42.9,437.0,1,7.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Very Positive
+PARAGMILK,Parag Milk Foods Limited,Consumer Defensive,16.5,7,7.0,2.5,4,0,3,7,4,Strong Buy,1.0,3.0,47.1,310.0,2,7.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Very Positive
+DBCORP,D. B. Corp Limited,Communication Services,16.5,7,7.0,2.5,4,0,3,7,4,Strong Buy,1.5,3.0,36.7,282.0,2,7.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Very Positive
+LEMONTREE,Lemon Tree Hotels Limited,Consumer Cyclical,16.5,7,7.0,2.5,4,10,3,7,4,Strong Buy,1.3,3.0,51.6,167.48,21,7.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Very Positive
+RELIANCE,Reliance Industries Limited,Energy,16.0,7,6.5,2.5,4,10,3,7,4,Strong Buy,1.31,2.5,25.9,1696.62,32,6.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Very Positive
+ULTRACEMCO,UltraTech Cement Limited,Basic Materials,16.0,7,6.5,2.5,4,10,3,7,4,Strong Buy,1.44,2.5,21.0,13720.54,39,6.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Very Positive
+SUZLON,Suzlon Energy Limited,Industrials,16.0,7,6.5,2.5,4,10,3,7,4,Strong Buy,1.15,2.5,22.2,64.08,13,6.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Very Positive
+ABCAPITAL,Aditya Birla Capital Limited,Financial Services,16.0,7,6.5,2.5,4,8,3,7,4,Strong Buy,1.17,2.5,18.9,411.42,12,6.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Very Positive
+KSB,KSB Limited,Industrials,16.0,7,6.5,2.5,4,0,3,7,4,Strong Buy,1.5,2.5,15.0,956.0,2,6.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Very Positive
+AXISBANK,Axis Bank Limited,Financial Services,16.0,7,6.5,2.5,4,10,3,7,4,Strong Buy,1.27,2.5,27.0,1580.7,40,6.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Very Positive
+ABCAPITAL,Aditya Birla Capital Limited,Financial Services,16.0,7,6.5,2.5,4,8,3,7,4,Strong Buy,1.17,2.5,18.9,411.42,12,6.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Very Positive
+SBILIFE,SBI Life Insurance Company Limited,Financial Services,16.0,7,6.5,2.5,4,9,3,7,4,Strong Buy,1.14,2.5,25.1,2346.86,37,6.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Very Positive
+SBILIFE,SBI Life Insurance Company Limited,Financial Services,16.0,7,6.5,2.5,4,9,3,7,4,Strong Buy,1.14,2.5,25.1,2346.86,37,6.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Very Positive
+SBIN,State Bank of India,Financial Services,16.0,7,6.5,2.5,4,10,3,7,4,Strong Buy,1.49,2.5,26.3,1195.0,38,6.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Very Positive
+ULTRACEMCO,UltraTech Cement Limited,Basic Materials,16.0,7,6.5,2.5,4,10,3,7,4,Strong Buy,1.44,2.5,21.1,13720.54,39,6.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Very Positive
+ICICIPRULI,ICICI Prudential Life Insurance Company Limited,Financial Services,15.5,7,6.0,2.5,4,7,3,7,3,Buy,1.64,3.0,35.3,689.91,33,6.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+RADICO,Radico Khaitan Limited,Consumer Defensive,15.5,7,6.0,2.5,4,9,3,7,4,Strong Buy,1.32,2.0,7.8,3868.42,19,6.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+TEXRAIL,Texmaco Rail & Engineering Limited,Industrials,15.5,6,7.0,2.5,3,3,3,6,4,Strong Buy,1.0,3.0,55.1,168.0,2,7.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+REDINGTON,Redington Limited,Technology,15.5,6,7.0,2.5,3,3,3,6,4,Strong Buy,1.0,3.0,39.5,313.75,4,7.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+CHAMBLFERT,Chambal Fertilisers and Chemicals Limited,Basic Materials,15.5,6,7.0,2.5,3,5,3,6,4,Strong Buy,1.0,3.0,38.8,620.0,1,7.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+CHAMBLFERT,Chambal Fertilisers and Chemicals Limited,Basic Materials,15.5,6,7.0,2.5,3,5,3,6,4,Strong Buy,1.0,3.0,38.8,620.0,1,7.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+THOMASCOOK,Thomas Cook (India) Limited,Consumer Cyclical,15.5,6,7.0,2.5,3,3,3,6,4,Strong Buy,1.0,3.0,41.8,131.5,2,7.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+DLF,DLF Limited,Real Estate,15.5,6,7.0,2.5,3,3,3,6,4,Strong Buy,1.18,3.0,42.1,821.91,22,7.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+IIFL,IIFL Finance Limited,Financial Services,15.5,6,7.0,2.5,3,5,3,6,4,Strong Buy,1.5,3.0,33.9,617.5,4,7.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+ADANIPORTS,Adani Ports and Special Economic Zone Limited,Industrials,15.5,7,6.0,2.5,4,10,3,7,4,Strong Buy,1.21,2.0,7.6,1900.62,24,6.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+GODREJAGRO,Godrej Agrovet Limited,Consumer Defensive,15.5,6,7.0,2.5,3,4,3,6,4,Strong Buy,1.2,3.0,35.8,780.0,5,7.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+PNBHOUSING,PNB Housing Finance Limited,Financial Services,15.5,7,6.0,2.5,4,9,3,7,4,Strong Buy,1.42,2.0,11.7,1184.17,12,6.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+RECLTD,REC Limited,Financial Services,15.5,7,6.0,2.5,4,0,3,7,3,Buy,1.62,3.0,32.9,440.77,13,6.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+NTPC,NTPC Limited,Utilities,15.5,7,6.0,2.5,4,10,3,7,4,Strong Buy,1.38,2.0,9.9,427.11,27,6.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+RECLTD,REC Limited,Financial Services,15.5,7,6.0,2.5,4,0,3,7,3,Buy,1.62,3.0,32.9,440.77,13,6.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+UJJIVANSFB,Ujjivan Small Finance Bank Limited,Financial Services,15.5,6,7.0,2.5,3,3,3,6,4,Strong Buy,1.12,3.0,38.4,73.71,17,7.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+PNCINFRA,PNC Infratech Limited,Industrials,15.5,6,7.0,2.5,3,3,3,6,4,Strong Buy,1.36,3.0,42.4,301.21,14,7.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+ARVINDFASN,Arvind Fashions Limited,Consumer Cyclical,15.5,6,7.0,2.5,3,4,3,6,4,Strong Buy,1.14,3.0,54.1,658.43,7,7.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+KALYANKJIL,Kalyan Jewellers India Limited,Consumer Cyclical,15.5,6,7.0,2.5,3,4,3,6,4,Strong Buy,1.0,3.0,94.9,664.44,0,7.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+MPHASIS,Mphasis Limited,Technology,15.0,7,5.5,2.5,4,9,3,7,3,Buy,1.8,2.5,19.2,2647.03,36,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+PFC,Power Finance Corporation Limited,Financial Services,15.0,6,6.5,2.5,3,3,3,6,4,Strong Buy,1.14,2.5,19.6,511.07,14,6.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+TDPOWERSYS,TD Power Systems Limited,Industrials,15.0,7,5.5,2.5,4,0,3,7,3,Buy,2.0,2.5,15.3,1417.0,2,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+UNITDSPR,UNITDSPR,Consumer Defensive,15.0,7,5.5,2.5,4,10,3,7,3,Buy,1.92,2.5,17.2,1509.38,26,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+TRENT,Trent Limited,Consumer Cyclical,15.0,7,5.5,2.5,4,10,3,7,3,Buy,1.92,2.5,18.2,4813.04,25,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+TRENT,Trent Limited,Consumer Cyclical,15.0,7,5.5,2.5,4,10,3,7,3,Buy,1.92,2.5,18.2,4813.04,25,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+MPHASIS,Mphasis Limited,Technology,15.0,7,5.5,2.5,4,9,3,7,3,Buy,1.8,2.5,19.2,2647.03,36,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+GODREJCP,Godrej Consumer Products Limited,Consumer Defensive,15.0,7,5.5,2.5,4,10,3,7,3,Buy,1.53,2.5,24.7,1265.26,35,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+MUTHOOTFIN,Muthoot Finance Limited,Financial Services,15.0,7,5.5,2.5,4,7,3,7,3,Buy,2.48,2.5,18.0,3876.52,21,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+INDHOTEL,The Indian Hotels Company Limited,Consumer Cyclical,15.0,7,5.5,2.5,4,10,3,7,3,Buy,1.55,2.5,22.4,795.41,29,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+INDHOTEL,The Indian Hotels Company Limited,Consumer Cyclical,15.0,7,5.5,2.5,4,10,3,7,3,Buy,1.55,2.5,22.4,795.41,29,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+INDIANB,Indian Bank,Financial Services,15.0,6,6.5,2.5,3,4,3,6,4,Strong Buy,1.5,2.5,22.8,1001.54,13,6.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+MUTHOOTFIN,Muthoot Finance Limited,Financial Services,15.0,7,5.5,2.5,4,7,3,7,3,Buy,2.48,2.5,18.0,3876.52,21,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+DABUR,Dabur India Limited,Consumer Defensive,15.0,7,5.5,2.5,4,10,3,7,3,Buy,2.43,2.5,17.1,527.11,37,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+BRITANNIA,Britannia Industries Limited,Consumer Defensive,15.0,7,5.5,2.5,4,10,3,7,3,Buy,1.97,2.5,17.1,6251.65,34,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+CANBK,Canara Bank,Financial Services,15.0,7,5.5,2.5,4,9,3,7,3,Buy,1.74,2.5,20.2,151.6,20,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+PETRONET,Petronet LNG Limited,Energy,15.0,7,5.5,2.5,4,10,3,7,3,Buy,2.29,2.5,18.8,314.61,31,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+PETRONET,Petronet LNG Limited,Energy,15.0,7,5.5,2.5,4,10,3,7,3,Buy,2.29,2.5,18.8,314.61,31,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+HEROMOTOCO,Hero MotoCorp Limited,Consumer Cyclical,15.0,7,5.5,2.5,4,10,3,7,3,Buy,2.29,2.5,19.3,5939.06,34,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+CROMPTON,Crompton Greaves Consumer Electricals Limited,Consumer Cyclical,15.0,6,6.5,2.5,3,4,3,6,4,Strong Buy,1.32,2.5,18.1,343.56,34,6.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+SOBHA,Sobha Limited,Real Estate,15.0,6,6.5,2.5,3,5,3,6,4,Strong Buy,1.38,2.5,29.2,1780.38,16,6.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+MARUTI,Maruti Suzuki India Limited,Consumer Cyclical,15.0,7,5.5,2.5,4,10,3,7,3,Buy,1.55,2.5,22.1,15886.5,40,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+TITAN,Titan Company Limited,Consumer Cyclical,15.0,7,5.5,2.5,4,8,3,7,3,Buy,1.81,2.5,23.5,5044.22,37,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+MFSL,Max Financial Services Limited,Financial Services,15.0,6,6.5,2.5,3,4,3,6,4,Strong Buy,1.24,2.5,27.3,2065.6,25,6.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+CROMPTON,Crompton Greaves Consumer Electricals Limited,Consumer Cyclical,15.0,6,6.5,2.5,3,4,3,6,4,Strong Buy,1.32,2.5,18.1,343.56,34,6.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+HAL,Hindustan Aeronautics Limited,Industrials,15.0,7,5.5,2.5,4,7,3,7,3,Buy,1.83,2.5,20.0,5157.46,24,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+INFY,Infosys Limited,Technology,15.0,7,5.5,2.5,4,10,3,7,3,Buy,1.9,2.5,22.8,1463.2,40,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+LICI,Life Insurance Corporation of India,Financial Services,15.0,7,5.5,2.5,4,10,3,7,3,Buy,1.65,2.5,29.8,1045.54,24,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+SHOPERSTOP,Shoppers Stop Limited,Consumer Cyclical,15.0,7,5.5,2.5,4,6,3,7,3,Buy,2.11,2.5,22.7,407.44,9,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+HINDUNILVR,Hindustan Unilever Limited,Consumer Defensive,15.0,7,5.5,2.5,4,10,3,7,3,Buy,2.03,2.5,15.7,2561.11,37,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+BAJFINANCE,Bajaj Finance Limited,Financial Services,15.0,7,5.5,2.5,4,10,3,7,3,Buy,1.94,2.5,15.9,1061.86,35,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+CAPLIPOINT,Caplin Point Laboratories Limited,Healthcare,15.0,6,6.5,2.5,3,3,3,6,4,Strong Buy,1.0,2.5,23.9,2505.0,2,6.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+FSL,Firstsource Solutions Limited,Technology,15.0,6,6.5,2.5,3,3,3,6,4,Strong Buy,1.5,2.5,18.7,294.21,14,6.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+TCS,Tata Consultancy Services Limited,Technology,15.0,7,5.5,2.5,4,10,3,7,3,Buy,2.12,2.5,26.0,2943.65,43,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+BHARTIARTL,Bharti Airtel Limited,Communication Services,15.0,7,5.5,2.5,4,10,3,7,3,Buy,1.56,2.5,20.6,2293.94,32,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+INDIGO,InterGlobe Aviation Limited,Industrials,15.0,7,5.5,2.5,4,10,3,7,3,Buy,1.56,2.5,27.2,5398.88,25,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+TVSMOTOR,TVS Motor Company Limited,Consumer Cyclical,15.0,7,5.5,2.5,4,10,3,7,3,Buy,2.08,2.5,17.3,3942.41,37,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+KOTAKBANK,Kotak Mahindra Bank Limited,Financial Services,15.0,7,5.5,2.5,4,10,3,7,3,Buy,1.72,2.5,20.6,461.12,36,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+COFORGE,Coforge Limited,Technology,14.5,7,5.0,2.5,4,6,3,7,3,Buy,1.73,2.0,14.8,1636.91,34,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+TIINDIA,Tube Investments of India Limited,Industrials,14.5,7,5.0,2.5,4,6,3,7,3,Buy,2.17,2.0,13.9,3362.33,6,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+JSWENERGY,JSW Energy Limited,Utilities,14.5,7,5.0,2.5,4,8,3,7,3,Buy,2.32,2.0,11.0,591.35,20,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+COFORGE,Coforge Limited,Technology,14.5,7,5.0,2.5,4,6,3,7,3,Buy,1.73,2.0,14.8,1636.91,34,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+JSWENERGY,JSW Energy Limited,Utilities,14.5,7,5.0,2.5,4,8,3,7,3,Buy,2.32,2.0,11.0,591.35,20,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+GODREJPROP,Godrej Properties Limited,Real Estate,14.5,6,6.0,2.5,3,3,3,6,3,Buy,1.82,3.0,32.5,2267.42,22,6.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+ASHOKLEY,Ashok Leyland Limited,Industrials,14.5,7,5.0,2.5,4,10,3,7,2,No Coverage,,3.0,30.3,197.79,33,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+TIINDIA,Tube Investments of India Limited,Industrials,14.5,7,5.0,2.5,4,6,3,7,3,Buy,2.17,2.0,13.9,3362.33,6,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+MOTILALOFS,Motilal Oswal Financial Services Limited,Financial Services,14.5,7,5.0,2.5,4,10,3,7,2,No Coverage,,3.0,30.3,1103.75,4,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+AUBANK,AU Small Finance Bank Limited,Financial Services,14.5,7,5.0,2.5,4,6,3,7,3,Buy,2.44,2.0,13.7,1091.31,26,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+QUESS,Quess Corp Limited,Industrials,14.5,5,7.0,2.5,2,2,3,5,4,Strong Buy,1.38,3.0,39.3,281.5,8,7.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+AJANTPHARM,Ajanta Pharma Limited,Healthcare,14.5,7,5.0,2.5,4,6,3,7,4,Strong Buy,1.31,1.0,3.3,3303.29,14,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+OIL,Oil India Limited,Energy,14.5,7,5.0,2.5,4,10,3,7,3,Buy,2.1,2.0,8.4,547.6,20,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+OIL,Oil India Limited,Energy,14.5,7,5.0,2.5,4,10,3,7,3,Buy,2.1,2.0,8.3,547.6,20,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+JUSTDIAL,Just Dial Limited,Communication Services,14.5,7,5.0,2.5,4,0,3,7,2,No Coverage,,3.0,88.2,965.86,7,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+NHPC,NHPC Limited,Utilities,14.5,7,5.0,2.5,4,8,3,7,3,Buy,2.43,2.0,14.3,89.86,7,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+JAMNAAUTO,Jamna Auto Industries Limited,Consumer Cyclical,14.5,7,5.0,2.5,4,0,3,7,2,No Coverage,,3.0,66.5,185.0,1,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+TATACOMM,Tata Communications Limited,Communication Services,14.5,7,5.0,2.5,4,10,3,7,3,Buy,2.11,2.0,9.4,1902.56,9,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+TATACOMM,Tata Communications Limited,Communication Services,14.5,7,5.0,2.5,4,10,3,7,3,Buy,2.11,2.0,9.4,1902.56,9,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+TECHM,Tech Mahindra Limited,Technology,14.5,7,5.0,2.5,4,10,3,7,3,Buy,2.25,2.0,8.7,1584.53,40,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+SYMPHONY,Symphony Limited,Consumer Cyclical,14.5,6,6.0,2.5,3,3,3,6,3,Buy,1.86,3.0,41.3,1019.43,7,6.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+AFFLE,Affle 3i Limited,Communication Services,14.5,5,7.0,2.5,2,2,3,5,4,Strong Buy,1.36,3.0,37.1,1975.27,11,7.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+EMAMILTD,Emami Limited,Consumer Defensive,14.5,5,7.0,2.5,2,2,3,5,4,Strong Buy,1.45,3.0,42.4,607.86,22,7.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+ZYDUSWELL,Zydus Wellness Limited,Consumer Defensive,14.5,6,6.0,2.5,3,3,3,6,4,Strong Buy,1.38,2.0,10.4,564.29,7,6.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+TATASTEEL,Tata Steel Limited,Basic Materials,14.5,7,5.0,2.5,4,10,3,7,3,Buy,2.47,2.0,8.8,222.68,34,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+POWERGRID,Power Grid Corporation of India Limited,Utilities,14.5,7,5.0,2.5,4,8,3,7,3,Buy,2.21,2.0,10.7,329.0,25,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+NCC,NCC Limited,Industrials,14.5,6,6.0,2.5,3,3,3,6,3,Buy,1.69,3.0,42.0,208.38,13,6.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+ABREL,Aditya Birla Real Estate Limited,Real Estate,14.5,5,7.0,2.5,2,2,3,5,4,Strong Buy,1.18,3.0,50.2,1896.27,11,7.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+VIJAYA,Vijaya Diagnostic Centre Limited,Healthcare,14.5,7,5.0,2.5,4,0,3,7,3,Buy,1.67,2.0,7.1,1362.2,10,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+INTELLECT,Intellect Design Arena Limited,Technology,14.5,6,6.0,2.5,3,5,3,6,3,Buy,1.8,3.0,52.9,1067.0,5,6.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+TRIDENT,Trident Limited,Consumer Cyclical,14.5,7,5.0,2.5,4,0,3,7,2,No Coverage,,3.0,36.5,33.0,1,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+TRIDENT,Trident Limited,Consumer Cyclical,14.5,7,5.0,2.5,4,0,3,7,2,No Coverage,,3.0,36.5,33.0,1,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+CYIENT,Cyient Limited,Industrials,14.5,7,5.0,2.5,4,6,3,7,3,Buy,2.25,2.0,11.8,1015.14,21,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+CYIENT,Cyient Limited,Industrials,14.5,7,5.0,2.5,4,6,3,7,3,Buy,2.25,2.0,11.8,1015.14,21,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+DISHTV,Dish TV India Limited,Communication Services,14.5,7,5.0,2.5,4,0,3,7,2,No Coverage,,3.0,76.5,6.0,1,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+BALRAMCHIN,Balrampur Chini Mills Limited,Consumer Defensive,14.5,6,6.0,2.5,3,3,3,6,4,Strong Buy,1.0,2.0,12.9,620.83,6,6.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+LT,Larsen & Toubro Limited,Industrials,14.5,7,5.0,2.5,4,10,3,7,3,Buy,1.72,2.0,14.5,4494.61,31,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+RBLBANK,RBL Bank Limited,Financial Services,14.5,7,5.0,2.5,4,10,3,7,3,Buy,2.33,2.0,7.2,346.89,18,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+EMAMILTD,Emami Limited,Consumer Defensive,14.5,5,7.0,2.5,2,2,3,5,4,Strong Buy,1.45,3.0,42.4,607.86,22,7.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+MAHLIFE,Mahindra Lifespace Developers Limited,Real Estate,14.5,5,7.0,2.5,2,2,3,5,4,Strong Buy,1.0,3.0,46.0,480.71,7,7.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+GESHIP,The Great Eastern Shipping Company Limited,Industrials,14.5,6,6.0,2.5,3,3,3,6,4,Strong Buy,1.0,2.0,11.8,1865.0,2,6.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+MARICO,Marico Limited,Consumer Defensive,14.5,7,5.0,2.5,4,10,3,7,3,Buy,1.54,2.0,7.5,895.45,38,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+MARICO,Marico Limited,Consumer Defensive,14.5,7,5.0,2.5,4,10,3,7,3,Buy,1.54,2.0,7.5,895.45,38,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+SOMANYCERA,Somany Ceramics Limited,Industrials,14.5,6,6.0,2.5,3,3,3,6,4,Strong Buy,1.13,2.0,7.8,560.87,15,6.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+TATACONSUM,Tata Consumer Products Limited,Consumer Defensive,14.5,7,5.0,2.5,4,7,3,7,3,Buy,1.83,2.0,11.1,1347.83,29,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+NEWGEN,Newgen Software Technologies Limited,Technology,14.5,6,6.0,2.5,3,4,3,6,3,Buy,1.57,3.0,58.1,712.86,7,6.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+TECHM,Tech Mahindra Limited,Technology,14.5,7,5.0,2.5,4,10,3,7,3,Buy,2.25,2.0,8.7,1584.53,40,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+ALKEM,Alkem Laboratories Limited,Healthcare,14.5,7,5.0,2.5,4,10,3,7,3,Buy,2.5,2.0,9.1,5959.1,20,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+ORIENTELEC,Orient Electric Limited,Consumer Cyclical,14.0,5,6.5,2.5,2,2,3,5,4,Strong Buy,1.46,2.5,26.6,237.31,13,6.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+MOIL,MOIL Limited,Basic Materials,14.0,7,4.5,2.5,4,0,3,7,2,No Coverage,,2.5,24.4,371.67,3,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+JUBLFOOD,Jubilant FoodWorks Limited,Consumer Cyclical,14.0,7,4.5,2.5,4,10,3,7,2,No Coverage,,2.5,26.4,597.55,29,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+JUBLFOOD,Jubilant FoodWorks Limited,Consumer Cyclical,14.0,7,4.5,2.5,4,10,3,7,2,No Coverage,,2.5,26.4,597.55,29,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+MAHLOG,Mahindra Logistics Limited,Industrials,14.0,7,4.5,2.5,4,8,3,7,2,No Coverage,,2.5,21.0,427.0,7,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+SONATSOFTW,Sonata Software Limited,Technology,14.0,6,5.5,2.5,3,3,3,6,3,Buy,2.25,2.5,28.2,340.38,8,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+SBICARD,SBI Cards and Payment Services Limited,Financial Services,14.0,7,4.5,2.5,4,7,3,7,2,Hold,3.12,2.5,18.4,731.75,24,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+IMFA,Indian Metals and Ferro Alloys Limited,Basic Materials,14.0,7,4.5,2.5,4,0,3,7,2,No Coverage,,2.5,28.7,1860.0,1,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+ESCORTS,Escorts Kubota Limited,Industrials,14.0,7,4.5,2.5,4,6,3,7,2,Hold,3.0,2.5,20.2,3472.12,17,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+CREDITACC,CreditAccess Grameen Limited,Financial Services,14.0,6,5.5,2.5,3,4,3,6,3,Buy,1.53,2.5,29.4,1674.4,15,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+GSPL,Gujarat State Petronet Limited,,14.0,7,4.5,2.5,4,0,3,7,2,Hold,2.56,2.5,15.7,320.44,16,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+HINDCOPPER,Hindustan Copper Limited,Basic Materials,14.0,5,6.5,2.5,2,1,3,5,4,Strong Buy,1.0,2.5,29.7,715.0,1,6.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+PRSMJOHNSN,Prism Johnson Limited,Basic Materials,14.0,7,4.5,2.5,4,0,3,7,2,Hold,3.0,2.5,17.1,140.5,2,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+BDL,Bharat Dynamics Limited,Industrials,14.0,7,4.5,2.5,4,0,3,7,2,No Coverage,,2.5,17.6,1520.17,12,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+ABFRL,Aditya Birla Fashion and Retail Limited,Consumer Cyclical,14.0,7,4.5,2.5,4,6,3,7,2,No Coverage,,2.5,20.6,75.12,16,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+CREDITACC,CreditAccess Grameen Limited,Financial Services,14.0,6,5.5,2.5,3,4,3,6,3,Buy,1.53,2.5,29.5,1674.4,15,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+BANKINDIA,Bank of India Limited,Financial Services,14.0,7,4.5,2.5,4,10,3,7,2,Hold,2.8,2.5,15.9,159.6,5,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+BSOFT,Birlasoft Limited,Technology,14.0,6,5.5,2.5,3,3,3,6,3,Buy,2.5,2.5,20.6,386.43,14,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+THYROCARE,Thyrocare Technologies Limited,Healthcare,14.0,5,6.5,2.5,2,2,3,5,4,Strong Buy,1.0,2.5,25.8,600.0,3,6.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+SBICARD,SBI Cards and Payment Services Limited,Financial Services,14.0,7,4.5,2.5,4,7,3,7,2,Hold,3.12,2.5,18.4,731.75,24,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+BAJAJFINSV,Bajaj Finserv Ltd.,Financial Services,14.0,7,4.5,2.5,4,9,3,7,2,No Coverage,,2.5,23.2,2159.6,15,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+UNIONBANK,Union Bank of India,Financial Services,14.0,6,5.5,2.5,3,4,3,6,3,Buy,2.07,2.5,23.5,195.2,15,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+HCLTECH,HCL Technologies Limited,Technology,14.0,7,4.5,2.5,4,10,3,7,2,Hold,2.9,2.5,21.9,1431.5,40,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+NIITLTD,NIIT Limited,Consumer Defensive,14.0,5,6.5,2.5,2,1,3,5,4,Strong Buy,1.0,2.5,26.4,80.0,1,6.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+MOLDTKPAC,Mold-Tek Packaging Limited,Consumer Cyclical,14.0,5,6.5,2.5,2,1,3,5,4,Strong Buy,1.22,2.5,19.4,810.33,9,6.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+GAIL,GAIL (India) Limited,Utilities,14.0,6,5.5,2.5,3,4,3,6,3,Buy,1.71,2.5,21.7,187.48,31,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+GRASIM,Grasim Industries Limited,Basic Materials,14.0,7,4.5,2.5,4,10,3,7,2,No Coverage,,2.5,15.5,3366.45,11,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+NOCIL,NOCIL Limited,Basic Materials,14.0,6,5.5,2.5,3,3,3,6,3,Buy,2.5,2.5,24.0,208.33,6,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+HAVELLS,Havells India Limited,Industrials,14.0,7,4.5,2.5,4,6,3,7,2,No Coverage,,2.5,23.7,1481.89,36,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+PNB,Punjab National Bank,Financial Services,14.0,7,4.5,2.5,4,7,3,7,2,Hold,2.59,2.5,17.5,119.71,17,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+UNIONBANK,Union Bank of India,Financial Services,14.0,6,5.5,2.5,3,4,3,6,3,Buy,2.07,2.5,23.5,195.2,15,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+GRASIM,Grasim Industries Limited,Basic Materials,14.0,7,4.5,2.5,4,10,3,7,2,No Coverage,,2.5,15.5,3366.45,11,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+BEL,Bharat Electronics Limited,Industrials,14.0,7,4.5,2.5,4,6,3,7,2,No Coverage,,2.5,20.3,493.43,28,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+JAGRAN,Jagran Prakashan Limited,Communication Services,14.0,7,4.5,2.5,4,0,3,7,2,No Coverage,,2.5,17.1,79.0,1,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+RAYMOND,Raymond Limited,Industrials,14.0,5,6.5,2.5,2,1,3,5,4,Strong Buy,1.0,2.5,21.0,655.0,1,6.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+WESTLIFE,Westlife Foodworld Limited,Consumer Cyclical,13.5,7,4.0,2.5,4,7,3,7,2,Hold,2.57,2.0,14.8,532.52,21,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+SIS,SIS Limited,Industrials,13.5,5,6.0,2.5,2,2,3,5,4,Strong Buy,1.25,2.0,11.3,440.75,4,6.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+KPITTECH,KPIT Technologies Limited,Technology,13.5,6,5.0,2.5,3,5,3,6,3,Buy,2.1,2.0,11.0,834.0,21,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+CONCOR,Container Corporation of India Limited,Industrials,13.5,7,4.0,2.5,4,6,3,7,2,Hold,2.59,2.0,13.6,566.41,17,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+GRAPHITE,Graphite India Limited,Industrials,13.5,7,4.0,2.5,4,0,3,7,2,No Coverage,,2.0,11.4,820.33,3,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+UBL,United Breweries Limited,Consumer Defensive,13.5,7,4.0,2.5,4,6,3,7,2,Hold,3.11,2.0,13.5,1526.11,19,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+UBL,United Breweries Limited,Consumer Defensive,13.5,7,4.0,2.5,4,6,3,7,2,Hold,3.11,2.0,13.5,1526.11,19,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+STLTECH,Sterlite Technologies Limited,Technology,13.5,5,6.0,2.5,2,2,3,5,4,Strong Buy,1.5,2.0,5.1,422.5,2,6.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+HINDZINC,Hindustan Zinc Limited,Basic Materials,13.5,7,4.0,2.5,4,7,3,7,3,Buy,2.31,1.0,4.8,655.19,16,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+WIPRO,Wipro Limited,Technology,13.5,7,4.0,2.5,4,10,3,7,2,Hold,3.18,2.0,6.6,209.78,40,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+PIDILITIND,Pidilite Industries Limited,Basic Materials,13.5,6,5.0,2.5,3,3,3,6,3,Buy,2.26,2.0,11.2,1618.63,19,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+TORNTPHARM,Torrent Pharmaceuticals Limited,Healthcare,13.5,7,4.0,2.5,4,9,3,7,3,Buy,1.7,1.0,3.3,4564.93,27,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+TATAPOWER,Tata Power Company Limited,Utilities,13.5,7,4.0,2.5,4,10,3,7,3,Buy,2.5,1.0,4.1,428.7,24,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+LUPIN,Lupin Limited,Healthcare,13.5,7,4.0,2.5,4,10,3,7,2,Hold,2.53,2.0,7.2,2451.78,37,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+STARCEMENT,Star Cement Limited,Basic Materials,13.5,6,5.0,2.5,3,3,3,6,2,No Coverage,,3.0,34.9,284.0,12,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+SUMICHEM,Sumitomo Chemical India Limited,Basic Materials,13.5,7,4.0,2.5,4,0,3,7,2,No Coverage,,2.0,12.8,523.57,7,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+TATAPOWER,Tata Power Company Limited,Utilities,13.5,7,4.0,2.5,4,10,3,7,3,Buy,2.5,1.0,4.1,428.7,24,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+MTARTECH,MTAR Technologies Limited,Industrials,13.5,6,5.0,2.5,3,4,3,6,4,Strong Buy,1.0,1.0,3.1,7358.25,4,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+SOLARINDS,Solar Industries India Limited,Basic Materials,13.5,5,6.0,2.5,2,2,3,5,4,Strong Buy,1.25,2.0,9.3,19848.58,12,6.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+JYOTHYLAB,Jyothy Labs Limited,Consumer Defensive,13.5,5,6.0,2.5,2,2,3,5,3,Buy,1.91,3.0,38.4,289.0,11,6.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+KANSAINER,Kansai Nerolac Paints Limited,Basic Materials,13.5,6,5.0,2.5,3,4,3,6,3,Buy,2.35,2.0,14.4,246.24,17,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+BAJAJ-AUTO,Bajaj Auto Limited,Consumer Cyclical,13.5,7,4.0,2.5,4,10,3,7,3,Buy,2.4,1.0,3.5,10744.98,39,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+SHARDACROP,Sharda Cropchem Limited,Basic Materials,13.5,5,6.0,2.5,2,2,3,5,3,Buy,1.8,3.0,42.4,1262.17,6,6.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+SUDARSCHEM,Sudarshan Chemical Industries Limited,Basic Materials,13.5,5,6.0,2.5,2,1,3,5,3,Buy,2.17,3.0,38.2,1202.5,6,6.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+VBL,Varun Beverages Limited,Consumer Defensive,13.5,7,4.0,2.5,4,6,3,7,2,No Coverage,,2.0,15.0,587.23,26,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+INDIACEM,The India Cements Limited,Basic Materials,13.5,7,4.0,2.5,4,7,3,7,2,No Coverage,,2.0,10.2,440.0,4,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+NBCC,NBCC (India) Limited,Industrials,13.5,6,5.0,2.5,3,3,3,6,2,No Coverage,,3.0,34.2,124.5,2,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+INDIACEM,The India Cements Limited,Basic Materials,13.5,7,4.0,2.5,4,7,3,7,2,No Coverage,,2.0,10.2,440.0,4,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+JKLAKSHMI,JK Lakshmi Cement Limited,Basic Materials,13.5,6,5.0,2.5,3,3,3,6,2,No Coverage,,3.0,30.0,842.28,18,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+KANSAINER,Kansai Nerolac Paints Limited,Basic Materials,13.5,6,5.0,2.5,3,4,3,6,3,Buy,2.35,2.0,14.4,246.24,17,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+PIDILITIND,Pidilite Industries Limited,Basic Materials,13.5,6,5.0,2.5,3,3,3,6,3,Buy,2.26,2.0,11.2,1618.63,19,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+SRF,SRF Limited,Industrials,13.5,6,5.0,2.5,3,3,3,6,3,Buy,2.48,2.0,14.7,2990.35,31,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+PRESTIGE,Prestige Estates Projects Limited,Real Estate,13.5,6,5.0,2.5,3,4,3,6,2,No Coverage,,3.0,32.2,1834.57,23,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+IDFCFIRSTB,IDFC First Bank Limited,Financial Services,13.5,7,4.0,2.5,4,10,3,7,2,Hold,2.68,2.0,11.0,75.06,18,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+WHIRLPOOL,Whirlpool of India Limited,Consumer Cyclical,13.5,6,5.0,2.5,3,3,3,6,2,No Coverage,,3.0,30.0,1109.18,11,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+FEDERALBNK,The Federal Bank Limited,Financial Services,13.5,7,4.0,2.5,4,10,3,7,2,No Coverage,,2.0,10.3,315.76,34,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+WHIRLPOOL,Whirlpool of India Limited,Consumer Cyclical,13.5,6,5.0,2.5,3,3,3,6,2,No Coverage,,3.0,30.0,1109.18,11,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+ELECON,Elecon Engineering Company Limited,Industrials,13.5,5,6.0,2.5,2,2,3,5,4,Strong Buy,1.5,2.0,8.0,525.5,2,6.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+SUNPHARMA,Sun Pharmaceutical Industries Limited,Healthcare,13.5,7,4.0,2.5,4,10,3,7,2,No Coverage,,2.0,6.2,1992.47,32,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+FORTIS,Fortis Healthcare Limited,Healthcare,13.5,7,4.0,2.5,4,10,3,7,2,No Coverage,,2.0,11.0,1076.61,18,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+SUNPHARMA,Sun Pharmaceutical Industries Limited,Healthcare,13.5,7,4.0,2.5,4,10,3,7,2,No Coverage,,2.0,6.2,1992.47,32,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+OBEROIRLTY,Oberoi Realty Limited,Real Estate,13.5,6,5.0,2.5,3,4,3,6,3,Buy,1.88,2.0,11.5,1823.62,26,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+IEX,Indian Energy Exchange Limited,Financial Services,13.5,7,4.0,2.5,4,10,3,7,2,No Coverage,,2.0,12.4,141.18,11,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+OBEROIRLTY,Oberoi Realty Limited,Real Estate,13.5,6,5.0,2.5,3,4,3,6,3,Buy,1.88,2.0,11.5,1823.62,26,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+SUNTECK,Sunteck Realty Limited,Real Estate,13.5,6,5.0,2.5,3,3,3,6,2,No Coverage,,3.0,78.8,516.83,12,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+SRF,SRF Limited,Industrials,13.5,6,5.0,2.5,3,3,3,6,3,Buy,2.48,2.0,14.7,2990.35,31,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+IDFCFIRSTB,IDFC First Bank Limited,Financial Services,13.5,7,4.0,2.5,4,10,3,7,2,Hold,2.68,2.0,11.0,75.06,18,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+ROUTE,Route Mobile Limited,Communication Services,13.5,5,6.0,2.5,2,2,3,5,3,Buy,2.0,3.0,40.0,718.75,4,6.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+STAR,Strides Pharma Science Limited,Healthcare,13.5,5,6.0,2.5,2,2,3,5,4,Strong Buy,1.0,2.0,9.6,1264.5,2,6.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+IRCTC,Indian Railway Catering & Tourism Corporation Limited,Consumer Cyclical,13.5,6,5.0,2.5,3,3,3,6,2,No Coverage,,3.0,49.1,787.25,8,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+ONGC,Oil and Natural Gas Corporation Limited,Energy,13.5,7,4.0,2.5,4,10,3,7,3,Buy,2.23,1.0,2.7,307.93,30,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+DIXON,Dixon Technologies (India) Limited,Technology,13.5,6,5.0,2.5,3,5,3,6,3,Buy,2.28,2.0,7.8,11821.27,29,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+PERSISTENT,Persistent Systems Limited,Technology,13.5,6,5.0,2.5,3,5,3,6,3,Buy,2.35,2.0,9.0,5595.76,34,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+HINDPETRO,Hindustan Petroleum Corporation Limited,Energy,13.5,7,4.0,2.5,4,10,3,7,2,Hold,2.81,2.0,6.1,402.52,31,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+PERSISTENT,Persistent Systems Limited,Technology,13.5,6,5.0,2.5,3,5,3,6,3,Buy,2.35,2.0,9.0,5595.76,34,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+DIXON,Dixon Technologies (India) Limited,Technology,13.5,6,5.0,2.5,3,5,3,6,3,Buy,2.28,2.0,7.8,11821.27,29,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+NAUKRI,Info Edge (India) Limited,Communication Services,13.5,5,6.0,2.5,2,1,3,5,3,Buy,1.95,3.0,48.9,1392.2,20,6.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+NAUKRI,Info Edge (India) Limited,Communication Services,13.5,5,6.0,2.5,2,1,3,5,3,Buy,1.95,3.0,48.9,1392.2,20,6.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+NRBBEARING,NRB Bearings Limited,Consumer Cyclical,13.5,5,6.0,2.5,2,1,3,5,4,Strong Buy,1.0,2.0,13.1,406.5,2,6.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+STAR,Strides Pharma Science Limited,Healthcare,13.5,5,6.0,2.5,2,2,3,5,4,Strong Buy,1.0,2.0,9.6,1264.5,2,6.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+THANGAMAYL,Thangamayil Jewellery Limited,Consumer Cyclical,13.5,5,6.0,2.5,2,1,3,5,3,Buy,1.67,3.0,30.3,4925.0,3,6.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+IGARASHI,Igarashi Motors India Limited,Consumer Cyclical,13.0,7,3.5,2.5,4,0,3,7,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+TNPL,Tamil Nadu Newsprint and Papers Limited,Basic Materials,13.0,7,3.5,2.5,4,0,3,7,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+MGL,Mahanagar Gas Limited,Utilities,13.0,5,5.5,2.5,2,1,3,5,3,Buy,2.03,2.5,23.8,1308.69,29,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+METROPOLIS,Metropolis Healthcare Limited,Healthcare,13.0,5,5.5,2.5,2,1,3,5,3,Buy,1.89,2.5,18.6,607.76,18,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+SYNGENE,Syngene International Limited,Healthcare,13.0,6,4.5,2.5,3,4,3,6,2,No Coverage,,2.5,23.8,578.12,8,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+SYNGENE,Syngene International Limited,Healthcare,13.0,6,4.5,2.5,3,4,3,6,2,No Coverage,,2.5,23.8,578.12,8,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+VGUARD,V-Guard Industries Limited,Industrials,13.0,5,5.5,2.5,2,1,3,5,3,Buy,1.53,2.5,24.7,386.65,17,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+SOUTHBANK,The South Indian Bank Limited,Financial Services,13.0,5,5.5,2.5,2,2,3,5,3,Buy,1.67,2.5,17.2,48.0,6,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+PCBL,PCBL Chemical Limited,Basic Materials,13.0,6,4.5,2.5,3,3,3,6,2,No Coverage,,2.5,15.6,339.82,11,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+CLEAN,Clean Science and Technology Limited,Basic Materials,13.0,5,5.5,2.5,2,1,3,5,3,Buy,2.0,2.5,29.6,977.5,14,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+KECL,Kirloskar Electric Company Limited,Industrials,13.0,7,3.5,2.5,4,0,3,7,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+USHAMART,Usha Martin Limited,Basic Materials,13.0,6,4.5,2.5,3,3,3,6,2,No Coverage,,2.5,21.6,564.0,2,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+STEELXIND,Steel Exchange India Limited,Basic Materials,13.0,7,3.5,2.5,4,0,3,7,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+TNPETRO,Tamilnadu Petroproducts Limited,Basic Materials,13.0,7,3.5,2.5,4,0,3,7,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+JMFINANCIL,JM Financial Limited,Financial Services,13.0,6,4.5,2.5,3,4,3,6,2,No Coverage,,2.5,26.1,160.0,1,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+VESUVIUS,Vesuvius India Limited,Industrials,13.0,7,3.5,2.5,4,0,3,7,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+ZUARI,Zuari Agro Chemicals Limited,Basic Materials,13.0,7,3.5,2.5,4,0,3,7,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+UTTAMSUGAR,Uttam Sugar Mills Limited,Consumer Defensive,13.0,7,3.5,2.5,4,0,3,7,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+SATIA,Satia Industries Limited,Basic Materials,13.0,7,3.5,2.5,4,0,3,7,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+VISAKAIND,Visaka Industries Limited,Industrials,13.0,7,3.5,2.5,4,0,3,7,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+KAJARIACER,Kajaria Ceramics Limited,Industrials,13.0,5,5.5,2.5,2,1,3,5,3,Buy,2.27,2.5,19.6,1257.81,26,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+ZEEL,Zee Entertainment Enterprises Limited,Communication Services,13.0,5,5.5,2.5,2,2,3,5,3,Buy,2.46,2.5,23.1,101.15,13,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+ZEEL,Zee Entertainment Enterprises Limited,Communication Services,13.0,5,5.5,2.5,2,2,3,5,3,Buy,2.46,2.5,23.1,101.15,13,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+PVP,PVP Ventures Limited,Industrials,13.0,7,3.5,2.5,4,0,3,7,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+CUB,City Union Bank Limited,Financial Services,13.0,6,4.5,2.5,3,4,3,6,2,No Coverage,,2.5,25.7,314.86,22,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+SCHAEFFLER,Schaeffler India Limited,Consumer Cyclical,13.0,6,4.5,2.5,3,4,3,6,2,No Coverage,,2.5,19.2,4788.71,7,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+TTKPRESTIG,TTK Prestige Limited,Consumer Cyclical,13.0,6,4.5,2.5,3,5,3,6,2,No Coverage,,2.5,16.4,626.88,8,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+PNBGILTS,PNB Gilts Ltd.,Financial Services,13.0,7,3.5,2.5,4,0,3,7,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+ROSSARI,Rossari Biotech Limited,Basic Materials,13.0,6,4.5,2.5,3,3,3,6,2,No Coverage,,2.5,20.7,601.75,4,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+RAIN,Rain Industries Limited,Basic Materials,13.0,7,3.5,2.5,4,0,3,7,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+GODFRYPHLP,Godfrey Phillips India Limited,Consumer Defensive,13.0,7,3.5,2.5,4,0,3,7,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+MAZDOCK,Mazagon Dock Shipbuilders Limited,Industrials,13.0,5,5.5,2.5,2,1,3,5,3,Buy,2.33,2.5,18.4,2851.44,9,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+NETWORK18,Network18 Media & Investments Limited,Communication Services,13.0,7,3.5,2.5,4,0,3,7,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+ASTRAL,Astral Limited,Industrials,13.0,5,5.5,2.5,2,2,3,5,3,Buy,1.75,2.5,20.2,1740.29,28,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+MAZDOCK,Mazagon Dock Shipbuilders Limited,Industrials,13.0,5,5.5,2.5,2,1,3,5,3,Buy,2.33,2.5,18.4,2851.44,9,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+TIRUMALCHM,Thirumalai Chemicals Limited,Basic Materials,13.0,7,3.5,2.5,4,0,3,7,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+WINDMACHIN,Windsor Machines Limited,Industrials,13.0,7,3.5,2.5,4,0,3,7,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+SASKEN,Sasken Technologies Limited,Technology,13.0,7,3.5,2.5,4,0,3,7,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+RESPONIND,Responsive Industries Limited,Basic Materials,13.0,7,3.5,2.5,4,0,3,7,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+SUPREMEIND,The Supreme Industries Limited,Industrials,13.0,5,5.5,2.5,2,2,3,5,3,Buy,2.0,2.5,17.8,4066.25,28,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+IDBI,IDBI Bank Limited,Financial Services,13.0,7,3.5,2.5,4,10,3,7,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+PIIND,PI Industries Limited,Basic Materials,13.0,6,4.5,2.5,3,3,3,6,2,No Coverage,,2.5,16.2,3382.78,23,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+RAIN,Rain Industries Limited,Basic Materials,13.0,7,3.5,2.5,4,0,3,7,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+EASEMYTRIP,Easy Trip Planners Limited,Consumer Cyclical,13.0,7,3.5,2.5,4,0,3,7,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+RPSGVENT,RPSG Ventures Limited,Technology,13.0,7,3.5,2.5,4,0,3,7,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+APLAPOLLO,APL Apollo Tubes Limited,Basic Materials,13.0,5,5.5,2.5,2,2,3,5,3,Buy,1.53,2.5,21.3,2230.05,19,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+APLAPOLLO,APL Apollo Tubes Limited,Basic Materials,13.0,5,5.5,2.5,2,2,3,5,3,Buy,1.53,2.5,21.3,2230.05,19,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+UPL,UPL Limited,Basic Materials,13.0,5,5.5,2.5,2,2,3,5,3,Buy,1.83,2.5,23.8,776.22,18,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+UPL,UPL Limited,Basic Materials,13.0,5,5.5,2.5,2,2,3,5,3,Buy,1.83,2.5,23.8,776.22,18,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+RAJESHEXPO,Rajesh Exports Limited,Consumer Cyclical,13.0,7,3.5,2.5,4,0,3,7,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+RAJESHEXPO,Rajesh Exports Limited,Consumer Cyclical,13.0,7,3.5,2.5,4,0,3,7,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+TFCILTD,Tourism Finance Corporation of India Limited,Financial Services,13.0,7,3.5,2.5,4,0,3,7,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+ATGL,Adani Total Gas Limited,Utilities,13.0,7,3.5,2.5,4,10,3,7,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+PHOENIXLTD,The Phoenix Mills Limited,Real Estate,13.0,5,5.5,2.5,2,2,3,5,3,Buy,1.63,2.5,16.0,2013.2,20,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+PHOENIXLTD,The Phoenix Mills Limited,Real Estate,13.0,5,5.5,2.5,2,2,3,5,3,Buy,1.63,2.5,16.0,2013.2,20,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+RELIGARE,Religare Enterprises Limited,Financial Services,13.0,7,3.5,2.5,4,0,3,7,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+POONAWALLA,Poonawalla Fincorp Limited,Financial Services,13.0,5,5.5,2.5,2,1,3,5,3,Buy,2.38,2.5,22.2,488.88,8,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+METROPOLIS,Metropolis Healthcare Limited,Healthcare,13.0,5,5.5,2.5,2,1,3,5,3,Buy,1.89,2.5,18.6,607.76,18,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+JKPAPER,JK Paper Limited,Basic Materials,13.0,6,4.5,2.5,3,3,3,6,2,No Coverage,,2.5,26.4,480.5,2,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+CHOLAFIN,Cholamandalam Investment and Finance Company Limited,Financial Services,13.0,5,5.5,2.5,2,1,3,5,3,Buy,1.59,2.5,23.3,1851.15,34,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+DBL,Dilip Buildcon Limited,Industrials,13.0,5,5.5,2.5,2,2,3,5,3,Buy,2.33,2.5,20.5,527.17,6,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+ACC,ACC Limited,Basic Materials,13.0,5,5.5,2.5,2,2,3,5,3,Buy,2.42,2.5,29.3,1746.45,31,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+HATHWAY,Hathway Cable and Datacom Limited,Communication Services,13.0,7,3.5,2.5,4,0,3,7,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+SBC,SBC Exports Limited,Industrials,13.0,7,3.5,2.5,4,0,3,7,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+TAJGVK,TAJGVK Hotels & Resorts Limited,Consumer Cyclical,13.0,7,3.5,2.5,4,0,3,7,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+WOCKPHARMA,Wockhardt Limited,Healthcare,13.0,7,3.5,2.5,4,0,3,7,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+RAMCOCEM,The Ramco Cements Limited,Basic Materials,13.0,6,4.5,2.5,3,3,3,6,2,Hold,3.31,2.5,16.4,1027.62,32,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+ITI,ITI Limited,Technology,13.0,7,3.5,2.5,4,0,3,7,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+SFL,Sheela Foam Limited,Consumer Cyclical,13.0,6,4.5,2.5,3,4,3,6,2,Hold,3.0,2.5,20.5,700.0,1,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+CSBBANK,CSB Bank Limited,Financial Services,13.0,5,5.5,2.5,2,2,3,5,3,Buy,1.75,2.5,23.4,440.0,4,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+SPARC,Sun Pharma Advanced Research Company Limited,Healthcare,13.0,7,3.5,2.5,4,0,3,7,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+WALCHANNAG,Walchandnagar Industries Limited,Industrials,13.0,7,3.5,2.5,4,0,3,7,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+ONEPOINT,One Point One Solutions Limited,Industrials,13.0,7,3.5,2.5,4,0,3,7,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+KCP,The KCP Limited,Basic Materials,13.0,7,3.5,2.5,4,0,3,7,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+VENKEYS,Venky's (India) Limited,Consumer Defensive,13.0,7,3.5,2.5,4,0,3,7,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+TATAINVEST,Tata Investment Corporation Limited,Financial Services,13.0,7,3.5,2.5,4,0,3,7,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+SAREGAMA,Saregama India Limited,Communication Services,13.0,5,5.5,2.5,2,1,3,5,3,Buy,1.75,2.5,19.7,489.5,4,5.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+OMAXE,Omaxe Limited,Real Estate,13.0,7,3.5,2.5,4,0,3,7,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+SCHAEFFLER,Schaeffler India Limited,Consumer Cyclical,13.0,6,4.5,2.5,3,4,3,6,2,No Coverage,,2.5,19.2,4788.71,7,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Positive
+RELAXO,Relaxo Footwears Limited,Consumer Cyclical,12.5,5,5.0,2.5,2,1,3,5,2,No Coverage,,3.0,33.5,386.5,10,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+HAPPSTMNDS,Happiest Minds Technologies Limited,Technology,12.5,5,5.0,2.5,2,1,3,5,2,No Coverage,,3.0,42.1,532.88,8,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+GSFC,Gujarat State Fertilizers & Chemicals Limited,Basic Materials,12.5,7,3.0,2.5,4,0,3,7,2,No Coverage,,1.0,3.6,185.0,1,3.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+TITAGARH,Titagarh Rail Systems Limited,Industrials,12.5,5,5.0,2.5,2,2,3,5,2,No Coverage,,3.0,30.2,971.38,8,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+WABAG,VA Tech Wabag Limited,Industrials,12.5,5,5.0,2.5,2,2,3,5,2,No Coverage,,3.0,31.7,1831.5,6,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+ORIENTCEM,Orient Cement Limited,Basic Materials,12.5,5,5.0,2.5,2,1,3,5,2,Hold,3.5,3.0,39.6,188.0,2,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+SUPRIYA,Supriya Lifescience Limited,Healthcare,12.5,5,5.0,2.5,2,2,3,5,2,No Coverage,,3.0,30.0,940.0,2,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+RALLIS,Rallis India Limited,Basic Materials,12.5,6,4.0,2.5,3,3,3,6,2,Hold,2.8,2.0,12.9,281.67,15,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+TIMETECHNO,Time Technoplast Limited,Consumer Cyclical,12.5,5,5.0,2.5,2,1,3,5,2,No Coverage,,3.0,63.3,280.0,1,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+SPANDANA,Spandana Sphoorty Financial Limited,Financial Services,12.5,5,5.0,2.5,2,2,3,5,3,Buy,2.4,2.0,13.4,287.0,5,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+HIMATSEIDE,Himatsingka Seide Limited,Consumer Cyclical,12.5,5,5.0,2.5,2,2,3,5,2,No Coverage,,3.0,135.7,182.0,2,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+CDSL,Central Depository Services (India) Limited,Financial Services,12.5,6,4.0,2.5,3,3,3,6,2,Hold,2.87,2.0,7.0,1287.93,14,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+JKTYRE,JK Tyre & Industries Limited,Consumer Cyclical,12.5,5,5.0,2.5,2,1,3,5,2,No Coverage,,3.0,56.0,560.67,6,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+GRINDWELL,Grindwell Norton Limited,Industrials,12.5,7,3.0,2.5,4,0,3,7,3,Buy,1.67,0.0,-3.2,1872.33,3,3.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+GUJGASLTD,Gujarat Gas Limited,Utilities,12.5,6,4.0,2.5,3,5,3,6,2,Hold,2.68,2.0,12.2,417.11,28,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+TATAELXSI,Tata Elxsi Limited,Technology,12.5,7,3.0,2.5,4,6,3,7,2,Hold,3.47,1.0,3.6,4314.07,15,3.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+TATAELXSI,Tata Elxsi Limited,Technology,12.5,7,3.0,2.5,4,6,3,7,2,Hold,3.47,1.0,3.5,4314.07,15,3.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+EXIDEIND,Exide Industries Limited,Consumer Cyclical,12.5,6,4.0,2.5,3,4,3,6,2,Hold,3.07,2.0,7.9,367.93,14,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+LICHSGFIN,LIC Housing Finance Limited,Financial Services,12.5,6,4.0,2.5,3,4,3,6,2,Hold,2.54,2.0,13.3,613.35,23,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+JBCHEPHARM,J. B. Chemicals & Pharmaceuticals Limited,Healthcare,12.5,5,5.0,2.5,2,2,3,5,3,Buy,1.56,2.0,5.1,2258.22,9,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+LTTS,L&T Technology Services Limited,Technology,12.5,7,3.0,2.5,4,10,3,7,2,Hold,2.97,1.0,1.9,3658.83,29,3.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+ASTERDM,Aster DM Healthcare Limited,Healthcare,12.5,6,4.0,2.5,3,3,3,6,2,No Coverage,,2.0,6.1,795.27,11,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+HUDCO,Housing and Urban Development Corporation Limited,Financial Services,12.5,6,4.0,2.5,3,5,3,6,2,No Coverage,,2.0,12.2,225.0,1,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+NAM-INDIA,Nippon Life India Asset Management Limited,Financial Services,12.5,6,4.0,2.5,3,4,3,6,3,Buy,1.61,1.0,0.0,1086.48,23,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+NATIONALUM,National Aluminium Company Limited,Basic Materials,12.5,7,3.0,2.5,4,10,3,7,2,Hold,3.27,1.0,0.4,402.36,11,3.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+MCX,Multi Commodity Exchange of India Limited,Financial Services,12.5,6,4.0,2.5,3,3,3,6,3,Buy,1.73,1.0,1.4,3471.83,12,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+AUROPHARMA,Aurobindo Pharma Limited,Healthcare,12.5,7,3.0,2.5,4,10,3,7,3,Buy,1.85,0.0,-8.4,1393.63,27,3.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+AUROPHARMA,Aurobindo Pharma Limited,Healthcare,12.5,7,3.0,2.5,4,10,3,7,3,Buy,1.85,0.0,-8.4,1393.63,27,3.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+MANKIND,Mankind Pharma Limited,Healthcare,12.5,7,3.0,2.5,4,6,3,7,3,Buy,2.05,0.0,-1.3,2515.74,19,3.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+DRREDDY,Dr. Reddy's Laboratories Limited,Healthcare,12.5,7,3.0,2.5,4,10,3,7,2,Hold,2.72,1.0,0.4,1331.77,39,3.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+CGPOWER,CG Power and Industrial Solutions Limited,Industrials,12.5,7,3.0,2.5,4,0,3,7,3,Buy,2.29,0.0,-0.4,834.82,17,3.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+VEDL,Vedanta Limited,Basic Materials,12.5,7,3.0,2.5,4,10,3,7,3,Buy,1.86,0.0,-8.2,308.25,4,3.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+VEDL,Vedanta Limited,Basic Materials,12.5,7,3.0,2.5,4,10,3,7,3,Buy,1.86,0.0,-8.2,308.25,4,3.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+VEDL,Vedanta Limited,Basic Materials,12.5,7,3.0,2.5,4,10,3,7,3,Buy,1.86,0.0,-8.2,308.25,4,3.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+POLYCAB,Polycab India Limited,Industrials,12.5,6,4.0,2.5,3,3,3,6,3,Buy,1.9,1.0,0.6,9248.84,31,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+MOTHERSON,Samvardhana Motherson International Limited,Consumer Cyclical,12.5,6,4.0,2.5,3,4,3,6,2,No Coverage,,2.0,5.8,139.91,22,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+BSE,BSE Limited,Financial Services,12.5,6,4.0,2.5,3,5,3,6,3,Buy,2.21,1.0,1.1,4210.5,14,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+BSE,BSE Limited,Financial Services,12.5,6,4.0,2.5,3,5,3,6,3,Buy,2.21,1.0,1.1,4210.5,14,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+ASIANPAINT,Asian Paints Limited,Basic Materials,12.5,7,3.0,2.5,4,10,3,7,2,Hold,2.71,1.0,2.8,2675.32,34,3.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+NESTLEIND,Nestlé India Limited,Consumer Defensive,12.5,7,3.0,2.5,4,7,3,7,2,No Coverage,,1.0,4.2,1472.92,36,3.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+ADANIENT,Adani Enterprises Limited,Energy,12.5,7,3.0,2.5,4,10,3,7,2,No Coverage,,1.0,0.3,2715.0,2,3.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+KIRLOSENG,Kirloskar Oil Engines Limited,Industrials,12.5,5,5.0,2.5,2,2,3,5,3,Buy,1.6,2.0,12.6,1877.8,5,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+VOLTAS,Voltas Limited,Consumer Cyclical,12.5,7,3.0,2.5,4,7,3,7,2,Hold,2.62,1.0,3.9,1343.6,35,3.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+GRANULES,Granules India Limited,Healthcare,12.5,6,4.0,2.5,3,5,3,6,3,Buy,1.71,1.0,1.0,772.14,7,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+DEEPAKFERT,Deepak Fertilisers And Petrochemicals Corporation Limited,Basic Materials,12.5,5,5.0,2.5,2,2,3,5,2,No Coverage,,3.0,37.9,1815.0,2,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+AARTIIND,Aarti Industries Limited,Basic Materials,12.5,5,5.0,2.5,2,2,3,5,3,Buy,2.19,2.0,13.9,526.38,21,5.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+GRANULES,Granules India Limited,Healthcare,12.5,6,4.0,2.5,3,5,3,6,3,Buy,1.71,1.0,1.0,772.14,7,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+MSTCLTD,MSTC Limited,Industrials,12.0,6,3.5,2.5,3,3,3,6,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+DHANUKA,Dhanuka Agritech Limited,Basic Materials,12.0,5,4.5,2.5,2,2,3,5,2,No Coverage,,2.5,23.8,1439.57,7,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+CENTRALBK,Central Bank of India,Financial Services,12.0,6,3.5,2.5,3,5,3,6,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+DCBBANK,DCB Bank Limited,Financial Services,12.0,5,4.5,2.5,2,2,3,5,2,No Coverage,,2.5,29.1,228.24,17,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+ZENSARTECH,Zensar Technologies Limited,Technology,12.0,5,4.5,2.5,2,2,3,5,2,No Coverage,,2.5,25.3,614.83,12,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+GODREJIND,Godrej Industries Limited,Industrials,12.0,6,3.5,2.5,3,4,3,6,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+RPOWER,Reliance Power Limited,Utilities,12.0,6,3.5,2.5,3,5,3,6,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+CANFINHOME,Can Fin Homes Limited,Financial Services,12.0,5,4.5,2.5,2,2,3,5,2,No Coverage,,2.5,28.7,1075.4,15,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+MAHSEAMLES,Maharashtra Seamless Limited,Basic Materials,12.0,6,3.5,2.5,3,3,3,6,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+EIHOTEL,EIH Limited,Consumer Cyclical,12.0,6,3.5,2.5,3,3,3,6,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+MINDACORP,Minda Corporation Limited,Consumer Cyclical,12.0,5,4.5,2.5,2,2,3,5,2,No Coverage,,2.5,29.6,681.71,7,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+KRBL,KRBL Limited,Consumer Defensive,12.0,6,3.5,2.5,3,3,3,6,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+SOLARA,Solara Active Pharma Sciences Limited,Healthcare,12.0,6,3.5,2.5,3,3,3,6,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+360ONE,360 One Wam Limited,Financial Services,12.0,5,4.5,2.5,2,2,3,5,2,No Coverage,,2.5,21.2,1325.18,11,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+FINPIPE,Finolex Industries Limited,Industrials,12.0,5,4.5,2.5,2,2,3,5,2,No Coverage,,2.5,20.1,200.57,14,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+ITC,ITC Limited,Consumer Defensive,12.0,5,4.5,2.5,2,2,3,5,2,No Coverage,,2.5,16.8,359.19,32,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+AEGISLOG,AEGISLOG,Energy,12.0,5,4.5,2.5,2,2,3,5,2,No Coverage,,2.5,18.5,841.17,6,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+ITC,ITC Limited,Consumer Defensive,12.0,5,4.5,2.5,2,2,3,5,2,No Coverage,,2.5,16.8,359.19,32,4.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+GLENMARK,Glenmark Pharmaceuticals Limited,Healthcare,11.5,7,2.0,2.5,4,10,3,7,2,No Coverage,,0.0,-7.1,2227.36,11,2.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+THERMAX,Thermax Limited,Industrials,11.5,7,2.0,2.5,4,7,3,7,2,Hold,3.0,0.0,-1.1,4384.82,22,2.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+SIEMENS,Siemens Limited,Industrials,11.5,7,2.0,2.5,4,0,3,7,2,No Coverage,,0.0,-6.5,3389.0,25,2.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+VISHNU,Vishnu Chemicals Limited,Basic Materials,11.5,5,4.0,2.5,2,1,3,5,2,No Coverage,,2.0,6.5,650.0,1,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+SIEMENS,Siemens Limited,Industrials,11.5,7,2.0,2.5,4,0,3,7,2,No Coverage,,0.0,-6.5,3389.0,25,2.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+SHILPAMED,Shilpa Medicare Limited,Healthcare,11.5,5,4.0,2.5,2,2,3,5,2,No Coverage,,2.0,8.0,517.0,2,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+INDUSTOWER,Indus Towers Limited,Communication Services,11.5,5,4.0,2.5,2,2,3,5,2,Hold,2.56,2.0,5.5,452.8,25,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+YESBANK,Yes Bank Limited,Financial Services,11.5,7,2.0,2.5,4,10,3,7,2,No Coverage,,0.0,-11.5,19.32,11,2.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+POLYMED,Poly Medicure Limited,Healthcare,11.5,5,4.0,2.5,2,1,3,5,2,No Coverage,,2.0,9.3,1619.67,6,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+GLENMARK,Glenmark Pharmaceuticals Limited,Healthcare,11.5,7,2.0,2.5,4,10,3,7,2,No Coverage,,0.0,-7.1,2227.36,11,2.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+YESBANK,Yes Bank Limited,Financial Services,11.5,7,2.0,2.5,4,10,3,7,2,No Coverage,,0.0,-11.5,19.32,11,2.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+INDUSINDBK,IndusInd Bank Limited,Financial Services,11.5,7,2.0,2.5,4,10,3,7,2,Hold,3.19,0.0,-1.4,877.33,36,2.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+VIPIND,V.I.P. Industries Limited,Consumer Cyclical,11.5,7,2.0,2.5,4,0,3,7,1,Sell,3.86,1.0,1.8,301.17,6,2.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+LAURUSLABS,Laurus Labs Limited,Healthcare,11.5,7,2.0,2.5,4,10,3,7,2,No Coverage,,0.0,-24.4,1027.29,14,2.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+BEML,BEML Limited,Industrials,11.5,5,4.0,2.5,2,1,3,5,2,No Coverage,,2.0,11.4,2042.67,3,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+TORNTPOWER,Torrent Power Limited,Utilities,11.5,7,2.0,2.5,4,9,3,7,2,Hold,2.9,0.0,-3.1,1460.5,10,2.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+ZYDUSLIFE,Zydus Lifesciences Limited,Healthcare,11.5,7,2.0,2.5,4,10,3,7,2,Hold,2.72,0.0,-6.1,994.03,29,2.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+ZYDUSLIFE,Zydus Lifesciences Limited,Healthcare,11.5,7,2.0,2.5,4,10,3,7,2,Hold,2.72,0.0,-6.1,994.03,29,2.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+OFSS,Oracle Financial Services Software Limited,Technology,11.5,5,4.0,2.5,2,1,3,5,2,No Coverage,,2.0,9.3,10695.0,2,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+OFSS,Oracle Financial Services Software Limited,Technology,11.5,5,4.0,2.5,2,1,3,5,2,No Coverage,,2.0,9.3,10695.0,2,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+LUXIND,Lux Industries Limited,Consumer Cyclical,11.5,7,2.0,2.5,4,0,3,7,2,No Coverage,,0.0,-15.1,1159.0,1,2.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+GABRIEL,Gabriel India Limited,Consumer Cyclical,11.5,5,4.0,2.5,2,1,3,5,2,No Coverage,,2.0,8.4,1192.4,5,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+LXCHEM,Laxmi Organic Industries Limited,Basic Materials,11.5,7,2.0,2.5,4,0,3,7,2,No Coverage,,0.0,-1.3,155.67,3,2.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+MANAPPURAM,Manappuram Finance Limited,Financial Services,11.5,6,3.0,2.5,3,5,3,6,3,Buy,2.21,0.0,-1.1,318.0,14,3.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+HFCL,HFCL Limited,Technology,11.5,5,4.0,2.5,2,2,3,5,2,No Coverage,,2.0,6.2,150.0,1,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+COALINDIA,Coal India Limited,Energy,11.5,7,2.0,2.5,4,10,3,7,2,Hold,2.58,0.0,-1.4,450.81,26,2.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+MRPL,Mangalore Refinery and Petrochemicals Limited,Energy,11.5,7,2.0,2.5,4,9,3,7,2,No Coverage,,0.0,-4.1,143.0,1,2.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+COALINDIA,Coal India Limited,Energy,11.5,7,2.0,2.5,4,10,3,7,2,Hold,2.58,0.0,-1.4,450.81,26,2.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+DMART,Avenue Supermarts Limited,Consumer Defensive,11.5,5,4.0,2.5,2,1,3,5,2,Hold,2.97,2.0,10.4,4557.77,31,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+WELENT,Welspun Enterprises Limited,Industrials,11.5,6,3.0,2.5,3,3,3,6,2,No Coverage,,1.0,4.8,509.0,1,3.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+HINDALCO,Hindalco Industries Limited,Basic Materials,11.5,7,2.0,2.5,4,10,3,7,2,Hold,2.54,0.0,-7.0,1005.27,26,2.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+DIVISLAB,Divi's Laboratories Limited,Healthcare,11.5,7,2.0,2.5,4,8,3,7,2,No Coverage,,0.0,-0.3,6876.7,30,2.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+SJVN,SJVN Limited,Utilities,11.5,6,3.0,2.5,3,3,3,6,1,Sell,3.67,2.0,7.2,79.0,3,3.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+KEI,KEI Industries Limited,Industrials,11.5,5,4.0,2.5,2,1,3,5,3,Buy,2.13,1.0,1.5,5185.3,23,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+MANAPPURAM,Manappuram Finance Limited,Financial Services,11.5,6,3.0,2.5,3,5,3,6,3,Buy,2.21,0.0,-1.1,318.0,14,3.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+WELCORP,Welspun Corp Limited,Basic Materials,11.5,5,4.0,2.5,2,2,3,5,4,Strong Buy,1.0,0.0,-5.5,1247.0,6,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+SURYAROSNI,Surya Roshni Limited,Basic Materials,11.5,5,4.0,2.5,2,2,3,5,2,No Coverage,,2.0,11.2,268.0,1,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+IDEA,Vodafone Idea Limited,Communication Services,11.5,7,2.0,2.5,4,10,3,7,2,Hold,3.33,0.0,-18.4,11.08,21,2.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+NAVINFLUOR,Navin Fluorine International Limited,Basic Materials,11.5,5,4.0,2.5,2,1,3,5,3,Buy,2.04,1.0,4.1,7342.24,29,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+CUMMINSIND,Cummins India Limited,Industrials,11.5,6,3.0,2.5,3,4,3,6,3,Buy,2.35,0.0,-11.5,4760.09,23,3.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+GPIL,Godawari Power & Ispat Limited,Basic Materials,11.5,7,2.0,2.5,4,0,3,7,2,No Coverage,,0.0,-11.8,275.0,1,2.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+ZENTEC,Zen Technologies Limited,Industrials,11.5,5,4.0,2.5,2,1,3,5,3,Buy,1.83,1.0,3.4,1643.33,6,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+KEI,KEI Industries Limited,Industrials,11.5,5,4.0,2.5,2,1,3,5,3,Buy,2.13,1.0,1.5,5185.3,23,4.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+SHREEPUSHK,Shree Pushkar Chemicals & Fertilisers Limited,Basic Materials,11.0,5,3.5,2.5,2,1,3,5,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+TBZ,Tribhovandas Bhimji Zaveri Limited,Consumer Cyclical,11.0,5,3.5,2.5,2,2,3,5,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+KELLTONTEC,Kellton Tech Solutions Limited,Technology,11.0,5,3.5,2.5,2,2,3,5,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+PATELENG,Patel Engineering Limited,Industrials,11.0,5,3.5,2.5,2,2,3,5,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+DELTACORP,Delta Corp Limited,Consumer Cyclical,11.0,5,3.5,2.5,2,1,3,5,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+EVEREADY,Eveready Industries India Limited,Industrials,11.0,5,3.5,2.5,2,1,3,5,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+KALAMANDIR,Sai Silks (Kalamandir) Limited,Consumer Cyclical,11.0,5,3.5,2.5,2,2,3,5,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+SUBEXLTD,Subex Limited,Technology,11.0,5,3.5,2.5,2,2,3,5,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+KIRIINDUS,Kiri Industries Limited,Basic Materials,11.0,5,3.5,2.5,2,2,3,5,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+GREAVESCOT,Greaves Cotton Limited,Industrials,11.0,5,3.5,2.5,2,1,3,5,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+RCF,Rashtriya Chemicals and Fertilizers Limited,Basic Materials,11.0,5,3.5,2.5,2,1,3,5,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+INDIAGLYCO,India Glycols Limited,Basic Materials,11.0,5,3.5,2.5,2,1,3,5,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+PTC,PTC India Limited,Utilities,11.0,5,3.5,2.5,2,2,3,5,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+SARDAEN,Sarda Energy & Minerals Limited,Basic Materials,11.0,5,3.5,2.5,2,2,3,5,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+GNFC,Gujarat Narmada Valley Fertilizers & Chemicals Limited,Basic Materials,11.0,5,3.5,2.5,2,2,3,5,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+EDELWEISS,Edelweiss Financial Services Limited,Financial Services,11.0,5,3.5,2.5,2,1,3,5,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+RENUKA,Shree Renuka Sugars Limited,Consumer Defensive,11.0,5,3.5,2.5,2,1,3,5,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+VAIBHAVGBL,Vaibhav Global Limited,Consumer Cyclical,11.0,5,3.5,2.5,2,2,3,5,2,No Coverage,,1.5,,,0,3.5,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+NAVNETEDUL,Navneet Education Limited,Communication Services,10.5,6,2.0,2.5,3,5,3,6,2,No Coverage,,0.0,-15.8,119.0,1,2.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+TRITURBINE,Triveni Turbine Limited,Industrials,10.5,6,2.0,2.5,3,3,3,6,2,No Coverage,,0.0,-2.8,631.5,8,2.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+DEEPAKNTR,Deepak Nitrite Limited,Basic Materials,10.5,6,2.0,2.5,3,3,3,6,2,Hold,2.74,0.0,-3.8,1775.83,18,2.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+DEEPAKNTR,Deepak Nitrite Limited,Basic Materials,10.5,6,2.0,2.5,3,3,3,6,2,Hold,2.74,0.0,-3.8,1775.83,18,2.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+NATCOPHARM,NATCO Pharma Limited,Healthcare,10.5,6,2.0,2.5,3,5,3,6,2,No Coverage,,0.0,-19.1,938.1,10,2.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+BAJAJCON,Bajaj Consumer Care Limited,Consumer Defensive,10.5,6,2.0,2.5,3,3,3,6,2,No Coverage,,0.0,-6.4,511.57,7,2.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+NAZARA,Nazara Technologies Limited,Communication Services,10.5,6,2.0,2.5,3,3,3,6,2,Hold,2.6,0.0,-1.1,289.2,10,2.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+LALPATHLAB,Dr. Lal PathLabs Limited,Healthcare,10.5,5,3.0,2.5,2,2,3,5,2,No Coverage,,1.0,0.6,1686.0,26,3.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+NLCINDIA,NLC India Limited,Utilities,10.5,6,2.0,2.5,3,5,3,6,2,No Coverage,,0.0,-9.1,324.0,1,2.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+LALPATHLAB,Dr. Lal PathLabs Limited,Healthcare,10.5,5,3.0,2.5,2,2,3,5,2,No Coverage,,1.0,0.6,1686.0,26,3.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+COLPAL,Colgate-Palmolive (India) Limited,Consumer Defensive,10.5,6,2.0,2.5,3,3,3,6,2,No Coverage,,0.0,-1.6,2153.85,27,2.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+FINCABLES,Finolex Cables Limited,Industrials,10.5,5,3.0,2.5,2,2,3,5,2,No Coverage,,1.0,2.2,1059.5,6,3.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+VTL,Vardhman Textiles Limited,Consumer Cyclical,10.5,5,3.0,2.5,2,1,3,5,3,Buy,2.33,0.0,-5.6,578.67,6,3.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+MARKSANS,Marksans Pharma Limited,Healthcare,10.5,5,3.0,2.5,2,2,3,5,2,No Coverage,,1.0,1.6,225.0,3,3.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+IRCON,Ircon International Limited,Industrials,10.5,5,3.0,2.5,2,2,3,5,2,No Coverage,,1.0,4.1,146.0,4,3.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+COLPAL,Colgate-Palmolive (India) Limited,Consumer Defensive,10.5,6,2.0,2.5,3,3,3,6,2,No Coverage,,0.0,-1.6,2153.85,27,2.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Neutral
+SCHNEIDER,Schneider Electric Infrastructure Limited,Industrials,9.5,5,2.0,2.5,2,2,3,5,2,No Coverage,,0.0,-22.6,985.0,2,2.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Negative
+PSPPROJECT,PSP Projects Limited,Industrials,9.5,5,2.0,2.5,2,1,3,5,2,Hold,3.22,0.0,-0.7,766.67,9,2.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Negative
+RAILTEL,RailTel Corporation of India Limited,Communication Services,9.5,5,2.0,2.5,2,2,3,5,2,No Coverage,,0.0,-17.4,262.5,2,2.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Negative
+NMDC,NMDC Limited,Basic Materials,9.5,5,2.0,2.5,2,1,3,5,2,No Coverage,,0.0,-7.3,81.39,18,2.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Negative
+NMDC,NMDC Limited,Basic Materials,9.5,5,2.0,2.5,2,1,3,5,2,No Coverage,,0.0,-7.3,81.39,18,2.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Negative
+COCHINSHIP,Cochin Shipyard Limited,Industrials,9.5,6,1.0,2.5,3,4,3,6,1,Sell,4.0,0.0,-15.0,1261.5,2,1.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Negative
+PRAJIND,Praj Industries Limited,Industrials,9.5,5,2.0,2.5,2,2,3,5,2,No Coverage,,0.0,-6.8,360.86,7,2.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Negative
+AVANTIFEED,Avanti Feeds Limited,Consumer Defensive,9.5,5,2.0,2.5,2,2,3,5,2,No Coverage,,0.0,-12.7,1096.0,2,2.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Negative
+CARBORUNIV,Carborundum Universal Limited,Industrials,8.5,5,1.0,2.5,2,2,3,5,1,Sell,4.0,0.0,-11.1,954.43,7,1.0,1.5,N/A,1,N/A,2.5,Simplified implementation - expand with social APIs,Negative

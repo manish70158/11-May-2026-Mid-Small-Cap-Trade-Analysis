@@ -1,0 +1,35 @@
+Symbol,Name,Status,May17_Rank,May17_Score,May17_Upside,May20_Rank,May20_Score,May20_Upside,Score_Change,Upside_Change,Sector
+GESHIP,The Great Eastern Shipping Company Limit,✅ CONSISTENT,1.0,75.0,32.1,1.0,74.5,40.9,-0.5,8.799999999999997,Industrials
+HINDZINC,Hindustan Zinc Limited,✅ CONSISTENT,5.0,70.5,28.1,3.0,66.0,32.6,-4.5,4.5,Basic Materials
+BAJAJ-AUTO,Bajaj Auto Limited,✅ CONSISTENT,10.0,65.5,20.6,4.0,65.5,27.4,0.0,6.799999999999997,Consumer Cyclical
+LUPIN,Lupin Limited,✅ CONSISTENT,7.0,68.5,23.7,8.0,63.0,20.0,-5.5,-3.6999999999999993,Healthcare
+TDPOWERSYS,TD Power Systems Limited,🆕 NEW ENTRY,,,,2.0,68.5,51.4,,,Industrials
+MTARTECH,MTAR Technologies Limited,🆕 NEW ENTRY,,,,5.0,64.5,69.1,,,Industrials
+OIL,Oil India Limited,🆕 NEW ENTRY,,,,6.0,63.5,26.2,,,Energy
+STAR,Strides Pharma Science Limited,🆕 NEW ENTRY,,,,7.0,63.0,38.1,,,Healthcare
+BSE,BSE Limited,🆕 NEW ENTRY,,,,9.0,62.5,51.7,,,Financial Services
+MCX,Multi Commodity Exchange of India Limite,🆕 NEW ENTRY,,,,10.0,62.5,48.0,,,Financial Services
+TATACONSUM,Tata Consumer Products Limited,🆕 NEW ENTRY,,,,11.0,62.0,24.3,,,Consumer Defensive
+CHAMBLFERT,Chambal Fertilisers and Chemicals Limite,🆕 NEW ENTRY,,,,12.0,61.0,20.0,,,Basic Materials
+TNPL,Tamil Nadu Newsprint and Papers Limited,🆕 NEW ENTRY,,,,13.0,61.0,28.0,,,Basic Materials
+BAJAJCON,Bajaj Consumer Care Limited,🆕 NEW ENTRY,,,,14.0,60.5,48.2,,,Consumer Defensive
+INDUSTOWER,Indus Towers Limited,🆕 NEW ENTRY,,,,15.0,60.0,15.0,,,Communication Services
+FINCABLES,Finolex Cables Limited,🆕 NEW ENTRY,,,,16.0,59.5,29.9,,,Industrials
+ADANIPORTS,Adani Ports and Special Economic Zone Li,🆕 NEW ENTRY,,,,17.0,59.0,32.1,,,Industrials
+GODFRYPHLP,Godfrey Phillips India Limited,🆕 NEW ENTRY,,,,18.0,59.0,32.2,,,Consumer Defensive
+MAHABANK,Bank of Maharashtra,❌ DROPPED,2.0,74.0,34.2,,,,,,Financial Services
+NORTHARC,Northern Arc Capital Limited,❌ DROPPED,3.0,73.0,34.7,,,,,,Financial Services
+M&MFIN,Mahindra & Mahindra Financial Services L,❌ DROPPED,4.0,71.0,29.3,,,,,,Financial Services
+JSWSTEEL,JSW Steel Limited,❌ DROPPED,6.0,70.0,28.5,,,,,,Basic Materials
+ENGINERSIN,Engineers India Limited,❌ DROPPED,8.0,67.0,19.0,,,,,,Industrials
+MASFIN,MAS Financial Services Limited,❌ DROPPED,9.0,66.0,21.9,,,,,,Financial Services
+GLAND,Gland Pharma Limited,❌ DROPPED,11.0,65.0,20.6,,,,,,Healthcare
+HINDCOPPER,Hindustan Copper Limited,❌ DROPPED,12.0,65.0,24.5,,,,,,Basic Materials
+AEROFLEX,Aeroflex Industries Limited,❌ DROPPED,13.0,65.0,22.6,,,,,,Industrials
+HEROMOTOCO,Hero MotoCorp Limited,❌ DROPPED,14.0,64.5,20.0,,,,,,Consumer Cyclical
+NESTLEIND,Nestlé India Limited,❌ DROPPED,15.0,64.5,21.2,,,,,,Consumer Defensive
+FCL,Fineotex Chemical Limited,❌ DROPPED,16.0,64.5,24.8,,,,,,Basic Materials
+OFSS,Oracle Financial Services Software Limit,❌ DROPPED,17.0,64.0,20.3,,,,,,Technology
+DATAPATTNS,Data Patterns (India) Limited,❌ DROPPED,18.0,63.5,24.3,,,,,,Industrials
+CUPID,Cupid Limited,❌ DROPPED,19.0,63.5,19.7,,,,,,Consumer Defensive
+GHCLTEXTIL,GHCL Textiles Limited,❌ DROPPED,20.0,63.0,20.2,,,,,,Consumer Cyclical
